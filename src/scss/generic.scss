@@ -1,0 +1,48 @@
+@import 'color';
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+p, li {
+	line-height: 1.5
+}
+
+a {
+	color: $c-blue-alpha;
+}
+
+a:hover,
+a:focus {
+	text-decoration: none;
+}
+
+a:focus, button:focus, input:focus, select:focus, textarea:focus {
+  outline: 2px solid $c-blue-alpha;
+  outline-offset: 2px;
+}
+
+table[aria-hidden='true'] {
+  display: none;
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%); 
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;           
+}
+
+.hide {
+  display: none;
+}

@@ -1,2 +1,37 @@
-# dashboard-a11y
-Accessibility dashboard
+# Accessibility dashboard
+
+Launch the W3C and aXe tool on a list of URLs ontained in a JSON file.
+
+What's aXe and W3C ?
+* aXe : automated tool that can find accessibility defects of Web documents. 
+* W3C : automated tool that helps check the validity of Web documents.
+
+Warning: even the best automated accessibility testing tools will only test one-third of all accessibility tests. In other words, theses tools are not magic. They are useful but they have to be completed by a human evaluation.
+
+**Demo:** [http://cleverage.github.io/dashboard-a11y](http://cleverage.github.io/dashboard-a11y)
+
+## How it works ?
+
+1. Get all the URLs from the source file json (src/data.json)
+2. Launch the W3C and aXe tools on these URLs
+3. Create a result folder by day, by site and by tool (report/)
+5. Store all this information in a unique JSON file (report/assets/dataBuild.json)
+6. From this JSON file create sexy data tables
+7. From this data tables create sexy charts
+
+## Tasks
+
+* tools : running W3C and aXe tools
+* css : compile Sass to CSS, concatenation and minify CSS
+* js : concatenation and minify JS
+* json : build data json
+* dashboard : running dashboard with sexy data tables and sexy charts
+
+## License
+
+MIT © [Clever Age](https://github.com/cleverage/)
+
+<hr />
+
+Dashboard made with ❤ by Clever Age.
+

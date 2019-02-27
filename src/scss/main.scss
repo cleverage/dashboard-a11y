@@ -1,0 +1,39 @@
+@import 'color';
+
+body {
+	font-size: 1em;
+	font-family: 'Montserrat', serif;
+}
+
+.wrapper {
+	margin: 0 auto;
+	max-width: 80vw
+}
+
+.footer {
+  margin-top: 4em;
+  border-top: 2px solid $c-black;
+
+  img {
+  	display: block;
+  }
+}
+
+.logo {
+	display: block;
+	margin: 2em auto;
+}
+
+.intro {
+	max-width: 50em;
+}
+
+.results {
+	margin: 3em 0;
+}
+
+.chart {
+	margin-top: 2em;
+  width: 50em;
+  height: 30em;
+}

@@ -1,0 +1,280 @@
+{
+  "url": "https://www.swissotel.com/leclub/join-loyalty-program/",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 7,
+      "lastColumn": 111,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "Consider avoiding viewport values that prevent users from resizing documents.",
+      "extract": "f-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "info",
+      "lastLine": 46,
+      "lastColumn": 30,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": ">\n        <header role=\"banner\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 22
+    },
+    {
+      "type": "error",
+      "lastLine": 87,
+      "lastColumn": 256,
+      "firstColumn": 29,
+      "message": "Duplicate ID “ctl00_BrandTopNavigation_lnkMyProfile”.",
+      "extract": "          <a id=\"ctl00_BrandTopNavigation_lnkMyProfile\" class=\"LoginLogoutLink imgMyProfileLoggedInMobileWrapper\" href=\"https://swissotel.hotelandbook.com/authentication/sso.action?gotoUrl=https://swissotel.hotelandbook.com/account/#/en\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 228
+    },
+    {
+      "type": "info",
+      "lastLine": 68,
+      "lastColumn": 161,
+      "firstColumn": 29,
+      "subType": "warning",
+      "message": "The first occurrence of ID “ctl00_BrandTopNavigation_lnkMyProfile” was here.",
+      "extract": "          <a id=\"ctl00_BrandTopNavigation_lnkMyProfile\" class=\"LoginLogoutLink imgMyProfileNonLoggedInMobileWrapper\" href=\"javascript:void(0)\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 133
+    },
+    {
+      "type": "error",
+      "lastLine": 90,
+      "firstLine": 88,
+      "lastColumn": 58,
+      "firstColumn": 33,
+      "message": "Attribute “runat” not allowed on element “svg” at this point.",
+      "extract": "          <svg version=\"1.1\" id=\"imgMyProfileLoggedInMobile\" class=\"imgMyProfileLoggedInMobile\" runat=\"server\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\n                                     width=\"23px\" height=\"23px\" viewBox=\"0 0 283.46 283.46\" style=\"enable-background: new 0 0 283.46 283.46;\"\n                                     xml:space=\"preserve\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 395
+    },
+    {
+      "type": "error",
+      "lastLine": 210,
+      "lastColumn": 189,
+      "firstColumn": 37,
+      "message": "Bad value “tel:1 506 388 6948 ” for attribute “href” on element “a”: Illegal character in scheme data: space is not allowed.",
+      "extract": "          <a href=\"tel:1 506 388 6948 \" id=\"ctl00_BrandTopNavigation_hypTelephoneNumber\" class=\"customerCare geoTargettingPhoneNumber\" title=\"tel:1 506 388 6948 \">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 153
+    },
+    {
+      "type": "info",
+      "lastLine": 249,
+      "lastColumn": 84,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "          <nav class=\"navbar navbar-default desktop-view fixed\" role=\"navigation\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 381,
+      "firstLine": 379,
+      "lastColumn": 66,
+      "firstColumn": 41,
+      "message": "Attribute “runat” not allowed on element “svg” at this point.",
+      "extract": "          <svg version=\"1.1\" id=\"imgLoggedInUserTick\" class=\"imgMyProfileLoggedInMobile imgMyProfileLoggedInMobileWrapper\" runat=\"server\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\n                                             width=\"23px\" height=\"23px\" viewBox=\"0 0 283.46 283.46\" style=\"enable-background: new 0 0 283.46 283.46;\"\n                                             xml:space=\"preserve\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 438
+    },
+    {
+      "type": "error",
+      "lastLine": 403,
+      "lastColumn": 65,
+      "firstColumn": 41,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "          <div class=\"leftProfile\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 25
+    },
+    {
+      "type": "error",
+      "lastLine": 408,
+      "lastColumn": 129,
+      "firstColumn": 41,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "          <div id=\"ctl00_BrandTopNavigation_urProfileWidget_divMyProfileIcon\" class=\"rightProfile\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 409,
+      "lastColumn": 105,
+      "firstColumn": 45,
+      "message": "The element “a” must not appear as a descendant of the “button” element.",
+      "extract": "          <a class=\"loginIconHoverLink imgMyProfileNonLoggedInWrapper\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 428,
+      "lastColumn": 226,
+      "firstColumn": 45,
+      "message": "The element “a” must not appear as a descendant of the “button” element.",
+      "extract": "          <a class=\"loginIconHoverLink imgMyProfileLoggedInWrapper\" href=\"https://swissotel.hotelandbook.com/authentication/sso.action?gotoUrl=https://swissotel.hotelandbook.com/account/#/en\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 182
+    },
+    {
+      "type": "error",
+      "lastLine": 450,
+      "lastColumn": 59,
+      "firstColumn": 41,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "          <div class=\"clear\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 19
+    },
+    {
+      "type": "error",
+      "lastLine": 471,
+      "lastColumn": 227,
+      "firstColumn": 49,
+      "message": "Duplicate ID “ctl00_FPCLogin1_btnAccorLogin”.",
+      "extract": "          <button id=\"ctl00_FPCLogin1_btnAccorLogin\" class=\"logInToProfile fpcLogIn btn accLogin javascriptvoidfix detector\" onclick=\"SetTrackingForFirstAuthentificationFlayout('Log in');\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 179
+    },
+    {
+      "type": "info",
+      "lastLine": 130,
+      "lastColumn": 149,
+      "firstColumn": 41,
+      "subType": "warning",
+      "message": "The first occurrence of ID “ctl00_FPCLogin1_btnAccorLogin” was here.",
+      "extract": "          <a id=\"ctl00_FPCLogin1_btnAccorLogin\" class=\"logInToProfile fpcLogIn btn accLogin\" href=\"javascript:void(0)\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 475,
+      "lastColumn": 219,
+      "firstColumn": 49,
+      "message": "Duplicate ID “ctl00_FPCLogin1_btnBecomeMember”.",
+      "extract": "          <button id=\"ctl00_FPCLogin1_btnBecomeMember\" class=\"logInToProfile fpcLogIn btn gold hypEnroll\" onclick=\"SetTrackingForFirstAuthentificationFlayout('Create an account');\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 171
+    },
+    {
+      "type": "info",
+      "lastLine": 135,
+      "lastColumn": 145,
+      "firstColumn": 41,
+      "subType": "warning",
+      "message": "The first occurrence of ID “ctl00_FPCLogin1_btnBecomeMember” was here.",
+      "extract": "          <a id=\"ctl00_FPCLogin1_btnBecomeMember\" class=\"logInToProfile gold hypEnroll\" href=\"javascript:void(0);\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "info",
+      "lastLine": 495,
+      "lastColumn": 59,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "          <main class=\"containerWrapperMain\" role=\"main\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 47
+    },
+    {
+      "type": "info",
+      "lastLine": 653,
+      "lastColumn": 54,
+      "firstColumn": 17,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "          <section class=\"row conditionWrapper\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 38
+    },
+    {
+      "type": "info",
+      "lastLine": 660,
+      "lastColumn": 47,
+      "firstColumn": 17,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "          <section class=\"joinUsWrapper\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "info",
+      "lastLine": 665,
+      "lastColumn": 51,
+      "firstColumn": 17,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "          <section class=\"brandPictoWrapper\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 35
+    },
+    {
+      "type": "error",
+      "lastLine": 676,
+      "lastColumn": 77,
+      "firstColumn": 33,
+      "message": "Bad value “100%” for attribute “width” on element “video”: Expected a digit but saw “%” instead.",
+      "extract": "          <video id=\"Modalvideo\" width=\"100%\" controls>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 45
+    },
+    {
+      "type": "info",
+      "lastLine": 686,
+      "lastColumn": 64,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “contentinfo” role is unnecessary for element “footer”.",
+      "extract": ">\n        <footer role=\"contentinfo\" class=\"containerWrapperMain\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 924,
+      "lastColumn": 176,
+      "firstColumn": 37,
+      "message": "Bad value “tel:1 506 388 6948 ” for attribute “href” on element “a”: Illegal character in scheme data: space is not allowed.",
+      "extract": "          <a href=\"tel:1 506 388 6948 \" id=\"ctl00_ucFooter_hypTelephoneNumber\" class=\"geoTargettingPhoneNumber\" title=\"+1 506 388 6948 (Toll Number)\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 140
+    },
+    {
+      "type": "info",
+      "lastLine": 1049,
+      "lastColumn": 110,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "          <script type=\"text/javascript\" src=\"https://www.swissotel.com/FRHI/inc/minifyjs/SsoImp_v3.min.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 671,
+      "lastColumn": 132,
+      "firstColumn": 17,
+      "message": "The “aria-labelledby” attribute must point to an element in the same document.",
+      "extract": "          <div class=\"modal modal-fullscreen fade\" id=\"videoModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 116
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://www.accorhotels.com/gb/hotel-0753-novotel-new-york-times-square/index.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 386,
+      "lastColumn": 1221,
+      "firstColumn": 934,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gjprx_6000500351006.js\" data-dtconfig=\"rid=RID_65859567|rpid=-1295061871|domain=accorhotels.com|lastModification=1540833399522|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Accor Groupe|agentUri=/dtagent_ICA23gjprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 288
+    },
+    {
+      "type": "error",
+      "lastLine": 386,
+      "lastColumn": 7313,
+      "firstColumn": 7260,
+      "message": "Stray start tag “script”.",
+      "extract": "\"> </html><script src=\"/scripts-v1807/set/fact-sheet/jquery.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 386,
+      "lastColumn": 7313,
+      "firstColumn": 7260,
+      "subType": "fatal",
+      "message": "Cannot recover after last error. Any further errors will be ignored.",
+      "extract": "\"> </html><script src=\"/scripts-v1807/set/fact-sheet/jquery.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    }
+  ]
+}

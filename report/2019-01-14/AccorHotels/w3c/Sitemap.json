@@ -1,0 +1,673 @@
+{
+  "url": "https://www.accorhotels.com/fr/sitemap/index.shtml",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 121,
+      "firstColumn": 1,
+      "message": "Almost standards mode doctype. Expected “<!DOCTYPE html>”.",
+      "extract": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"> <html",
+      "hiliteStart": 0,
+      "hiliteLength": 121
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1193,
+      "firstColumn": 905,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gjprx_6000500351006.js\" data-dtconfig=\"rid=RID_379754733|rpid=-1063424453|domain=accorhotels.com|lastModification=1540833399522|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Accor Groupe|agentUri=/dtagent_ICA23gjprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 289
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1282,
+      "firstColumn": 1204,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1807/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1353,
+      "firstColumn": 1293,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1807/popup.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1428,
+      "firstColumn": 1364,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1807/siteZones.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 65
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 3369,
+      "firstColumn": 3248,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 4473,
+      "firstColumn": 4279,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 5428,
+      "firstColumn": 5206,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-our_brands\" aria-labelledby=\"link-control-link-navigation__panel-our_brands\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-our_brands\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 223
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 6134,
+      "firstColumn": 5943,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/raffles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/raffles-logo.png 2x\" alt=\"Raffles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 6466,
+      "firstColumn": 6263,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/banyan-tree-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/banyan-tree-logo.png 2x\" alt=\"Banyan Tree\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 6836,
+      "firstColumn": 6624,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-legend-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-legend-logo.png 2x\" alt=\"Sofitel Legend\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 7162,
+      "firstColumn": 6968,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/fairmont-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/fairmont-logo.png 2x\" alt=\"Fairmont\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 7505,
+      "firstColumn": 7312,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/so-sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/so-sofitel-logo.png 2x\" alt=\"So/\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 194
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 7840,
+      "firstColumn": 7649,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-logo.png 2x\" alt=\"Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 8174,
+      "firstColumn": 7971,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/onefinestay-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/onefinestay-logo.png 2x\" alt=\"Onefinestay\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 8513,
+      "firstColumn": 8307,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/rixos-hotels-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/rixos-hotels-logo.png 2x\" alt=\"Rixos Hotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 207
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 8822,
+      "firstColumn": 8634,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mantis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mantis-logo.png 2x\" alt=\"Mantis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9184,
+      "firstColumn": 8979,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mgallery-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mgallery-logo.png 2x\" alt=\"Mgallery By Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9478,
+      "firstColumn": 9287,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/pullman-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/pullman-logo.png 2x\" alt=\"Pullman\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9809,
+      "firstColumn": 9612,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/swissotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/swissotel-logo.png 2x\" alt=\"Swissôtel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 10123,
+      "firstColumn": 9932,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/angsana-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/angsana-logo.png 2x\" alt=\"Angsana\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 10456,
+      "firstColumn": 10249,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/twenty-five-hours-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/twenty-five-hours-logo.png 2x\" alt=\"25h\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 208
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 10780,
+      "firstColumn": 10583,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/movenpick-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/movenpick-logo.png 2x\" alt=\"Mövenpick\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 11130,
+      "firstColumn": 10921,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/grand-mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/grand-mercure-logo.png 2x\" alt=\"Grand Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 11446,
+      "firstColumn": 11258,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/huazhu-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/huazhu-logo.png 2x\" alt=\"Huazhu\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 11773,
+      "firstColumn": 11576,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/the-sebel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/the-sebel-logo.png 2x\" alt=\"The Sebel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 12128,
+      "firstColumn": 11916,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-premium-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-premium-logo.png 2x\" alt=\"Adagio Premium\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 12444,
+      "firstColumn": 12253,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/novotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/novotel-logo.png 2x\" alt=\"Novotel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 12760,
+      "firstColumn": 12569,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mercure-logo.png 2x\" alt=\"Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13076,
+      "firstColumn": 12888,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-logo.png 2x\" alt=\"Adagio\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13417,
+      "firstColumn": 13214,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mamashelter-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mamashelter-logo.png 2x\" alt=\"Mamashelter\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13718,
+      "firstColumn": 13536,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-logo.png 2x\" alt=\"Ibis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 183
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 14047,
+      "firstColumn": 13844,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-styles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-styles-logo.png 2x\" alt=\"Ibis Styles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 14376,
+      "firstColumn": 14173,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-budget-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-budget-logo.png 2x\" alt=\"Ibis Budget\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 14726,
+      "firstColumn": 14517,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-access-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-access-logo.png 2x\" alt=\"Adagio Access\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 15066,
+      "firstColumn": 14861,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/joe-and-joe-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/joe-and-joe-logo.png 2x\" alt=\"Joe &amp; Joe\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 15381,
+      "firstColumn": 15189,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/hotelf1-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/hotelf1-logo.png 2x\" alt=\"Hotel F1\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 193
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 15712,
+      "firstColumn": 15518,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/thalassa-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/thalassa-logo.png 2x\" alt=\"Thalassa\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 16652,
+      "firstColumn": 16421,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-accomodations\" aria-labelledby=\"link-control-link-navigation__panel-accomodations\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-accomodations\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 232
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 17236,
+      "firstColumn": 17233,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 18861,
+      "firstColumn": 18858,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 20326,
+      "firstColumn": 20323,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 22927,
+      "firstColumn": 22705,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-promotions\" aria-labelledby=\"link-control-link-navigation__panel-promotions\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-promotions\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 223
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 23603,
+      "firstColumn": 23600,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 24763,
+      "firstColumn": 24760,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 25335,
+      "firstColumn": 25191,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/members-rate/members-rate-240x200-fr.jpg\" alt=\"promotions_offername_members-rate\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 145
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 26140,
+      "firstColumn": 25861,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-activities_usual_informations\" aria-labelledby=\"link-control-link-navigation__panel-activities_usual_informations\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-activities_usual_informations\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 280
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 26854,
+      "firstColumn": 26851,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 27572,
+      "firstColumn": 27569,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 28720,
+      "firstColumn": 28717,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 29608,
+      "firstColumn": 29436,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/europcar-offers/europcar-offers-240x200-fr.jpg\" alt=\"activities-usual-informations_offername_europcar-offers\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 173
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 31330,
+      "firstColumn": 31072,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-professional_solutions\" aria-labelledby=\"link-control-link-navigation__panel-professional_solutions\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-professional_solutions\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 259
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 32120,
+      "firstColumn": 32117,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 33172,
+      "firstColumn": 33169,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 35527,
+      "firstColumn": 35524,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 36936,
+      "firstColumn": 36771,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/meeting-planner/meeting-planner-240x200-fr.jpg\" alt=\"professional-solutions_offername_meeting-planner\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 166
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 37682,
+      "firstColumn": 37445,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-loyalty_program\" aria-labelledby=\"link-control-link-navigation__panel-loyalty_program\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-loyalty_program\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 238
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 40792,
+      "firstColumn": 40657,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/new-hotels/new-hotels-fr.jpg\" alt=\"loyalty-program_offername_new-hotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 136
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 41109,
+      "firstColumn": 40956,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/elite-experience/elite-experience-fr.jpg\" alt=\"loyalty-program_offername_elite-experience\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 154
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 42936,
+      "firstColumn": 42741,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"geoloc-selector\" aria-labelledby=\"link-control-geoloc-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"geoloc-selector\" data-role=\"geoloc-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 196
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 43729,
+      "firstColumn": 43526,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"currency-selector\" aria-labelledby=\"link-control-currency-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"currency-selector\" data-role=\"currency-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 52126,
+      "firstColumn": 52110,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "li> </ul> <br clear=\"left\"> <dl c",
+      "hiliteStart": 10,
+      "hiliteLength": 17
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 62898,
+      "firstColumn": 62788,
+      "message": "Bad value “/mailing_list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": " <li><a href=\"/mailing_list.svlt?action=CREATEACCOUNT&amp;site=PMO|PAR&amp;origine=WEB\" class=\"ico ico-small-email\"></a></li> <",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 65820,
+      "firstColumn": 65754,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": " --> <script type=\"text/javascript\" src=\"/scripts-v1807/main-legacy.js\"></script> <",
+      "hiliteStart": 10,
+      "hiliteLength": 67
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 65898,
+      "firstColumn": 65831,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ipt> <script type=\"text/javascript\" src=\"/scripts-v1807/acc_domready.js\"></script> <",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 3595,
+      "firstColumn": 3427,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button id=\"link-control-link-navigation-menu\" aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    }
+  ]
+}

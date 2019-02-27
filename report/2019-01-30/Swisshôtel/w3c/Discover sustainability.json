@@ -1,0 +1,605 @@
+{
+  "url": "https://www.swissotel.com/discover/sustainability/",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 5,
+      "lastColumn": 66,
+      "firstColumn": 5,
+      "message": "A “meta” element with an “http-equiv” attribute whose value is “X-UA-Compatible” must have a “content” attribute with the value “IE=edge”.",
+      "extract": "f-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 62
+    },
+    {
+      "type": "info",
+      "lastLine": 64,
+      "lastColumn": 122,
+      "firstColumn": 15,
+      "subType": "warning",
+      "message": "The “border” attribute is obsolete. Consider specifying “img { border: 0; }” in CSS instead.",
+      "extract": "<noscript><img src=\"http://frhi.112.2o7.net/b/ss/frhiswissotel/1/H.23.2--NS/0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\"></nosc",
+      "hiliteStart": 10,
+      "hiliteLength": 108
+    },
+    {
+      "type": "error",
+      "lastLine": 78,
+      "lastColumn": 119,
+      "firstColumn": 70,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "tel.com/\"><img src=\"/discover/images/ui/swissotel-logo.png\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 50
+    },
+    {
+      "type": "info",
+      "lastLine": 96,
+      "lastColumn": 42,
+      "firstColumn": 7,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "er>\n      <main role=\"main\" id=\"divContainer\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "info",
+      "lastLine": 102,
+      "lastColumn": 182,
+      "firstColumn": 23,
+      "subType": "warning",
+      "message": "Attribute “addthis:url” is not serializable as XML 1.0.",
+      "extract": "          <div addthis:url=\"/discover/sustainability/\" addthis:title=\"We Live Sustainability - Discover Swissôtel Hotels &amp; Resorts\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 160
+    },
+    {
+      "type": "info",
+      "lastLine": 102,
+      "lastColumn": 182,
+      "firstColumn": 23,
+      "subType": "warning",
+      "message": "Attribute “addthis:title” is not serializable as XML 1.0.",
+      "extract": "          <div addthis:url=\"/discover/sustainability/\" addthis:title=\"We Live Sustainability - Discover Swissôtel Hotels &amp; Resorts\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 160
+    },
+    {
+      "type": "error",
+      "lastLine": 102,
+      "lastColumn": 182,
+      "firstColumn": 23,
+      "message": "Attribute “addthis:url” not allowed on element “div” at this point.",
+      "extract": "          <div addthis:url=\"/discover/sustainability/\" addthis:title=\"We Live Sustainability - Discover Swissôtel Hotels &amp; Resorts\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 160
+    },
+    {
+      "type": "error",
+      "lastLine": 102,
+      "lastColumn": 182,
+      "firstColumn": 23,
+      "message": "Attribute “addthis:title” not allowed on element “div” at this point.",
+      "extract": "          <div addthis:url=\"/discover/sustainability/\" addthis:title=\"We Live Sustainability - Discover Swissôtel Hotels &amp; Resorts\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 160
+    },
+    {
+      "type": "error",
+      "lastLine": 111,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 112,
+      "lastColumn": 119,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/large/3.01-sustainable-management.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 121,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 122,
+      "lastColumn": 103,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/small/3.02-people.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 67
+    },
+    {
+      "type": "error",
+      "lastLine": 131,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 132,
+      "lastColumn": 101,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/med/3.03-planet.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 65
+    },
+    {
+      "type": "error",
+      "lastLine": 141,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 142,
+      "lastColumn": 103,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/small/3.04-profit.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 67
+    },
+    {
+      "type": "error",
+      "lastLine": 151,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 152,
+      "lastColumn": 114,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/med/3.05-business-excellence.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 78
+    },
+    {
+      "type": "error",
+      "lastLine": 161,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 162,
+      "lastColumn": 114,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/large/3.06-iso-certification.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 78
+    },
+    {
+      "type": "error",
+      "lastLine": 173,
+      "lastColumn": 117,
+      "firstColumn": 66,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 174,
+      "lastColumn": 139,
+      "firstColumn": 45,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.01-sustainable-design-Zurich.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 95
+    },
+    {
+      "type": "error",
+      "lastLine": 174,
+      "lastColumn": 139,
+      "firstColumn": 45,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.01-sustainable-design-Zurich.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 95
+    },
+    {
+      "type": "error",
+      "lastLine": 183,
+      "lastColumn": 117,
+      "firstColumn": 66,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 184,
+      "lastColumn": 155,
+      "firstColumn": 45,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.02-sustainable-design-the-Bosphorus-Istanbul.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 184,
+      "lastColumn": 155,
+      "firstColumn": 45,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.02-sustainable-design-the-Bosphorus-Istanbul.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 193,
+      "lastColumn": 117,
+      "firstColumn": 66,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 194,
+      "lastColumn": 140,
+      "firstColumn": 45,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.03-sustainable-design-Tallinn.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 96
+    },
+    {
+      "type": "error",
+      "lastLine": 194,
+      "lastColumn": 140,
+      "firstColumn": 45,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.03-sustainable-design-Tallinn.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 96
+    },
+    {
+      "type": "error",
+      "lastLine": 203,
+      "lastColumn": 117,
+      "firstColumn": 66,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 204,
+      "lastColumn": 149,
+      "firstColumn": 45,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.04-sustainable-design-Metropole-Geneva.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "error",
+      "lastLine": 204,
+      "lastColumn": 149,
+      "firstColumn": 45,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.04-sustainable-design-Metropole-Geneva.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "error",
+      "lastLine": 213,
+      "lastColumn": 117,
+      "firstColumn": 66,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 214,
+      "lastColumn": 148,
+      "firstColumn": 45,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.05-sustainable-design-Living-Istanbul.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 104
+    },
+    {
+      "type": "error",
+      "lastLine": 214,
+      "lastColumn": 148,
+      "firstColumn": 45,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.05-sustainable-design-Living-Istanbul.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 104
+    },
+    {
+      "type": "error",
+      "lastLine": 223,
+      "lastColumn": 117,
+      "firstColumn": 66,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 224,
+      "lastColumn": 142,
+      "firstColumn": 45,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.06-sustainable-design-Amsterdam.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 224,
+      "lastColumn": 142,
+      "firstColumn": 45,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img data-lazy=\"/discover/images/sustainability/large/3.07.06-sustainable-design-Amsterdam.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 235,
+      "lastColumn": 107,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-video\"><img src=\"/discover/images/ui/icon-play-lg.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 50
+    },
+    {
+      "type": "error",
+      "lastLine": 236,
+      "lastColumn": 117,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/large/3.08-designing-the-future.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 245,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 246,
+      "lastColumn": 104,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/med/3.09-upcycling.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 255,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 256,
+      "lastColumn": 117,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/med/3.10-sos-childrens-villages.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 265,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 266,
+      "lastColumn": 106,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/small/3.11-linda-fah.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 70
+    },
+    {
+      "type": "error",
+      "lastLine": 275,
+      "lastColumn": 109,
+      "firstColumn": 58,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/discover/images/ui/icon-cta-arrow.png\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 276,
+      "lastColumn": 103,
+      "firstColumn": 37,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/discover/images/sustainability/small/3.12-awards.jpg\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 67
+    },
+    {
+      "type": "error",
+      "lastLine": 310,
+      "lastColumn": 199,
+      "firstColumn": 31,
+      "message": "The “frameborder” attribute on the “iframe” element is obsolete. Use CSS instead.",
+      "extract": "          <iframe data-src=\"https://www.youtube.com/embed/U87Mz8qyloc?rel=0&amp;autoplay=1&amp;color=white&amp;autohide=1&amp;modestbranding=1\" frameborder=\"0\" allowfullscreen=\"\"></ifra",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    },
+    {
+      "type": "info",
+      "lastLine": 318,
+      "lastColumn": 153,
+      "firstColumn": 23,
+      "subType": "warning",
+      "message": "Attribute “addthis:url” is not serializable as XML 1.0.",
+      "extract": "          <div addthis:url=\"https://youtu.be/U87Mz8qyloc\" addthis:title=\"Swissôtel – Designing the Future\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 131
+    },
+    {
+      "type": "info",
+      "lastLine": 318,
+      "lastColumn": 153,
+      "firstColumn": 23,
+      "subType": "warning",
+      "message": "Attribute “addthis:title” is not serializable as XML 1.0.",
+      "extract": "          <div addthis:url=\"https://youtu.be/U87Mz8qyloc\" addthis:title=\"Swissôtel – Designing the Future\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 131
+    },
+    {
+      "type": "error",
+      "lastLine": 318,
+      "lastColumn": 153,
+      "firstColumn": 23,
+      "message": "Attribute “addthis:url” not allowed on element “div” at this point.",
+      "extract": "          <div addthis:url=\"https://youtu.be/U87Mz8qyloc\" addthis:title=\"Swissôtel – Designing the Future\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 131
+    },
+    {
+      "type": "error",
+      "lastLine": 318,
+      "lastColumn": 153,
+      "firstColumn": 23,
+      "message": "Attribute “addthis:title” not allowed on element “div” at this point.",
+      "extract": "          <div addthis:url=\"https://youtu.be/U87Mz8qyloc\" addthis:title=\"Swissôtel – Designing the Future\" class=\"share-now so_button share\"><a id=",
+      "hiliteStart": 10,
+      "hiliteLength": 131
+    },
+    {
+      "type": "error",
+      "lastLine": 318,
+      "lastColumn": 228,
+      "firstColumn": 154,
+      "message": "Duplicate ID “ctl00_ctl00_conphMainContent_conphCenterCol_lnkShare”.",
+      "extract": "on share\"><a id=\"ctl00_ctl00_conphMainContent_conphCenterCol_lnkShare\" title=\"Share\">Share<",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 102,
+      "lastColumn": 257,
+      "firstColumn": 183,
+      "subType": "warning",
+      "message": "The first occurrence of ID “ctl00_ctl00_conphMainContent_conphCenterCol_lnkShare” was here.",
+      "extract": "on share\"><a id=\"ctl00_ctl00_conphMainContent_conphCenterCol_lnkShare\" title=\"Share\">Share<",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "error",
+      "lastLine": 333,
+      "lastColumn": 140,
+      "firstColumn": 90,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "tri-logo\"><img src=\"/discover/images/ui/footer-tri-logo.png\"></a>\n ",
+      "hiliteStart": 10,
+      "hiliteLength": 51
+    },
+    {
+      "type": "info",
+      "lastLine": 350,
+      "lastColumn": 64,
+      "firstColumn": 11,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "          <script id=\"IPerceptionScript\" type=\"text/javascript\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "info",
+      "lastLine": 314,
+      "lastColumn": 30,
+      "firstColumn": 27,
+      "subType": "warning",
+      "message": "Consider using the “h1” element as a top-level heading only (all “h1” elements are treated as top-level headings by many screen readers and other tools).",
+      "extract": "          <h1>An Int",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "info",
+      "lastLine": 100,
+      "lastColumn": 26,
+      "firstColumn": 23,
+      "subType": "warning",
+      "message": "Consider using the “h1” element as a top-level heading only (all “h1” elements are treated as top-level headings by many screen readers and other tools).",
+      "extract": "          <h1>We Liv",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    }
+  ]
+}

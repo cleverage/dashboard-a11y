@@ -1,0 +1,514 @@
+{
+  "url": "https://sofitel.accorhotels.com/gb/hotel-2185-sofitel-new-york/index.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 10,
+      "lastColumn": 297,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script type=\"text/javascript\" src=\"/dtagent_ICA23gjprx_6000500351006.js\" data-dtconfig=\"rid=RID_1874070190|rpid=-899334278|domain=accorhotels.com|lastModification=1540833399522|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Accor Groupe|agentUri=/dtagent_ICA23gjprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 289
+    },
+    {
+      "type": "info",
+      "lastLine": 10,
+      "lastColumn": 470,
+      "firstColumn": 307,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/dtagent620_n_1239.js\" data-dtconfig=\"rid=RID_-406914265|rpid=270367|domain=novotel.com|tp=500,50,0|reportUrl=dynaTraceMonitor\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 164
+    },
+    {
+      "type": "info",
+      "lastLine": 11,
+      "lastColumn": 83,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script type=\"text/javascript\" src=\"/scripts-v1807/redir-mobile/script.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "error",
+      "lastLine": 20,
+      "lastColumn": 59,
+      "firstColumn": 9,
+      "message": "Using the “meta” element to specify the document-wide default language is obsolete. Consider specifying the language on the root element instead.",
+      "extract": ">\n        <meta http-equiv=\"Content-Language\" content=\"en\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 51
+    },
+    {
+      "type": "error",
+      "lastLine": 21,
+      "lastColumn": 70,
+      "firstColumn": 9,
+      "message": "A “meta” element with an “http-equiv” attribute whose value is “X-UA-Compatible” must have a “content” attribute with the value “IE=edge”.",
+      "extract": ">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 62
+    },
+    {
+      "type": "error",
+      "lastLine": 58,
+      "lastColumn": 133,
+      "firstColumn": 9,
+      "message": "Bad value “pt_BR” for attribute “hreflang” on element “link”: The language subtag “pt_br” is not a valid language subtag.",
+      "extract": " \n        <link href=\"https://sofitel.accorhotels.com/pt-br/hotel-2185-sofitel-new-york/index.shtml\" hreflang=\"pt_BR\" rel=\"alternate\"/>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 125
+    },
+    {
+      "type": "info",
+      "lastLine": 92,
+      "lastColumn": 74,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script src=\"/scripts-v1807/set/popins.js\" type=\"text/javascript\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 95,
+      "lastColumn": 83,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script type=\"text/javascript\" src=\"/scripts-v1807/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 96,
+      "lastColumn": 82,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script type=\"text/javascript\" src=\"/scripts-v1807/set/autocompletion.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 97,
+      "lastColumn": 82,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script type=\"text/javascript\" src=\"/scripts-v1807/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 99,
+      "lastColumn": 89,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "\n\n        <script type=\"text/javascript\" src=\"/scripts-v1807/set/fact-sheet/fact-sheet.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "info",
+      "lastLine": 103,
+      "lastColumn": 645,
+      "firstColumn": 524,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 103,
+      "lastColumn": 1765,
+      "firstColumn": 1571,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 2807,
+      "firstColumn": 2561,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-travel_inspiration\" aria-labelledby=\"link-control-link-navigation__panel-travel_inspiration\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-travel_inspiration\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 247
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 3493,
+      "firstColumn": 3490,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 4858,
+      "firstColumn": 4855,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 6269,
+      "firstColumn": 6266,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 9095,
+      "firstColumn": 8855,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-brand_collection\" aria-labelledby=\"link-control-link-navigation__panel-brand_collection\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-brand_collection\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 241
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 9803,
+      "firstColumn": 9686,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-legend-logo.png\" alt=\"Sofitel Legend\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 118
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 10062,
+      "firstColumn": 9953,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/so-sofitel-logo.png\" alt=\"So Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 10343,
+      "firstColumn": 10221,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-logo.png\" alt=\"Sofitel Hotel &amp; Resort\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 123
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 10606,
+      "firstColumn": 10500,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/mgallery-logo.png\" alt=\"M Gallery\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 12894,
+      "firstColumn": 12678,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-weddings\" aria-labelledby=\"link-control-link-navigation__panel-weddings\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-weddings\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 217
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 17016,
+      "firstColumn": 16758,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-professional_solutions\" aria-labelledby=\"link-control-link-navigation__panel-professional_solutions\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-professional_solutions\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 259
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 17807,
+      "firstColumn": 17804,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 18851,
+      "firstColumn": 18848,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 20056,
+      "firstColumn": 20053,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 21793,
+      "firstColumn": 21556,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-loyalty_program\" aria-labelledby=\"link-control-link-navigation__panel-loyalty_program\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-loyalty_program\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 238
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 26247,
+      "firstColumn": 26052,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"geoloc-selector\" aria-labelledby=\"link-control-geoloc-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"geoloc-selector\" data-role=\"geoloc-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 196
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 27038,
+      "firstColumn": 26835,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"currency-selector\" aria-labelledby=\"link-control-currency-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"currency-selector\" data-role=\"currency-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 141,
+      "lastColumn": 204,
+      "firstColumn": 5,
+      "message": "Attribute “scroll” not allowed on element “iframe” at this point.",
+      "extract": "div>\n\n    <iframe frameborder=\"0\" src=\"//media.videopolis.com/1.0/api/getByMetadata/eng/accor_id/2185.html?key=2edA73SwAmAx&amp;view=hero\" scroll=\"no\" data-tab=\"menu-welcome\" class=\"background lazyload active\">\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 200
+    },
+    {
+      "type": "error",
+      "lastLine": 141,
+      "lastColumn": 204,
+      "firstColumn": 5,
+      "message": "The “frameborder” attribute on the “iframe” element is obsolete. Use CSS instead.",
+      "extract": "div>\n\n    <iframe frameborder=\"0\" src=\"//media.videopolis.com/1.0/api/getByMetadata/eng/accor_id/2185.html?key=2edA73SwAmAx&amp;view=hero\" scroll=\"no\" data-tab=\"menu-welcome\" class=\"background lazyload active\">\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 200
+    },
+    {
+      "type": "info",
+      "lastLine": 700,
+      "lastColumn": 24,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "nts\">\n    <h3 class=\"title-4\"></h3>\n",
+      "hiliteStart": 10,
+      "hiliteLength": 20
+    },
+    {
+      "type": "info",
+      "lastLine": 724,
+      "lastColumn": 21,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "eet\">\n    <h3 class=\"logo\"><img s",
+      "hiliteStart": 10,
+      "hiliteLength": 17
+    },
+    {
+      "type": "info",
+      "lastLine": 740,
+      "lastColumn": 32,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "          <h2 class=\"title-1\"></h2>\n",
+      "hiliteStart": 10,
+      "hiliteLength": 20
+    },
+    {
+      "type": "error",
+      "lastLine": 1974,
+      "lastColumn": 21,
+      "firstColumn": 17,
+      "message": "No “li” element in scope but a “li” end tag seen.",
+      "extract": "          </li>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 2374,
+      "lastColumn": 49,
+      "firstColumn": 1,
+      "message": "Duplicate ID “destinations”.",
+      "extract": "TIONS -->\n<div id=\"destinations\" class=\"block-sheet desti\">\n\n    ",
+      "hiliteStart": 10,
+      "hiliteLength": 49
+    },
+    {
+      "type": "info",
+      "lastLine": 786,
+      "lastColumn": 49,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The first occurrence of ID “destinations” was here.",
+      "extract": "TIONS -->\n<div id=\"destinations\" class=\"block-sheet desti\">\n    \n",
+      "hiliteStart": 10,
+      "hiliteLength": 49
+    },
+    {
+      "type": "error",
+      "lastLine": 2441,
+      "lastColumn": 44,
+      "message": "No space between attributes.",
+      "extract": "ut type=\"radio\"checked=\"checke",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 2470,
+      "lastColumn": 58,
+      "firstColumn": 17,
+      "message": "Attribute “name” not allowed on element “label” at this point.",
+      "extract": "          <label name=\"identification.reserverType\">No ID<",
+      "hiliteStart": 10,
+      "hiliteLength": 42
+    },
+    {
+      "type": "error",
+      "lastLine": 2496,
+      "lastColumn": 147,
+      "message": "Duplicate attribute “name”.",
+      "extract": "=\"cardFid\" name=\"identificatio",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 2531,
+      "lastColumn": 186,
+      "firstColumn": 25,
+      "message": "Bad value “https://www.accorhotels.com/gb/newsletter/getEmail.jshtml?site=SOF|PMO&action=SUBSCRIBE&origine=WEB ” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "          <a href=\"https://www.accorhotels.com/gb/newsletter/getEmail.jshtml?site=SOF|PMO&action=SUBSCRIBE&origine=WEB \" target=\"_blank\" rel=\"nofollow\" class=\"btnSquare\">Subscrib",
+      "hiliteStart": 10,
+      "hiliteLength": 162
+    },
+    {
+      "type": "info",
+      "lastLine": 2642,
+      "lastColumn": 74,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script type=\"text/javascript\" src=\"/scripts-v1807/xiti_utils.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 2643,
+      "lastColumn": 61,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script language=\"javascript\" type=\"text/javascript\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 2643,
+      "lastColumn": 61,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": ">\n        <script language=\"javascript\" type=\"text/javascript\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 2646,
+      "lastColumn": 78,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script type=\"text/javascript\" src=\"/scripts-v1807/xtanalyzer_roi.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 70
+    },
+    {
+      "type": "info",
+      "lastLine": 2648,
+      "lastColumn": 97,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1807/main-legacy.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 2648,
+      "lastColumn": 97,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": ">\n        <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1807/main-legacy.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 871,
+      "firstColumn": 703,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button id=\"link-control-link-navigation-menu\" aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    }
+  ],
+  "language": "en"
+}

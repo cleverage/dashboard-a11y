@@ -1,0 +1,289 @@
+{
+  "url": "https://hotelf1.accorhotels.com/home/index.fr.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 373,
+      "firstColumn": 84,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ement !\"/><script type=\"text/javascript\" src=\"/dtagent_ICA23gjprx_6000500351006.js\" data-dtconfig=\"rid=RID_-206938200|rpid=-1496061763|domain=accorhotels.com|lastModification=1540833399522|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Accor Groupe|agentUri=/dtagent_ICA23gjprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 290
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 624,
+      "firstColumn": 565,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "dfp.css\"/><script type=\"text/javascript\" src=\"/scripts/mpl/mpulse.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 60
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 1352,
+      "firstColumn": 1231,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 2472,
+      "firstColumn": 2278,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 3787,
+      "firstColumn": 3550,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-our_itineraries\" aria-labelledby=\"link-control-link-navigation__panel-our_itineraries\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-our_itineraries\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 238
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 4455,
+      "firstColumn": 4452,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 5249,
+      "firstColumn": 5246,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 6131,
+      "firstColumn": 6128,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 6920,
+      "firstColumn": 6917,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 7758,
+      "firstColumn": 7755,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 8566,
+      "firstColumn": 8563,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 9512,
+      "firstColumn": 9377,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"></span> <img data-src=\"/components/link-navigation/assets/images/pushs/early-trip/early-trip-fr.jpg\" alt=\"our-itineraries_offername_early-trip\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 136
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 12906,
+      "firstColumn": 12711,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"geoloc-selector\" aria-labelledby=\"link-control-geoloc-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"geoloc-selector\" data-role=\"geoloc-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 196
+    },
+    {
+      "type": "info",
+      "lastLine": 15,
+      "lastColumn": 108,
+      "firstColumn": 15,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "</div> --><section class=\"section section--full-page section--with-background section--book-your-hotel\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 94
+    },
+    {
+      "type": "info",
+      "lastLine": 15,
+      "lastColumn": 7078,
+      "firstColumn": 7015,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "</section><section class=\"section banner banner--left\" data-role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 64
+    },
+    {
+      "type": "error",
+      "lastLine": 21,
+      "lastColumn": 16985,
+      "firstColumn": 16865,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "facebook\"><a target=\"_blank\" alt=\"Accéder à la page facebook\" class=\"button button--icon\" href=\"https://www.facebook.com/HotelF1/\"><i cla",
+      "hiliteStart": 10,
+      "hiliteLength": 121
+    },
+    {
+      "type": "error",
+      "lastLine": 21,
+      "lastColumn": 17202,
+      "firstColumn": 17074,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "nstagram\"><a target=\"_blank\" alt=\"Accéder à la page instagram\" class=\"button button--icon\" href=\"https://www.instagram.com/hotelf1_france\"><i cla",
+      "hiliteStart": 10,
+      "hiliteLength": 129
+    },
+    {
+      "type": "error",
+      "lastLine": 21,
+      "lastColumn": 17420,
+      "firstColumn": 17290,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": " youtube\"><a target=\"_blank\" alt=\"Accéder à la page youtube\" class=\"button button--icon\" href=\"https://www.youtube.com/user/superfluhotelF1\"><i cla",
+      "hiliteStart": 10,
+      "hiliteLength": 131
+    },
+    {
+      "type": "error",
+      "lastLine": 21,
+      "lastColumn": 17802,
+      "firstColumn": 17648,
+      "message": "Bad value “https://www.accorhotels.com/mailing_list.svlt?action=CREATEACCOUNT&site=HOF|PMO&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "g> !</div><a href=\"https://www.accorhotels.com/mailing_list.svlt?action&#x3D;CREATEACCOUNT&amp;site&#x3D;HOF|PMO&amp;origine&#x3D;WEB\" class=\"button button--filled\">Je m&#",
+      "hiliteStart": 10,
+      "hiliteLength": 155
+    },
+    {
+      "type": "info",
+      "lastLine": 21,
+      "lastColumn": 19806,
+      "firstColumn": 19728,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ENGINE --><script type=\"text/javascript\" src=\"/scripts-v1807/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 21,
+      "lastColumn": 19890,
+      "firstColumn": 19816,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1807/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 21,
+      "lastColumn": 19973,
+      "firstColumn": 19900,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1807/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 21,
+      "lastColumn": 20048,
+      "firstColumn": 19983,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1807/set/popins.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 21,
+      "lastColumn": 20145,
+      "firstColumn": 20058,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1807/lib/jplugins/jquery.cookie-2.1.2.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 88
+    },
+    {
+      "type": "info",
+      "lastLine": 21,
+      "lastColumn": 20233,
+      "firstColumn": 20155,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1807/lib/jplugins/jquery.dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 21,
+      "lastColumn": 20298,
+      "firstColumn": 20243,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/common/dfp/dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 1578,
+      "firstColumn": 1410,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button id=\"link-control-link-navigation-menu\" aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    }
+  ],
+  "language": "fr"
+}

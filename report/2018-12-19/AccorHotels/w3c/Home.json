@@ -1,0 +1,3840 @@
+{
+  "url": "https://www.accorhotels.com/fr/france/index.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1102,
+      "firstColumn": 1000,
+      "subType": "warning",
+      "message": "Consider avoiding viewport values that prevent users from resizing documents.",
+      "extract": "E @** --> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"> <meta",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 3128,
+      "firstColumn": 2842,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gjprx_6000500351006.js\" data-dtconfig=\"rid=RID_74360863|rpid=1441845780|domain=accorhotels.com|lastModification=1540833399522|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Accor Groupe|agentUri=/dtagent_ICA23gjprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 287
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 4149,
+      "firstColumn": 4051,
+      "message": "Bad value “fr-mar” for attribute “hreflang” on element “link”: Bad extlang subtag “mar”.",
+      "extract": "fr-ca\" /> <link rel=\"alternate\" href=\"https://www.accorhotels.com/fr/africa/index.shtml\" hreflang=\"fr-mar\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 5352,
+      "firstColumn": 5254,
+      "message": "Bad value “en-mar” for attribute “hreflang” on element “link”: Bad extlang subtag “mar”.",
+      "extract": "g=\"en\" /> <link rel=\"alternate\" href=\"https://www.accorhotels.com/gb/africa/index.shtml\" hreflang=\"en-mar\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 2008,
+      "firstColumn": 1887,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 3112,
+      "firstColumn": 2918,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 4067,
+      "firstColumn": 3845,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-our_brands\" aria-labelledby=\"link-control-link-navigation__panel-our_brands\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-our_brands\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 223
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 4773,
+      "firstColumn": 4582,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/raffles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/raffles-logo.png 2x\" alt=\"Raffles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 5105,
+      "firstColumn": 4902,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/banyan-tree-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/banyan-tree-logo.png 2x\" alt=\"Banyan Tree\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 5475,
+      "firstColumn": 5263,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-legend-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-legend-logo.png 2x\" alt=\"Sofitel Legend\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 5801,
+      "firstColumn": 5607,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/fairmont-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/fairmont-logo.png 2x\" alt=\"Fairmont\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 6144,
+      "firstColumn": 5951,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/so-sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/so-sofitel-logo.png 2x\" alt=\"So/\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 194
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 6479,
+      "firstColumn": 6288,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-logo.png 2x\" alt=\"Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 6813,
+      "firstColumn": 6610,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/onefinestay-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/onefinestay-logo.png 2x\" alt=\"Onefinestay\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 7152,
+      "firstColumn": 6946,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/rixos-hotels-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/rixos-hotels-logo.png 2x\" alt=\"Rixos Hotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 207
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 7461,
+      "firstColumn": 7273,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mantis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mantis-logo.png 2x\" alt=\"Mantis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 7823,
+      "firstColumn": 7618,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mgallery-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mgallery-logo.png 2x\" alt=\"Mgallery By Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 8117,
+      "firstColumn": 7926,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/pullman-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/pullman-logo.png 2x\" alt=\"Pullman\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 8448,
+      "firstColumn": 8251,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/swissotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/swissotel-logo.png 2x\" alt=\"Swissôtel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 8762,
+      "firstColumn": 8571,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/angsana-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/angsana-logo.png 2x\" alt=\"Angsana\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 9095,
+      "firstColumn": 8888,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/twenty-five-hours-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/twenty-five-hours-logo.png 2x\" alt=\"25h\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 208
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 9419,
+      "firstColumn": 9222,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/movenpick-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/movenpick-logo.png 2x\" alt=\"Mövenpick\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 9769,
+      "firstColumn": 9560,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/grand-mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/grand-mercure-logo.png 2x\" alt=\"Grand Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 10085,
+      "firstColumn": 9897,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/huazhu-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/huazhu-logo.png 2x\" alt=\"Huazhu\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 10412,
+      "firstColumn": 10215,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/the-sebel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/the-sebel-logo.png 2x\" alt=\"The Sebel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 10767,
+      "firstColumn": 10555,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-premium-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-premium-logo.png 2x\" alt=\"Adagio Premium\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 11083,
+      "firstColumn": 10892,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/novotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/novotel-logo.png 2x\" alt=\"Novotel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 11399,
+      "firstColumn": 11208,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mercure-logo.png 2x\" alt=\"Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 11715,
+      "firstColumn": 11527,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-logo.png 2x\" alt=\"Adagio\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 12056,
+      "firstColumn": 11853,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mamashelter-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mamashelter-logo.png 2x\" alt=\"Mamashelter\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 12357,
+      "firstColumn": 12175,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-logo.png 2x\" alt=\"Ibis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 183
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 12686,
+      "firstColumn": 12483,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-styles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-styles-logo.png 2x\" alt=\"Ibis Styles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 13015,
+      "firstColumn": 12812,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-budget-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-budget-logo.png 2x\" alt=\"Ibis Budget\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 13365,
+      "firstColumn": 13156,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-access-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-access-logo.png 2x\" alt=\"Adagio Access\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 13705,
+      "firstColumn": 13500,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/joe-and-joe-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/joe-and-joe-logo.png 2x\" alt=\"Joe &amp; Joe\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 14020,
+      "firstColumn": 13828,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/hotelf1-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/hotelf1-logo.png 2x\" alt=\"Hotel F1\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 193
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 14351,
+      "firstColumn": 14157,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/thalassa-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/thalassa-logo.png 2x\" alt=\"Thalassa\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 15291,
+      "firstColumn": 15060,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-accomodations\" aria-labelledby=\"link-control-link-navigation__panel-accomodations\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-accomodations\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 232
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 15875,
+      "firstColumn": 15872,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 17490,
+      "firstColumn": 17487,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 18955,
+      "firstColumn": 18952,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 21556,
+      "firstColumn": 21334,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-promotions\" aria-labelledby=\"link-control-link-navigation__panel-promotions\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-promotions\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 223
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 22232,
+      "firstColumn": 22229,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 23392,
+      "firstColumn": 23389,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 23964,
+      "firstColumn": 23820,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/members-rate/members-rate-240x200-fr.jpg\" alt=\"promotions_offername_members-rate\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 145
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 24769,
+      "firstColumn": 24490,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-activities_usual_informations\" aria-labelledby=\"link-control-link-navigation__panel-activities_usual_informations\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-activities_usual_informations\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 280
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 25483,
+      "firstColumn": 25480,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 26201,
+      "firstColumn": 26198,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 27349,
+      "firstColumn": 27346,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "span></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 28237,
+      "firstColumn": 28065,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/europcar-offers/europcar-offers-240x200-fr.jpg\" alt=\"activities-usual-informations_offername_europcar-offers\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 173
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 29959,
+      "firstColumn": 29701,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-professional_solutions\" aria-labelledby=\"link-control-link-navigation__panel-professional_solutions\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-professional_solutions\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 259
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 30749,
+      "firstColumn": 30746,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 31801,
+      "firstColumn": 31798,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 34156,
+      "firstColumn": 34153,
+      "message": "Element “ul” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "></a></li><ul><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 35565,
+      "firstColumn": 35400,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/meeting-planner/meeting-planner-240x200-fr.jpg\" alt=\"professional-solutions_offername_meeting-planner\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 166
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 36311,
+      "firstColumn": 36074,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-loyalty_program\" aria-labelledby=\"link-control-link-navigation__panel-loyalty_program\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-loyalty_program\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 238
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 39421,
+      "firstColumn": 39286,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/new-hotels/new-hotels-fr.jpg\" alt=\"loyalty-program_offername_new-hotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 136
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 39738,
+      "firstColumn": 39585,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/elite-experience/elite-experience-fr.jpg\" alt=\"loyalty-program_offername_elite-experience\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 154
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 41565,
+      "firstColumn": 41370,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"geoloc-selector\" aria-labelledby=\"link-control-geoloc-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"geoloc-selector\" data-role=\"geoloc-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 196
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 42358,
+      "firstColumn": 42155,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"currency-selector\" aria-labelledby=\"link-control-currency-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"currency-selector\" data-role=\"currency-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 43452,
+      "firstColumn": 43363,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "on=\"101\"> <a href=\"https://www.accorhotels.com/promotion/winter-europe/index.fr.shtml  \" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 43690,
+      "firstColumn": 43687,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "rmation\"> <h3></h3> ",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 43891,
+      "firstColumn": 43783,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "Wrapper\"> <a href=\"https://www.accorhotels.com/promotion/winter-europe/index.fr.shtml  \"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 44440,
+      "firstColumn": 44307,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "on=\"101\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm007251-001-accorhotels-offres-famille.shtml\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 134
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 44680,
+      "firstColumn": 44677,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "rmation\"> <h3></h3> ",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 44925,
+      "firstColumn": 44773,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "Wrapper\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm007251-001-accorhotels-offres-famille.shtml\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 153
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 45490,
+      "firstColumn": 45341,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "on=\"101\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009370-002-l-allemagne-et-l-autriche-avec-accorhotels.shtml\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 150
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 45728,
+      "firstColumn": 45725,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "rmation\"> <h3></h3> ",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 45989,
+      "firstColumn": 45821,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "Wrapper\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009370-002-l-allemagne-et-l-autriche-avec-accorhotels.shtml\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 46548,
+      "firstColumn": 46405,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "on=\"101\"> <a href=\"https://microsite.europcar.com/accorhotels/?lang=fr&utm_medium=home_page&utm_source=accorhotels&utm_campaign=carrousel \" target=\"\" > <img src",
+      "hiliteStart": 10,
+      "hiliteLength": 144
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 46750,
+      "firstColumn": 46747,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "tion\"> <h3></h3> <b>",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 47005,
+      "firstColumn": 46843,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "pper\"> <a href=\"https://microsite.europcar.com/accorhotels/?lang=fr&utm_medium=home_page&utm_source=accorhotels&utm_campaign=carrousel \"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 163
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 57781,
+      "firstColumn": 57649,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "e\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm002858-001-offre-luxe-unique-et-chic.shtml\"  target=\"\">Nos plus bea",
+      "hiliteStart": 10,
+      "hiliteLength": 133
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 57981,
+      "firstColumn": 57849,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "h2> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm002858-001-offre-luxe-unique-et-chic.shtml\" target=\"\" > <img src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 133
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 59055,
+      "firstColumn": 58904,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm002858-001-offre-luxe-unique-et-chic.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 152
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 59571,
+      "firstColumn": 59443,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "e\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm006562-001-offre-3-nuits-et-plus.shtml\"  target=\"\">Jusqu&#39;&a",
+      "hiliteStart": 10,
+      "hiliteLength": 129
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 59776,
+      "firstColumn": 59648,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "h2> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm006562-001-offre-3-nuits-et-plus.shtml\" target=\"\" > <img src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 129
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 60717,
+      "firstColumn": 60570,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm006562-001-offre-3-nuits-et-plus.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 148
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 61254,
+      "firstColumn": 61105,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "e\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009370-002-l-allemagne-et-l-autriche-avec-accorhotels.shtml\"  target=\"\"> D&eacute;co",
+      "hiliteStart": 10,
+      "hiliteLength": 150
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 61485,
+      "firstColumn": 61336,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "h2> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009370-002-l-allemagne-et-l-autriche-avec-accorhotels.shtml\" target=\"\" > <img src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 150
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 62685,
+      "firstColumn": 62517,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009370-002-l-allemagne-et-l-autriche-avec-accorhotels.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    },
+    {
+      "type": "error",
+      "url": "https://www.accorhotels.com/fr/france/index.shtml",
+      "lastLine": 13,
+      "lastColumn": 63194,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long."
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 63403,
+      "firstColumn": 63282,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "h2> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm008222-001-pret-a-visiter.shtml\" target=\"\" > <img src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 64125,
+      "firstColumn": 63985,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "r\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm008222-001-pret-a-visiter.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 141
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 64645,
+      "firstColumn": 64513,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "e\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/early-booking-offers/owm007867-001-reservation-anticipee.shtml\"  target=\"\">Offre Early ",
+      "hiliteStart": 10,
+      "hiliteLength": 133
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 64809,
+      "firstColumn": 64677,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "h2> <a href=\"https://www.accorhotels.com/fr/promotions-offers/early-booking-offers/owm007867-001-reservation-anticipee.shtml\" target=\"\" > <img src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 133
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 65711,
+      "firstColumn": 65560,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/early-booking-offers/owm007867-001-reservation-anticipee.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 152
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 66236,
+      "firstColumn": 66099,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "e\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009540-001-la-peninsule-iberique-en-hiver.shtml\"  target=\"\">Direction la",
+      "hiliteStart": 10,
+      "hiliteLength": 138
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 66431,
+      "firstColumn": 66294,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "h2> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009540-001-la-peninsule-iberique-en-hiver.shtml\" target=\"\" > <img src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 138
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 67651,
+      "firstColumn": 67495,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009540-001-la-peninsule-iberique-en-hiver.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 157
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 68742,
+      "firstColumn": 68591,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm002858-001-offre-luxe-unique-et-chic.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 152
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 69583,
+      "firstColumn": 69436,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm006562-001-offre-3-nuits-et-plus.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 148
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 70508,
+      "firstColumn": 70340,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009370-002-l-allemagne-et-l-autriche-avec-accorhotels.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 71143,
+      "firstColumn": 71003,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "r\"> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm008222-001-pret-a-visiter.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 141
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 71960,
+      "firstColumn": 71809,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/early-booking-offers/owm007867-001-reservation-anticipee.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 152
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 72907,
+      "firstColumn": 72751,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "iv> <a href=\"https://www.accorhotels.com/fr/promotions-offers/hot-deals-offers/owm009540-001-la-peninsule-iberique-en-hiver.shtml\"  class=\"btnAction\" target=\"\" > <span>Décou",
+      "hiliteStart": 10,
+      "hiliteLength": 157
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 74284,
+      "firstColumn": 74150,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "e\"> <a href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2301\"  target=\"\">France</a> </",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 74436,
+      "firstColumn": 74302,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "2> <a href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2301\" target=\"\" > <img src=\"/im",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 75825,
+      "firstColumn": 75691,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "> <a href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2405\"  target=\"\">France</a> </h2",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 75977,
+      "firstColumn": 75843,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": " <a href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2405\" target=\"\" > <img src=\"/imag",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 77312,
+      "firstColumn": 77178,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "<a href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2493\"  target=\"\">France</a> </h2> ",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 77464,
+      "firstColumn": 77330,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "a href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2493\" target=\"\" > <img src=\"/imager",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 79005,
+      "firstColumn": 78871,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": " href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V0424\"  target=\"\">France</a> </h2> <a",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 79157,
+      "firstColumn": 79023,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "href=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V0424\" target=\"\" > <img src=\"/imagerie",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 80471,
+      "firstColumn": 80337,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ref=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2760\"  target=\"\">France</a> </h2> <a h",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 80623,
+      "firstColumn": 80489,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ef=\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2760\" target=\"\" > <img src=\"/imagerie/p",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 81909,
+      "firstColumn": 81806,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "f=\"https://www.accorhotels.com/lien_externe.svlt?goto=liste_hotel&nom_ville=grenoble\"  target=\"\">France</a> </h2> <a hre",
+      "hiliteStart": 10,
+      "hiliteLength": 104
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 82030,
+      "firstColumn": 81927,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "=\"https://www.accorhotels.com/lien_externe.svlt?goto=liste_hotel&nom_ville=grenoble\" target=\"\" > <img src=\"/imagerie/px.",
+      "hiliteStart": 10,
+      "hiliteLength": 104
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 83312,
+      "firstColumn": 83178,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "\"https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V0397\"  target=\"\">Allemagne</a> </h2> <a hr",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 83467,
+      "firstColumn": 83333,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "https://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V0397\" target=\"\" > <img src=\"/imagerie/px.gi",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 84972,
+      "firstColumn": 84838,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ttps://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2352\"  target=\"\">Royaume-Uni</a> </h2> <a hr",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 85129,
+      "firstColumn": 84995,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "tps://www.accorhotels.com/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2352\" target=\"\" > <img src=\"/imagerie/px.gif\"",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 86987,
+      "firstColumn": 86830,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "c=\"/components/loyalty-program/assets/images/logo-top.png\" class=\"lazyload loyalty-program__header__baseline__top\" alt=\"AccorHotels Leclub Logo\"/><h2 class=\"loyalty-program__",
+      "hiliteStart": 10,
+      "hiliteLength": 158
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 87226,
+      "firstColumn": 87074,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "c=\"/components/loyalty-program/assets/images/logo-bottom.png\" class=\"lazyload loyalty-program__header__baseline__bottom\" alt=\"Feel Welcome\"/></div></div><div class=\"loya",
+      "hiliteStart": 10,
+      "hiliteLength": 153
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 90020,
+      "firstColumn": 89958,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "zyload\" data-src=\"/imagerie/home/usp/usp4.jpg\" /> </a> <div class=\"item-content",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 90020,
+      "firstColumn": 89958,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "zyload\" data-src=\"/imagerie/home/usp/usp4.jpg\" /> </a> <div class=\"item-content",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 90531,
+      "firstColumn": 90469,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp3.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 90531,
+      "firstColumn": 90469,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp3.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 90911,
+      "firstColumn": 90849,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp1.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 90911,
+      "firstColumn": 90849,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp1.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 91345,
+      "firstColumn": 91283,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp2.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 91345,
+      "firstColumn": 91283,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp2.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 91732,
+      "firstColumn": 91670,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp5.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 91732,
+      "firstColumn": 91670,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp5.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 92144,
+      "firstColumn": 92082,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp6.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 92144,
+      "firstColumn": 92082,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp6.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 92567,
+      "firstColumn": 92505,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp7.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 92567,
+      "firstColumn": 92505,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/usp/usp7.jpg\" /> </a> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 93545,
+      "firstColumn": 93467,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-raffles.png\" /></a></h2> <h3> Chez Raffles, nou",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 93545,
+      "firstColumn": 93467,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-raffles.png\" /></a></h2> <h3> Chez Raffles, nou",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 93397,
+      "firstColumn": 93394,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 93958,
+      "firstColumn": 93876,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-raffles.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 93958,
+      "firstColumn": 93876,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-raffles.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 94182,
+      "firstColumn": 94106,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/brands/assets/images/logo-banyantree.png\" /></a></h2> <h3>Un Sanctuaire pour",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 94182,
+      "firstColumn": 94106,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/brands/assets/images/logo-banyantree.png\" /></a></h2> <h3>Un Sanctuaire pour",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 94040,
+      "firstColumn": 94037,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 94449,
+      "firstColumn": 94378,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/brands/assets/images/banyantree.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 94449,
+      "firstColumn": 94378,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/brands/assets/images/banyantree.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 94697,
+      "firstColumn": 94612,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-sofitel-legend.png\" /></a></h2> <h3> Sofitel Legend, l",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 94697,
+      "firstColumn": 94612,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-sofitel-legend.png\" /></a></h2> <h3> Sofitel Legend, l",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 94535,
+      "firstColumn": 94532,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95078,
+      "firstColumn": 94989,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-sofitel-legend.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95078,
+      "firstColumn": 94989,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-sofitel-legend.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95308,
+      "firstColumn": 95229,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-fairmont.png\" /></a></h2> <h3> Transformer des i",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95308,
+      "firstColumn": 95229,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-fairmont.png\" /></a></h2> <h3> Transformer des i",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 95158,
+      "firstColumn": 95155,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95604,
+      "firstColumn": 95521,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-fairmont.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95604,
+      "firstColumn": 95521,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-fairmont.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95840,
+      "firstColumn": 95759,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-so-resorts.png\" /></a></h2> <h3> SO/ Hotels & Reso",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 95840,
+      "firstColumn": 95759,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-so-resorts.png\" /></a></h2> <h3> SO/ Hotels & Reso",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 95686,
+      "firstColumn": 95683,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 96219,
+      "firstColumn": 96134,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-so-sofitel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 96219,
+      "firstColumn": 96134,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-so-sofitel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 96446,
+      "firstColumn": 96368,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-sofitel.png\" /></a></h2> <h3> Sofitel, le raffi",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 96446,
+      "firstColumn": 96368,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-sofitel.png\" /></a></h2> <h3> Sofitel, le raffi",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 96298,
+      "firstColumn": 96295,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 96805,
+      "firstColumn": 96724,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-sofitel.jpg\"/> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 96805,
+      "firstColumn": 96724,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-sofitel.jpg\"/> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97036,
+      "firstColumn": 96955,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-onefinestay.png\"/></a></h2> <h3> Profitez des plus",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97036,
+      "firstColumn": 96955,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-onefinestay.png\"/></a></h2> <h3> Profitez des plus",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 96888,
+      "firstColumn": 96885,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97384,
+      "firstColumn": 97293,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-grand-onefinestay.jpg\"/> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97384,
+      "firstColumn": 97293,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-grand-onefinestay.jpg\"/> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97605,
+      "firstColumn": 97529,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-rixos.png\" /></a></h2> <h3> Exigez le meilleu",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97605,
+      "firstColumn": 97529,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-rixos.png\" /></a></h2> <h3> Exigez le meilleu",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 97461,
+      "firstColumn": 97458,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97876,
+      "firstColumn": 97796,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-rixos.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 97876,
+      "firstColumn": 97796,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-rixos.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "url": "https://www.accorhotels.com/fr/france/index.shtml",
+      "lastLine": 13,
+      "lastColumn": 98093,
+      "message": "Element “img” is missing required attribute “src”."
+    },
+    {
+      "type": "error",
+      "url": "https://www.accorhotels.com/fr/france/index.shtml",
+      "lastLine": 13,
+      "lastColumn": 98093,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images."
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 97954,
+      "firstColumn": 97951,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 98379,
+      "firstColumn": 98298,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-mantis.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 98379,
+      "firstColumn": 98298,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-mantis.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 98631,
+      "firstColumn": 98541,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-mgallery-by-sofitel.png\" /></a></h2> <h3> MGALLERY by Sofit",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 98631,
+      "firstColumn": 98541,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-mgallery-by-sofitel.png\" /></a></h2> <h3> MGALLERY by Sofit",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 98470,
+      "firstColumn": 98467,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99031,
+      "firstColumn": 98937,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-mgallery-by-sofitel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 95
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99031,
+      "firstColumn": 98937,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-mgallery-by-sofitel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 95
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99257,
+      "firstColumn": 99180,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-pullman.png\"/></a></h2> <h3> Des hôtels haut d",
+      "hiliteStart": 10,
+      "hiliteLength": 78
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99257,
+      "firstColumn": 99180,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-pullman.png\"/></a></h2> <h3> Des hôtels haut d",
+      "hiliteStart": 10,
+      "hiliteLength": 78
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 99110,
+      "firstColumn": 99107,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99622,
+      "firstColumn": 99540,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-pullman.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99622,
+      "firstColumn": 99540,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-pullman.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99855,
+      "firstColumn": 99775,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-swissotel.png\" /></a></h2> <h3> Temps de qualité ",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 99855,
+      "firstColumn": 99775,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-swissotel.png\" /></a></h2> <h3> Temps de qualité ",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 99703,
+      "firstColumn": 99700,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100179,
+      "firstColumn": 100095,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-swissotel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100179,
+      "firstColumn": 100095,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-swissotel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100402,
+      "firstColumn": 100321,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/brands/assets/images/angsana/logo-angsana.png\" /></a></h2> <h3>Laissez-Vous Surpr",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100402,
+      "firstColumn": 100321,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/brands/assets/images/angsana/logo-angsana.png\" /></a></h2> <h3>Laissez-Vous Surpr",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 100258,
+      "firstColumn": 100255,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100667,
+      "firstColumn": 100591,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/brands/assets/images/angsana/angsana.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100667,
+      "firstColumn": 100591,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/brands/assets/images/angsana/angsana.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100894,
+      "firstColumn": 100816,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-25hours.png\" /></a></h2> <h3> Venez comme vous ",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 100894,
+      "firstColumn": 100816,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-25hours.png\" /></a></h2> <h3> Venez comme vous ",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 100746,
+      "firstColumn": 100743,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 101172,
+      "firstColumn": 101090,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-25hours.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 101172,
+      "firstColumn": 101090,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-25hours.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 101398,
+      "firstColumn": 101318,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-movenpick.png\" /></a></h2> <h3> Profitez de ces <",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 101398,
+      "firstColumn": 101318,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-movenpick.png\" /></a></h2> <h3> Profitez de ces <",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 101253,
+      "firstColumn": 101250,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 101810,
+      "firstColumn": 101726,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-movenpick.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 101810,
+      "firstColumn": 101726,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-movenpick.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 102054,
+      "firstColumn": 101970,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-grand-mercure.png\" /></a></h2> <h3> Grand Mercure, ré",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 102054,
+      "firstColumn": 101970,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-grand-mercure.png\" /></a></h2> <h3> Grand Mercure, ré",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 101895,
+      "firstColumn": 101892,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 102444,
+      "firstColumn": 102356,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-grand-mercure.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 102444,
+      "firstColumn": 102356,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-grand-mercure.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 102669,
+      "firstColumn": 102589,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-the-sebel.png\" /></a></h2> <h3> The Sebel : allia",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 102669,
+      "firstColumn": 102589,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-the-sebel.png\" /></a></h2> <h3> The Sebel : allia",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 102521,
+      "firstColumn": 102518,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103046,
+      "firstColumn": 102962,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-the-sebel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103046,
+      "firstColumn": 102962,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-the-sebel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103279,
+      "firstColumn": 103204,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-adagio-pre.png\" /></a></h2> <h3> Adagio premium pr",
+      "hiliteStart": 10,
+      "hiliteLength": 76
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103279,
+      "firstColumn": 103204,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-adagio-pre.png\" /></a></h2> <h3> Adagio premium pr",
+      "hiliteStart": 10,
+      "hiliteLength": 76
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 103128,
+      "firstColumn": 103125,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103667,
+      "firstColumn": 103586,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-doha-premium.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103667,
+      "firstColumn": 103586,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-doha-premium.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103853,
+      "firstColumn": 103775,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-novotel.png\" /></a> </h2> <h3> <strong>IL Y A T",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 103853,
+      "firstColumn": 103775,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-novotel.png\" /></a> </h2> <h3> <strong>IL Y A T",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 103746,
+      "firstColumn": 103743,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "andnovotellink\"><img",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104160,
+      "firstColumn": 104078,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-novotel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104160,
+      "firstColumn": 104078,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-novotel.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104387,
+      "firstColumn": 104309,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-mercure.png\" /></a></h2> <h3> Voyagez plus <str",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104387,
+      "firstColumn": 104309,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-mercure.png\" /></a></h2> <h3> Voyagez plus <str",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 104239,
+      "firstColumn": 104236,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104678,
+      "firstColumn": 104596,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-mercure.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104678,
+      "firstColumn": 104596,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-mercure.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104902,
+      "firstColumn": 104825,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-adagio.png\" /></a></h2> <h3> Aparthotels Adagi",
+      "hiliteStart": 10,
+      "hiliteLength": 78
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 104902,
+      "firstColumn": 104825,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-adagio.png\" /></a></h2> <h3> Aparthotels Adagi",
+      "hiliteStart": 10,
+      "hiliteLength": 78
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 104756,
+      "firstColumn": 104753,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 105298,
+      "firstColumn": 105217,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-adagio.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 105298,
+      "firstColumn": 105217,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-adagio.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 105522,
+      "firstColumn": 105447,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-mama.png\" /></a></h2> <h3> Plus que des cham",
+      "hiliteStart": 10,
+      "hiliteLength": 76
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 105522,
+      "firstColumn": 105447,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-mama.png\" /></a></h2> <h3> Plus que des cham",
+      "hiliteStart": 10,
+      "hiliteLength": 76
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 105373,
+      "firstColumn": 105370,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 105981,
+      "firstColumn": 105903,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-msh.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 105981,
+      "firstColumn": 105903,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-msh.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 106199,
+      "firstColumn": 106124,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-ibis.png\" /></a></h2> <h3> Ibis : plus de 10",
+      "hiliteStart": 10,
+      "hiliteLength": 76
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 106199,
+      "firstColumn": 106124,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-ibis.png\" /></a></h2> <h3> Ibis : plus de 10",
+      "hiliteStart": 10,
+      "hiliteLength": 76
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 106057,
+      "firstColumn": 106054,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 106567,
+      "firstColumn": 106488,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-ibis.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 106567,
+      "firstColumn": 106488,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-ibis.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 106805,
+      "firstColumn": 106723,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-ibis-styles.png\" /></a></h2> <h3> Des hôtels origin",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 106805,
+      "firstColumn": 106723,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-ibis-styles.png\" /></a></h2> <h3> Des hôtels origin",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 106650,
+      "firstColumn": 106647,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 107174,
+      "firstColumn": 107088,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-ibis-styles.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 107174,
+      "firstColumn": 107088,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-ibis-styles.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 107412,
+      "firstColumn": 107330,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-ibis-budget.png\" /></a></h2> <h3> Ibis Budget, c'es",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 107412,
+      "firstColumn": 107330,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-ibis-budget.png\" /></a></h2> <h3> Ibis Budget, c'es",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 107257,
+      "firstColumn": 107254,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 107795,
+      "firstColumn": 107709,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-ibis-budget.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 107795,
+      "firstColumn": 107709,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-ibis-budget.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "url": "https://www.accorhotels.com/fr/france/index.shtml",
+      "lastLine": 13,
+      "lastColumn": 108029,
+      "message": "Element “img” is missing required attribute “src”."
+    },
+    {
+      "type": "error",
+      "url": "https://www.accorhotels.com/fr/france/index.shtml",
+      "lastLine": 13,
+      "lastColumn": 108029,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images."
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 107870,
+      "firstColumn": 107867,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 108414,
+      "firstColumn": 108336,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-adp.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 108414,
+      "firstColumn": 108336,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/carousel-hotel-adp.jpg\" /> </div> <div class=\"item\" data-h",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 108644,
+      "firstColumn": 108565,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-joandjoe.png\" /></a></h2> <h3> JO&JOE créé l’Ope",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 108644,
+      "firstColumn": 108565,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "load\" data-src=\"/imagerie/home/brand/logo-hotel-joandjoe.png\" /></a></h2> <h3> JO&JOE créé l’Ope",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 108494,
+      "firstColumn": 108491,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "ps://www.accorhotels",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 108962,
+      "firstColumn": 108879,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/carousel-hotel-joandjoe.jpg\" /> </div> <div class=\"item\" data-ho",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 108962,
+      "firstColumn": 108879,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/carousel-hotel-joandjoe.jpg\" /> </div> <div class=\"item\" data-ho",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 109190,
+      "firstColumn": 109111,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/logo-hotel-hotel-f1.png\" /></a></h2> <h3> Partez sur les rou",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 109190,
+      "firstColumn": 109111,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/logo-hotel-hotel-f1.png\" /></a></h2> <h3> Partez sur les rou",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 109041,
+      "firstColumn": 109038,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "s://www.accorhotels.",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 109506,
+      "firstColumn": 109424,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/carousel-hotel-hotelf1.jpg\" /> </div> <div class=\"item\" data-ho",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 109506,
+      "firstColumn": 109424,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/carousel-hotel-hotelf1.jpg\" /> </div> <div class=\"item\" data-ho",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 109741,
+      "firstColumn": 109662,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/logo-hotel-thalassa.png\" /></a></h2> <h3> Placez votre séjou",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 109741,
+      "firstColumn": 109662,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/logo-hotel-thalassa.png\" /></a></h2> <h3> Placez votre séjou",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 109586,
+      "firstColumn": 109583,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "s://www.accorhotels.",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 110107,
+      "firstColumn": 110024,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/carousel-hotel-thalassa.jpg\" /> </div> </div> </div> <!-- / Caro",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 110107,
+      "firstColumn": 110024,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "oad\" data-src=\"/imagerie/home/brand/carousel-hotel-thalassa.jpg\" /> </div> </div> </div> <!-- / Caro",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 110336,
+      "firstColumn": 110276,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel raffles\" href=\"@@brandlinkraffles\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 110550,
+      "firstColumn": 110479,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel banyantree\" href=\"@@brandlinkaccorbanyantree\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 110774,
+      "firstColumn": 110701,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel sofitel-legend\" href=\"@@brandlinksofitellegend\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 110994,
+      "firstColumn": 110931,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel fairmont\" href=\"@@brandlinksfairmont\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 64
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 111204,
+      "firstColumn": 111139,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel so-sofitel\" href=\"@@brandlinksosofitel\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 111405,
+      "firstColumn": 111345,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel sofitel\" href=\"@@brandlinksofitel\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 111616,
+      "firstColumn": 111548,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel onefinestay\" href=\"@@brandlinkonefinestay\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 69
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 111823,
+      "firstColumn": 111767,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel rixos\" href=\"@@brandlinkrixos\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 57
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 112020,
+      "firstColumn": 111962,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel mantis\" href=\"@@brandlinkmantis\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 59
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 112234,
+      "firstColumn": 112161,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel mgallery-by-sofitel\" href=\"@@brandlinkmgallery\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 112439,
+      "firstColumn": 112379,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel pullman\" href=\"@@brandlinkpullman\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 112646,
+      "firstColumn": 112582,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel swissotel\" href=\"@@brandlinkswissotel\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 65
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 112853,
+      "firstColumn": 112793,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel angsana\" href=\"@@brandlinkangsana\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 113065,
+      "firstColumn": 113005,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel 25hours\" href=\"@@brandlink25hours\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 113273,
+      "firstColumn": 113209,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel movenpick\" href=\"@@brandlinkmovenpick\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 65
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 113540,
+      "firstColumn": 113469,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel grand-mercure\" href=\"@@brandlinkgrandmercure\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 113751,
+      "firstColumn": 113695,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel sebel\" href=\"@@brandlinksebel\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 57
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 113963,
+      "firstColumn": 113898,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel adagio-pre\" href=\"@@brandlinkadagiopre\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 114176,
+      "firstColumn": 114116,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel novotel\" href=\"@@brandlinknovotel\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 114379,
+      "firstColumn": 114319,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel mercure\" href=\"@@brandlinkmercure\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 114580,
+      "firstColumn": 114522,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel adagio\" href=\"@@brandlinkadagio\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 59
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 114774,
+      "firstColumn": 114721,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel  msh\" href=\"@@brandlinkmsh\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 114973,
+      "firstColumn": 114919,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel ibis\" href=\"@@brandlinkibis\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 55
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 115177,
+      "firstColumn": 115110,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel ibis-styles\" href=\"@@brandlinkibisstyles\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 115395,
+      "firstColumn": 115328,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel ibis-budget\" href=\"@@brandlinkibisbudget\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 115599,
+      "firstColumn": 115546,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel  adp\" href=\"@@brandlinkadp\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 115816,
+      "firstColumn": 115754,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "carousel joandjoe\" href=\"@@brandlinkjoandjoe\"> <img class=\"lazyload\" data-src=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 116020,
+      "firstColumn": 115960,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "arousel hotelf1\" href=\"@@brandlinkhotelf1\"> <img class=\"lazyload\" data-src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 116232,
+      "firstColumn": 116165,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "arousel thalassa\" href=\"@@brandlinkaccorthalassa\"> <img class=\"lazyload\" data-src=\"/",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 117228,
+      "firstColumn": 117087,
+      "message": "Bad value “” for attribute “src” on element “img”: Must be non-empty.",
+      "extract": "rc=\"https://www.tripadvisor.com/img/cdsi/partner/accor/accor_custom_2-13074-0.jpg\" alt=\"Nos avis client avec tripadvisor\" /> </div> <div class=\"item-content\">",
+      "hiliteStart": 10,
+      "hiliteLength": 142
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 117482,
+      "firstColumn": 117414,
+      "message": "Bad value “” for attribute “src” on element “img”: Must be non-empty.",
+      "extract": "rc=\"/imagerie/home/partners/europcar.jpg\" alt=\"\" /> </a> <div class=\"item-content\"> <",
+      "hiliteStart": 10,
+      "hiliteLength": 69
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 117957,
+      "firstColumn": 117935,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "t=\"\">Fournisseur officiel de Roland-Gar",
+      "hiliteStart": 10,
+      "hiliteLength": 23
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 118074,
+      "firstColumn": 118006,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "=\"\" style=\"pointer-events: none; cursor: default;\"> <img src=\"/imagerie/px.gif\" data-",
+      "hiliteStart": 10,
+      "hiliteLength": 69
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 118842,
+      "firstColumn": 118753,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/fr/content/accorhotels-arena/index.shtml\"  target=\"\">AccorHotels Arena</a> </h2> <a hre",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 118960,
+      "firstColumn": 118871,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/fr/content/accorhotels-arena/index.shtml\" target=\"\" > <img src=\"/imagerie/px.gif\" data-",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 119380,
+      "firstColumn": 119272,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/fr/content/accorhotels-arena/index.shtml\"  class=\"btnAction\" target=\"\" > <span>Découvrir</span> </a> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 119840,
+      "firstColumn": 119757,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/fr/content/welcomefans/index.shtml\"  target=\"\">À découvrir sur www.welcome.fans</",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 119967,
+      "firstColumn": 119884,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/fr/content/welcomefans/index.shtml\" target=\"\" > <img src=\"/imagerie/px.gif\" data-",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 120420,
+      "firstColumn": 120318,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/fr/content/welcomefans/index.shtml\"  class=\"btnAction\" target=\"\" > <span>Découvrir</span> </a> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 120873,
+      "firstColumn": 120797,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/brands/onefinestay.fr.shtml\"  target=\"\">Découvrez les plus belles propriét",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 120997,
+      "firstColumn": 120921,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/brands/onefinestay.fr.shtml\" target=\"\" > <img src=\"/imagerie/px.gif\" data-",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 121423,
+      "firstColumn": 121328,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "ww.accorhotels.com/brands/onefinestay.fr.shtml\"  class=\"btnAction\" target=\"\" > <span>Découvrir</span> </a> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 96
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 122215,
+      "firstColumn": 122154,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "-12 col-sm-4 web-assist callcenter-content\"> <a href=\"/fr/contact/contact.shtm",
+      "hiliteStart": 10,
+      "hiliteLength": 62
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 122801,
+      "firstColumn": 122683,
+      "message": "Bad value “/mailing_list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB\" class=\"col-xs-12 col-sm-4 web-newsletter\"> <span class=\"ico ico-web-newsletter",
+      "hiliteStart": 10,
+      "hiliteLength": 119
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 126012,
+      "firstColumn": 125908,
+      "message": "Bad value “/mailing_list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "st.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB\" class=\"ico ico-small-email\"></a></li> </ul> </div> <p class=",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 126420,
+      "firstColumn": 126417,
+      "message": "Element “ul” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "booking/advanced-sea",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 127110,
+      "firstColumn": 127107,
+      "message": "Element “ul” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "s://www.accorhotels.",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 128093,
+      "firstColumn": 128090,
+      "message": "Element “ul” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "s://www.accorhotels.",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 128932,
+      "firstColumn": 128897,
+      "message": "Element “div” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "ol-md-12\"> <a href=\"https://www.accorhotels.com/fr/a",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 129529,
+      "firstColumn": 129411,
+      "message": "Bad value “/mailing_list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "t?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB\" rel=\"nofollow\" class=\"link-section-title\">NEWSLETTER</a> </span> <span class=\"link-sec",
+      "hiliteStart": 10,
+      "hiliteLength": 119
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 129734,
+      "firstColumn": 129731,
+      "message": "Element “ul” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "umber\"><span></span>",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 130183,
+      "firstColumn": 130180,
+      "message": "Element “ul” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "t/index.shtml\" rel=\"",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 130485,
+      "firstColumn": 130383,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/de/deutschland/index.shtml\" hreflang=\"de-de\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 130589,
+      "firstColumn": 130487,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/de/oesterreich/index.shtml\" hreflang=\"de-at\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 130693,
+      "firstColumn": 130591,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/de/switzerland/index.shtml\" hreflang=\"de-ch\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 130793,
+      "firstColumn": 130695,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/es/sudamerica/index.shtml\" hreflang=\"es\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 130892,
+      "firstColumn": 130795,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/es/espana/index.shtml\" hreflang=\"es-es\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 130991,
+      "firstColumn": 130894,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/fr/france/index.shtml\" hreflang=\"fr-fr\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131095,
+      "firstColumn": 130993,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/fr/switzerland/index.shtml\" hreflang=\"fr-ch\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131195,
+      "firstColumn": 131097,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/fr/belgium/index.shtml\" hreflang=\"fr-be\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131294,
+      "firstColumn": 131197,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/fr/canada/index.shtml\" hreflang=\"fr-ca\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131394,
+      "firstColumn": 131296,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/fr/africa/index.shtml\" hreflang=\"fr-mar\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131501,
+      "firstColumn": 131396,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/united-kingdom/index.shtml\" hreflang=\"en-gb\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 106
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131601,
+      "firstColumn": 131503,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/ireland/index.shtml\" hreflang=\"en-ie\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131697,
+      "firstColumn": 131603,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/usa/index.shtml\" hreflang=\"en-us\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 95
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131795,
+      "firstColumn": 131699,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/india/index.shtml\" hreflang=\"en-in\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131897,
+      "firstColumn": 131797,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/indonesia/index.shtml\" hreflang=\"en-id\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 131995,
+      "firstColumn": 131899,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/china/index.shtml\" hreflang=\"en-cn\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132094,
+      "firstColumn": 131997,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/canada/index.shtml\" hreflang=\"en-ca\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132196,
+      "firstColumn": 132096,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/australia/index.shtml\" hreflang=\"en-au\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132295,
+      "firstColumn": 132198,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/sweden/index.shtml\" hreflang=\"en-se\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132396,
+      "firstColumn": 132297,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/thailand/index.shtml\" hreflang=\"en-th\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 100
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132497,
+      "firstColumn": 132398,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/middle-east/index.shtml\" hreflang=\"en\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 100
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132597,
+      "firstColumn": 132499,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/africa/index.shtml\" hreflang=\"en-mar\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132703,
+      "firstColumn": 132599,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/new-zealand-fiji/index.shtml\" hreflang=\"en\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132814,
+      "firstColumn": 132705,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/taiwan-hongkong-macao/index.shtml\" hreflang=\"en\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 132943,
+      "firstColumn": 132816,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/czech-republic-slovakia-hungary-romania/index.shtml\" hreflang=\"en\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 128
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133055,
+      "firstColumn": 132945,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/denmark-norway-finland/index.shtml\" hreflang=\"en\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133153,
+      "firstColumn": 133057,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/japan/index.shtml\" hreflang=\"en-jp\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133257,
+      "firstColumn": 133155,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/gb/south-korea/index.shtml\" hreflang=\"en-kr\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133356,
+      "firstColumn": 133259,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/tr/turkey/index.shtml\" hreflang=\"tr-tr\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133458,
+      "firstColumn": 133358,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/id/indonesia/index.shtml\" hreflang=\"id-id\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133557,
+      "firstColumn": 133460,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/it/italia/index.shtml\" hreflang=\"it-it\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133655,
+      "firstColumn": 133559,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/ja/japan/index.shtml\" hreflang=\"ja-jp\" /><link rel=\"alternate\" href=\"https://www.acco",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133754,
+      "firstColumn": 133656,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/nl/belgium/index.shtml\" hreflang=\"nl-be\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133856,
+      "firstColumn": 133756,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/nl/nederland/index.shtml\" hreflang=\"nl-nl\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 133955,
+      "firstColumn": 133858,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/pl/polska/index.shtml\" hreflang=\"pl-pl\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134056,
+      "firstColumn": 133957,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/pt/portugal/index.shtml\" hreflang=\"pt-pt\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 100
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134158,
+      "firstColumn": 134058,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/pt-br/brasil/index.shtml\" hreflang=\"pt-br\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134257,
+      "firstColumn": 134160,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/ru/russia/index.shtml\" hreflang=\"ru-ru\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134355,
+      "firstColumn": 134259,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/zh/china/index.shtml\" hreflang=\"zh-cn\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134459,
+      "firstColumn": 134357,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/ko/south-korea/index.shtml\" hreflang=\"ko-kr\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134560,
+      "firstColumn": 134461,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/th/thailand/index.shtml\" hreflang=\"th-th\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 100
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134661,
+      "firstColumn": 134562,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/ar/middle-east/index.shtml\" hreflang=\"ar\" /> <link rel=\"alternate\" href=\"https://www.acc",
+      "hiliteStart": 10,
+      "hiliteLength": 100
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134760,
+      "firstColumn": 134663,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "https://www.accorhotels.com/sv/sweden/index.shtml\" hreflang=\"sv-se\" /> <link rel=\"alternate\" href=\"android-app://c",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 134850,
+      "firstColumn": 134762,
+      "message": "A “link” element must not appear as a descendant of a “body” element unless the “link” element has an “itemprop” attribute or has a “rel” attribute whose value contains “dns-prefetch”, “modulepreload”, “pingback”, “preconnect”, “prefetch”, “preload”, “prerender”, or “stylesheet”.",
+      "extract": "android-app://com.accor.appli.hybrid/accorhotels/homepage\" /></p> </li> <li><a href=\"/loyalty/homePageLoy",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "url": "https://www.accorhotels.com/fr/france/index.shtml",
+      "lastLine": 13,
+      "lastColumn": 135646,
+      "message": "Element “ul” not allowed as child of element “span” in this context. (Suppressing further errors from this subtree.)"
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 136580,
+      "firstColumn": 136529,
+      "message": "Attribute “name” not allowed on element “div” at this point.",
+      "extract": " name=\"footer-mentions\"> <div id=\"footer-links\"> <ul> <li class=\"nom",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 136743,
+      "firstColumn": 136652,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "rc=\"/imagerie/commun/footer/globalSign.gif\"  alt=\"globalSign\" /></li> <li>© AccorHotels 2016</li> <li>沪ICP备1",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 137124,
+      "firstColumn": 137030,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "oad\" data-src=\"/imagerie/commun/footer/logo-fevad.jpg\" alt=\"fevad\"></a></li> <li><img class=\"logo-hotel-dor laz",
+      "hiliteStart": 10,
+      "hiliteLength": 95
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 137243,
+      "firstColumn": 137139,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "azyload\" data-src=\"/imagerie/commun/footer/travel_dor.jpg\" alt=\"travel d'or\"></li> </ul> <ul> <li>*Prix à partir de. Offr",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 138121,
+      "firstColumn": 138043,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "t\" src=\"/scripts-v1807/lib/jquery-1.7.2-min-ah.js\"></script> <script language=\"javascript\" type",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 138220,
+      "firstColumn": 138132,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "\" type=\"text/javascript\" src=\"/scripts-v1807/main-legacy.js\"></script> <script language=\"javascript\" type",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 138220,
+      "firstColumn": 138132,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "\" type=\"text/javascript\" src=\"/scripts-v1807/main-legacy.js\"></script> <script language=\"javascript\" type",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 138319,
+      "firstColumn": 138231,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "\" type=\"text/javascript\" src=\"/scripts-v1807/set/ah-home.js\"></script> <script>if(typeof window.addEventL",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 138319,
+      "firstColumn": 138231,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "\" type=\"text/javascript\" src=\"/scripts-v1807/set/ah-home.js\"></script> <script>if(typeof window.addEventL",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 54090,
+      "firstColumn": 54044,
+      "message": "The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.",
+      "extract": "2\"> <label for=\"identification-businessTravel-boo\">Voyageurs d'",
+      "hiliteStart": 10,
+      "hiliteLength": 47
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 2234,
+      "firstColumn": 2066,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button id=\"link-control-link-navigation-menu\" aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    }
+  ],
+  "language": "fr"
+}

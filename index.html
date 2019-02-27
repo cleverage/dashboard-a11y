@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Accessibility dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="stylesheet" href="report/assets/main.css">
+</head>
+
+<body>
+
+  <main id="main" role="main" class="wrapper">
+
+    <h1>Accessibility dashboard</h1>
+
+    <div class="intro">
+      <p>Warning: even the best automated accessibility testing tools will only test one-third of all accessibility tests. In other words, theses tools are not magic. They are useful but they have to be completed by a human evaluation.</p>
+
+      <h2>What's aXe and W3C ?</h2>
+
+      <ul>
+        <li>
+          aXe : automated tool that can find accessibility defects of Web documents. 
+        </li>
+        <li>
+          w3c : automated tool that helps check the validity of Web documents.
+        </li>
+      </ul>
+    </div>
+
+    <script id="template" type="text-template">
+      {{#data}}
+      <div id="res{{index}}-{{#clean}}{{name}}{{/clean}}" class="results hide">
+        <h2 id="id{{index}}-{{#clean}}{{name}}{{/clean}}"><a href="{{url}}">{{name}}</a> - {{site}}</h2>
+        <div id="chart{{index}}-{{#clean}}{{name}}{{/clean}}" class="chart"></div>
+        <button type="button" aria-controls="table{{index}}-{{#clean}}{{name}}{{/clean}}" aria-expanded="false" data-label--more="Show data table"
+         data-label--less="Hide date table" aria-describedby="id{{index}}-{{#clean}}{{name}}{{/clean}}" class="btn btn--secondary toggle">Show data table</button>
+        <table id="table{{index}}-{{#clean}}{{name}}{{/clean}}" class="table" aria-hidden="true">
+          <caption>{{site}} <br /> <a href="{{url}}">{{name}}</a></caption>
+          <thead>
+            <tr>
+              <th scope="col">Date</th>
+              <th scope="col">aXe (errors)</th>
+              <th scope="col">W3C (errors)</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{#results}}
+            <tr>
+              <th class="th" scope="row">{{date}}</th>
+              <td>{{axe}}</td>
+              <td>{{w3c}}</td>
+            </tr>
+            {{/results}}
+          </tbody>
+        </table>
+      </div>
+      {{/data}}
+    </script>
+  </main>
+
+  <footer role="contentinfo" class="wrapper footer">
+    <p>Dashboard made with <span aria-hidden="true">❤</span> <span class="sr-only">love</span> by <a href="https://www.clever-age.com">Clever Age</a><br/> <a href="https://github.com/cleverage/dashboard-a11y">https://github.com/cleverage/dashboard-a11y</a></p>
+    <img src="src/img/logo.png" alt="" width="120" height="46" />
+  </footer>
+
+  <script src="report/assets/main.js"></script>
+  
+</body>
+
+</html>

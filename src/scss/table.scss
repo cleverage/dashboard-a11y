@@ -1,0 +1,73 @@
+@import 'color';
+
+.table-wrapper {
+  display: flex;
+}
+
+.table {
+	margin: 0 4em 4em 0;
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.36);
+	border-collapse: collapse;
+  min-width: 15em;
+}
+
+caption {
+	font-size: 1.5em;
+	margin: 1em;
+
+  a {
+    font-size: 0.667em;
+  }
+}
+
+td, th {
+	padding: .5em;
+	border-right: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+}
+
+th {
+	background-color: $c-blue-alpha;
+	color: $c-white;
+}
+
+td {
+	border-color: $c-blue-alpha;
+}
+
+thead th {
+	width: 5em;
+	border-left: 1px solid $c-white;
+	border-right: 1px solid $c-white;
+	border-bottom: 1px solid $c-white;
+
+	&:first-child {
+		border-left: 2px solid $c-blue-alpha;
+	}
+
+	&:last-child {
+		border-right: 2px solid $c-blue-alpha;
+	}
+}
+
+tbody {
+	border-left: 2px solid $c-blue-alpha;
+	border-right: 2px solid $c-blue-alpha;
+
+	&tr:nth-child(odd) td{
+		background-color: rgba(13, 35, 45, .1);
+	}
+
+	&th {
+		font-size: 0.875em;
+		border: 1px solid $c-blue-alpha;
+	}
+
+	.th {
+		text-align: left;
+		background-color: rgba(13, 35, 45, .3);
+		border-color: $c-white;
+		color: $c-black;
+		font-size: 0.875em;
+	}
+}
