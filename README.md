@@ -1,6 +1,6 @@
 # Accessibility dashboard
 
-Launch the W3C and aXe tool on a list of URLs ontained in a JSON file.
+Launch the W3C and aXe tools on a list of URLs contained in a JSON file.
 
 What's aXe and W3C ?
 * aXe : automated tool that can find accessibility defects of Web documents. 
