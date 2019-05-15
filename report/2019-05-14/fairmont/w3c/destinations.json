@@ -1,0 +1,10 @@
+{
+  "url": "https://www.fairmont.com/destinations/",
+  "messages": [
+    {
+      "type": "non-document-error",
+      "subType": "io",
+      "message": "Read timed out"
+    }
+  ]
+}

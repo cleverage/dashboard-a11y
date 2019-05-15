@@ -21,22 +21,38 @@
 // gulp plugins
 const assert = require('assert'),
 			autoprefixer = require('gulp-autoprefixer'),
-			axecore = require('axe-core'),
 			colors = require('colors'),
 			concat = require('gulp-concat'),
 			cssmin = require('gulp-cssnano'),
 			express = require('express'),
 			fs = require('fs'),
-	    gulp = require('gulp-help')(require('gulp')),
+			gulp = require('gulp'),
 	    glob = require('glob-fs')(),
+	    help = require('gulp-help-four')(gulp),
 			moment = require('moment'),
 			path = require('path'),
 			puppeteer = require('puppeteer'),
-			runSequence = require('run-sequence'),
 			sass = require('gulp-sass'),
 	    uglify = require('gulp-uglify-es').default,
 			w3c = require('html-validator'),
+			{ AxePuppeteer } = require('axe-puppeteer'),
 	  	{ parse: parseURL } = require('url');
+
+
+// Remove accents + lowercase + remove spaces
+function cleanStr(str) {
+  var accents    = 'ÀÁÂÃÄÅàáâãäåÒÓÔÕÕÖØòóôõöøÈÉÊËèéêëðÇçÐÌÍÎÏìíîïÙÚÛÜùúûüÑñŠšŸÿýŽž';
+  var accentsOut = "AAAAAAaaaaaaOOOOOOOooooooEEEEeeeeeCcDIIIIiiiiUUUUuuuuNnSsYyyZz";
+  str = str.split('');
+  var strLen = str.length;
+  var i, x;
+  for (i = 0; i < strLen; i++) {
+    if ((x = accents.indexOf(str[i])) != -1) {
+      str[i] = accentsOut[x];
+    }
+  }
+  return str.join('').toLowerCase().replace(/\s-\s/g, '-').replace(/\s/g, '-');
+}
 
 
 // variables
@@ -93,12 +109,12 @@ gulp.task('js', 'Concat + minify JS', function() {
 
 
 // w3c validator
-gulp.task('w3c', 'Running w3c validator', function () {
+gulp.task('w3c', 'Running w3c validator', function (done) {
 
 	for(let i in jsonData) {
 
 		// create site folder in results folder
-		const folderResultsSite = folderTime + '/' + jsonData[i].site;
+		const folderResultsSite = folderTime + '/' + cleanStr(jsonData[i].site);
 		if (!fs.existsSync(folderResultsSite)) {
 			fs.mkdirSync(folderResultsSite);
 		}
@@ -120,11 +136,11 @@ gulp.task('w3c', 'Running w3c validator', function () {
 
 			w3c(options).then(result => {
 
-				console.log('Running' + colors.cyan(' w3c ') + 'validator: ' + urlExtract);
+				console.log(colors.cyan('Running w3c validator: ') + urlExtract);
 
 				const jsonResult = JSON.parse(result);
 				let results = JSON.stringify(jsonResult, null, 2);
-				fs.writeFileSync(folderResultsW3c + '/' + nameExtract + '.json', results);
+				fs.writeFileSync(folderResultsW3c + '/' + cleanStr(nameExtract) + '.json', results);
 
 			  const totals = {errors: 0},
 							errTypes = {ERROR: 'error'};
@@ -147,113 +163,96 @@ gulp.task('w3c', 'Running w3c validator', function () {
 
 	}
 
+	done();
+
 });
 
 
 // axe-core validator
-gulp.task('axe', 'Running axe-core validator', function() {
+gulp.task('axe', 'Running axe-core validator', function(done) {
 
-	for(let i in jsonData) {
+	;(async () => {
 
-		// create site folder in results folder
-		const folderResultsSite = folderTime + '/' + jsonData[i].site;
-		if (!fs.existsSync(folderResultsSite)) {
-			fs.mkdirSync(folderResultsSite);
-		}
+		const browser = await puppeteer.launch({
+	        	args: [
+			        '--no-sandbox',
+			        '--headless',
+			        '--disable-gpu',
+			        '--window-size=1920x1080'
+			    	]
+			  	}),
+					page = await browser.newPage(),
+					isValidURL = input => {
+						const u = parseURL(input);
+						return u.protocol && u.host;
+					};
 
-		for (let j = 0; j < jsonData[i].data.length; j++) {
+		await page.setBypassCSP(true);
 
-			process.setMaxListeners(Infinity);
+		for(let i in jsonData) {
 
-			// Cheap URL validation
-			const isValidURL = input => {
-				const u = parseURL(input);
-				return u.protocol && u.host;
-			};
-
-			const url = jsonData[i].data[j].url,
-						nameExtract = jsonData[i].data[j].name;
-			assert(isValidURL(url), 'Invalid URL');
-
-			const main = async url => {
-				let browser;
-				let results;
-				try {
-					// Setup Puppeteer
-					browser = await puppeteer.launch();
-
-					// Get new page
-					const page = await browser.newPage();
-					await page.goto(url, {
-	          timeout: 1800000 // 30 minutes
-	        });
-
-	        await page.waitFor(60000); // 1 minute
-
-					// Inject and run axe-core
-					const handle = await page.evaluateHandle(`
-						// Inject axe source code
-						${axecore.source}
-						// Run axe
-						axe.run()
-					`);
-
-					// Get the results from `axe.run()`.
-					results = await handle.jsonValue();
-					// Destroy the handle & return axe results.
-					await handle.dispose();
-				} catch (err) {
-					// Ensure we close the puppeteer connection when possible
-					if (browser) {
-						await browser.close();
-					}
-
-					// Re-throw
-					throw err;
-				}
-
-				await browser.close();
-				return results;
-			};
+			// create site folder in results folder
+			const folderResultsSite = folderTime + '/' + jsonData[i].site;
+			if (!fs.existsSync(folderResultsSite)) {
+				fs.mkdirSync(folderResultsSite);
+			}
 
 			// create aXe folder in site folder
 			const folderResultsAxe = folderResultsSite + '/' + 'axe'; 
 			if (!fs.existsSync(folderResultsAxe)) {
 				fs.mkdirSync(folderResultsAxe);
-			}
+			}	
 
-			main(url)
-				.then(result => {
+			for (let j = 0; j < jsonData[i].data.length; j++) {
 
-					console.log('Running' + colors.cyan(' axe ') + 'validator: ' + url);					
+				const url = jsonData[i].data[j].url,
+							nameExtract = jsonData[i].data[j].name;
 
-					let arr = [];
-					let results = JSON.stringify(result, null, 2);
-					fs.writeFileSync(folderResultsAxe + '/' + nameExtract + '.json', results);
+				assert(isValidURL(url), 'Invalid URL');
 
-					for(let i in result.violations) {
-		      	arr.push(result.violations[i].nodes.length);
-		      }
-
-	      	const count = arr.reduce(function(acc, val) { return acc + val; }, 0);
-
-					jsonData[i].data[j].results['axe'] = count;
-					let data = JSON.stringify(jsonData, null, 2);
-					fs.writeFileSync(folderTime + '/' + name + '.json', data);
-
-				})
-				.catch(err => {
-					console.error(colors.red('Error running aXe validator: ', url, '', err.message));
+				await page.goto(url, {
+      		timeout : 60000 // 1 minute 
 				});
-			
+
+		    const res = await new AxePuppeteer(page)
+		    	.disableRules('frame-tested')
+				  .analyze()
+				  .then(function(res) {
+				  	console.log(colors.cyan('Running axe validator: ') + url);
+
+				    // Extract data from url
+						let arr = [];
+						let results = JSON.stringify(res, null, 2);
+						fs.writeFileSync(folderResultsAxe + '/' + cleanStr(nameExtract) + '.json', results);
+						
+						for(let i in res.violations) {
+			      	arr.push(res.violations[i].nodes.length);
+			      }
+		      	
+		      	const count = arr.reduce(function(acc, val) { return acc + val; }, 0);
+						jsonData[i].data[j].results['axe'] = count;
+						
+						let data = JSON.stringify(jsonData, null, 2);
+						fs.writeFileSync(folderTime + '/' + name + '.json', data);
+				  })
+				  .catch(err => {
+				  	console.error(colors.red('Error running aXe validator: ', url, '', err.message));
+				  })
+			}
 		}
-	}
+
+		await page.close()
+    await browser.close()
+
+	})();
+
+	done();
 
 });
 
 
 // build of the final json file
-gulp.task('json', 'Generate JSON file', function() {
+gulp.task('json', 'Generate JSON file', function(done) {
 	
 	let nameBuild = 'dataBuild';
 
@@ -275,7 +274,7 @@ gulp.task('json', 'Generate JSON file', function() {
 	  		jsonFile =  fs.readFileSync(file),
 	  		jsonData = JSON.parse(jsonFile);
 
-		console.log('Extract data from ' + colors.cyan(file))
+		console.log(colors.cyan('Extract data from: ') + file);
 
 	  for(let i in jsonData) {
 
@@ -290,40 +289,54 @@ gulp.task('json', 'Generate JSON file', function() {
 		}
 	});
 
-	console.log('Build ' + colors.cyan(folderReport + '/assets/' + nameBuild + '.json'))
+	console.log('Build: ' + colors.cyan(folderReport + '/assets/' + nameBuild + '.json'))
+
+	done();
 
 });
 
 
 // dashboard launch with sexy tables and sexy charts
-gulp.task('localhost', 'Running localhost', function() {
+gulp.task('localhost', 'Running localhost', function(done) {
 	const app = express();
 	app.use(express.static(__dirname));
 	app.listen(3000);
-	console.log('Running' + colors.cyan(' http://localhost:3000/'));
+	console.log(colors.cyan('Running: ') + 'http://localhost:3000/');
+	done();
 });
 
 
 // Build
-gulp.task('build', 'Build assets CSS, JS and JSON', function() {
-  runSequence('css', 'js', 'json');
-});
+gulp.task('build', 'Build assets CSS, JS and JSON', gulp.series([
+  'css',
+  'js',
+  'json'
+]));
 
 
 // Tools
-gulp.task('tools', 'Running tools', function() {
-  runSequence('w3c', 'axe');
-});
+gulp.task('tools', 'Running tools', gulp.series([
+  'w3c',
+  'axe'
+]));
 
 
 // Dashboard
-gulp.task('dashboard', 'Running dashboard', function() {
-  runSequence('css', 'js', 'json', 'localhost');
-});
+gulp.task('dashboard', 'Running dashboard', gulp.series([
+  'css',
+  'js',
+  'json',
+  'localhost'
+]));
 
 
 // Default task
-gulp.task('default', 'Default task', function() {
-  runSequence('w3c', 'axe', 'css', 'js', 'json', 'localhost');
-});
+gulp.task('default', 'Default task', gulp.series([
+  'w3c',
+  'axe',
+  'css',
+  'js',
+  'json',
+  'localhost'
+]));
 

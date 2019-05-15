@@ -1,0 +1,10 @@
+{
+  "url": "https://www.fairmont.com/help/terms-and-conditions/",
+  "messages": [
+    {
+      "type": "non-document-error",
+      "subType": "io",
+      "message": "Read timed out"
+    }
+  ]
+}

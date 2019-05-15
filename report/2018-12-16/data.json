@@ -148,7 +148,7 @@
       },
       {
         "name": "Register",
-        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/register?redirect=https%3A%2F%2Fwww.accorhotels.com%2Ffr%2Ffrance%2Findex.shtml",
+        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/register",
         "results": 
           {
             "w3c": 56,
@@ -157,38 +157,11 @@
       },
       {
         "name": "Login",
-        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/login?redirect=https%3A%2F%2Fwww.accorhotels.com%2Ffr%2Ffrance%2Findex.shtml",
+        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/login",
         "results": 
           {
             "w3c": 56,
             "axe": 9
-          }
-      },
-      {
-        "name": "Tunnel step 1",
-        "url": "https://secure.accorhotels.com/store/index.html#/fr/map?geoCode=V2996&geoType=VI&dateIn=2019-01-07&nights=1&adults=1&offerId=003923&domainId=https:~2F~2Fwww.accorhotels.com&origin=accorhotels",
-        "results": 
-          {
-            "w3c": 12,
-            "axe": 30
-          }
-      },
-      {
-        "name": "Tunnel step 2",
-        "url": "https://secure.accorhotels.com/store/index.html#/fr/hotels?geoCode=SI48&geoType=SI&dateIn=2019-01-07&nights=1&adults=1&offerId=003923&domainId=https:~2F~2Fwww.accorhotels.com&origin=accorhotels",
-        "results": 
-          {
-            "w3c": 12,
-            "axe": 124
-          }
-      },
-      {
-        "name": "Tunnel step 3",
-        "url": "https://secure.accorhotels.com/store/index.html#/fr/rooms?hotelCode=0785&dateIn=2019-01-07&nights=1&adults=1&offerId=003923&domainId=https:~2F~2Fwww.accorhotels.com&origin=accorhotels",
-        "results": 
-          {
-            "w3c": 12,
-            "axe": 54
           }
       },
       {
@@ -293,7 +266,7 @@
     ]
   },
   {
-    "site": "Swisshôtel",
+    "site": "Swissôtel",
     "data": [
       {
         "name": "Home",

@@ -1,0 +1,578 @@
+{
+  "url": "https://sofitel.accorhotels.com/fr/france/index.shtml",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 16,
+      "lastColumn": 53,
+      "firstColumn": 3,
+      "message": "Using the “meta” element to specify the document-wide default language is obsolete. Consider specifying the language on the root element instead.",
+      "extract": "F-8\" />\n\t\t<meta http-equiv=\"Content-Language\" content=\"fr\" />\n\t\t<me",
+      "hiliteStart": 10,
+      "hiliteLength": 51
+    },
+    {
+      "type": "error",
+      "lastLine": 17,
+      "lastColumn": 64,
+      "firstColumn": 3,
+      "message": "A “meta” element with an “http-equiv” attribute whose value is “X-UA-Compatible” must have a “content” attribute with the value “IE=edge”.",
+      "extract": "\"fr\" />\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 62
+    },
+    {
+      "type": "info",
+      "lastLine": 26,
+      "lastColumn": 290,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "NG-->\n    <script type=\"text/javascript\" src=\"/dtagent_ICA23gjprx_6000500351006.js\" data-dtconfig=\"rid=RID_74360863|rpid=279775840|domain=accorhotels.com|lastModification=1540833399522|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Accor Groupe|agentUri=/dtagent_ICA23gjprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 286
+    },
+    {
+      "type": "error",
+      "lastLine": 37,
+      "lastColumn": 110,
+      "firstColumn": 1,
+      "message": "Bad value “en-uk” for attribute “hreflang” on element “link”: Bad region subtag.",
+      "extract": "\"en-ca\"/>\n<link rel=\"alternate\" href=\"https://sofitel.accorhotels.com/gb/united-kingdom/index.shtml\" hreflang=\"en-uk\" />\n<link",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "info",
+      "lastLine": 54,
+      "lastColumn": 70,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ript>\n    <script src=\"/scripts-v1901/set/popins.js\" type=\"text/javascript\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 57,
+      "lastColumn": 79,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "E -->\n    <script type=\"text/javascript\" src=\"/scripts-v1901/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 58,
+      "lastColumn": 78,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ript>\n    <script type=\"text/javascript\" src=\"/scripts-v1901/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 60,
+      "lastColumn": 73,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ipt>\n\n    <script type=\"text/javascript\" src=\"/scripts-v1901/set/home/home.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 69
+    },
+    {
+      "type": "info",
+      "lastLine": 69,
+      "lastColumn": 456,
+      "firstColumn": 335,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 69,
+      "lastColumn": 1098,
+      "firstColumn": 904,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 2132,
+      "firstColumn": 1886,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-travel_inspiration\" aria-labelledby=\"link-control-link-navigation__panel-travel_inspiration\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-travel_inspiration\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 247
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 5875,
+      "firstColumn": 5840,
+      "message": "Duplicate ID “by_city”.",
+      "extract": "e</button><ul id=\"by_city\" aria-hidden=\"true\"><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "info",
+      "lastLine": 69,
+      "lastColumn": 4348,
+      "firstColumn": 4313,
+      "subType": "warning",
+      "message": "The first occurrence of ID “by_city” was here.",
+      "extract": "e</button><ul id=\"by_city\" aria-hidden=\"true\"><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 8732,
+      "firstColumn": 8492,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-brand_collection\" aria-labelledby=\"link-control-link-navigation__panel-brand_collection\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-brand_collection\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 241
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 9447,
+      "firstColumn": 9330,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-legend-logo.png\" alt=\"Sofitel Legend\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 118
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 9706,
+      "firstColumn": 9597,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/so-sofitel-logo.png\" alt=\"So Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 9988,
+      "firstColumn": 9865,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-logo.png\" alt=\"Sofitel Hotels &amp; Resort\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 124
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 10251,
+      "firstColumn": 10145,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/2x/mgallery-logo.png\" alt=\"M Gallery\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 12591,
+      "firstColumn": 12375,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-weddings\" aria-labelledby=\"link-control-link-navigation__panel-weddings\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-weddings\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 217
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 16721,
+      "firstColumn": 16463,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-professional_solutions\" aria-labelledby=\"link-control-link-navigation__panel-professional_solutions\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-professional_solutions\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 259
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 21643,
+      "firstColumn": 21406,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"link-navigation__panel-loyalty_program\" aria-labelledby=\"link-control-link-navigation__panel-loyalty_program\" aria-expanded=\"false\" class=\"link-navigation__panel panel-template\" data-name=\"link-navigation__panel-loyalty_program\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 238
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 26142,
+      "firstColumn": 25947,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"geoloc-selector\" aria-labelledby=\"link-control-geoloc-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"geoloc-selector\" data-role=\"geoloc-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 196
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 26935,
+      "firstColumn": 26732,
+      "message": "Element “div” is missing one or more of the following attributes: “role”.",
+      "extract": "></button><div id=\"currency-selector\" aria-labelledby=\"link-control-currency-selector\" aria-expanded=\"false\" class=\"link-navigation__panel form-template\" data-name=\"currency-selector\" data-role=\"currency-selector\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 282,
+      "lastColumn": 171,
+      "firstColumn": 1,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ures</h2>\n<img src=\"/px.gif\" data-src=\"https://sofitel.accorhotels.com/hotel-cms/image/commonbanneracc/pj/5d/e8/bd/c3/banner-sofitel-1440x3801897996838451782.jpg\" class=\"lazyload\"/>\n</div",
+      "hiliteStart": 10,
+      "hiliteLength": 171
+    },
+    {
+      "type": "error",
+      "lastLine": 288,
+      "lastColumn": 177,
+      "firstColumn": 1,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ivre</h2>\n<img src=\"/px.gif\" data-src=\"https://sofitel.accorhotels.com/hotel-cms/image/commonbanneracc/pj/91/6e/b7/16/banner-sofitellegend-1440x9033207564285165744.jpg\" class=\"lazyload\"/>\n</div",
+      "hiliteStart": 10,
+      "hiliteLength": 177
+    },
+    {
+      "type": "error",
+      "lastLine": 294,
+      "lastColumn": 173,
+      "firstColumn": 1,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "rgie</h2>\n<img src=\"/px.gif\" data-src=\"https://sofitel.accorhotels.com/hotel-cms/image/commonbanneracc/pj/0a/f7/09/df/banner-sosofitel-1440x7451914295568863237.jpg\" class=\"lazyload\"/>\n</div",
+      "hiliteStart": 10,
+      "hiliteLength": 173
+    },
+    {
+      "type": "error",
+      "lastLine": 300,
+      "lastColumn": 171,
+      "firstColumn": 1,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "bles</h2>\n<img src=\"/px.gif\" data-src=\"https://sofitel.accorhotels.com/hotel-cms/image/commonbanneracc/pj/7c/ab/b1/d8/banner-mgallery-1440x285890037838018740.jpg\" class=\"lazyload\"/>\n</div",
+      "hiliteStart": 10,
+      "hiliteLength": 171
+    },
+    {
+      "type": "error",
+      "lastLine": 360,
+      "lastColumn": 90,
+      "firstColumn": 4,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "e</h2>\n\t\t\t<img data-lazy=\"/imagerie/home/bg-inspire-legend.jpg\" alt=\"Sofitel Legend\" class=\"img\">\n\t\t</a",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 366,
+      "lastColumn": 90,
+      "firstColumn": 4,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": ".</h2>\n\t\t\t<img data-lazy=\"/imagerie/home/bg-inspire-so-sofitel.jpg\" alt=\"So Sofitel\" class=\"img\">\n\t\t</a",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 372,
+      "lastColumn": 84,
+      "firstColumn": 4,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "s</h2>\n\t\t\t<img data-lazy=\"/imagerie/home/bg-inspire-sofitel.jpg\" alt=\"Sofitel\" class=\"img\">\n\t\t</a",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 378,
+      "lastColumn": 86,
+      "firstColumn": 4,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "a</h2>\n\t\t\t<img data-lazy=\"/imagerie/home/bg-inspire-mgallery.jpg\" alt=\"MGallery\" class=\"img\">\n\t\t</a",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 424,
+      "lastColumn": 43,
+      "firstColumn": 17,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "          <h2 class=\"highlightTitle\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 27
+    },
+    {
+      "type": "info",
+      "lastLine": 459,
+      "lastColumn": 28,
+      "firstColumn": 25,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "          <h3></h3>\n",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 557,
+      "lastColumn": 68,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/paris.jpg\" alt=\"Paris\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 568,
+      "lastColumn": 76,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/marrakech.jpg\" alt=\"Marrakech\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 64
+    },
+    {
+      "type": "error",
+      "lastLine": 579,
+      "lastColumn": 68,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/dubai.jpg\" alt=\"Dubai\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 584,
+      "lastColumn": 74,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/new-york.jpg\" alt=\"New York\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 62
+    },
+    {
+      "type": "error",
+      "lastLine": 589,
+      "lastColumn": 66,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/roma.jpg\" alt=\"Rome\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 594,
+      "lastColumn": 71,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/london.jpg\" alt=\"Londres\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 59
+    },
+    {
+      "type": "error",
+      "lastLine": 605,
+      "lastColumn": 66,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/bali.jpg\" alt=\"Bali\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 610,
+      "lastColumn": 72,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/bangkok.jpg\" alt=\"Bangkok\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 60
+    },
+    {
+      "type": "error",
+      "lastLine": 615,
+      "lastColumn": 68,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/krabi.jpg\" alt=\"Krabi\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 626,
+      "lastColumn": 59,
+      "firstColumn": 4,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "ez</a>\n\t\t\t<img data-lazy=\"/imagerie/home/paris.jpg\" alt=\"Paris\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 633,
+      "lastColumn": 76,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/marrakech.jpg\" alt=\"Marrakech\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 64
+    },
+    {
+      "type": "error",
+      "lastLine": 640,
+      "lastColumn": 68,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/dubai.jpg\" alt=\"Dubai\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 647,
+      "lastColumn": 74,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/new-york.jpg\" alt=\"New York\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 62
+    },
+    {
+      "type": "error",
+      "lastLine": 654,
+      "lastColumn": 66,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/roma.jpg\" alt=\"Rome\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 661,
+      "lastColumn": 71,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/london.jpg\" alt=\"Londres\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 59
+    },
+    {
+      "type": "error",
+      "lastLine": 668,
+      "lastColumn": 66,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/bali.jpg\" alt=\"Bali\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 675,
+      "lastColumn": 72,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/bangkok.jpg\" alt=\"Bangkok\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 60
+    },
+    {
+      "type": "error",
+      "lastLine": 682,
+      "lastColumn": 68,
+      "firstColumn": 13,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img data-lazy=\"/imagerie/home/krabi.jpg\" alt=\"Krabi\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 760,
+      "lastColumn": 174,
+      "firstColumn": 13,
+      "message": "Bad value “https://www.accorhotels.com/fr/newsletter/getEmail.jshtml?site=SOF|PMO&action=SUBSCRIBE&origine=WEB ” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "          <a href=\"https://www.accorhotels.com/fr/newsletter/getEmail.jshtml?site=SOF|PMO&action=SUBSCRIBE&origine=WEB \" target=\"_blank\" rel=\"nofollow\" class=\"btnSquare\">Abonnez-",
+      "hiliteStart": 10,
+      "hiliteLength": 162
+    },
+    {
+      "type": "info",
+      "lastLine": 871,
+      "lastColumn": 97,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ">\n        <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1901/main-legacy.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 871,
+      "lastColumn": 97,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": ">\n        <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1901/main-legacy.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 84,
+      "lastColumn": 43,
+      "firstColumn": 12,
+      "message": "The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.",
+      "extract": "       <p><label for=\"search-destination\">Destin",
+      "hiliteStart": 10,
+      "hiliteLength": 32
+    },
+    {
+      "type": "error",
+      "lastLine": 69,
+      "lastColumn": 682,
+      "firstColumn": 514,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button id=\"link-control-link-navigation-menu\" aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 169
+    }
+  ],
+  "language": "fr"
+}

@@ -27,11 +27,8 @@ Warning: even the best automated accessibility testing tools will only test one-
 * json : build data json
 * dashboard : running dashboard with sexy data tables and sexy charts
 
-## License
-
-MIT © [Clever Age](https://github.com/cleverage/)
-
 <hr />
 
-Dashboard made with ❤ by Clever Age.
+Dashboard made with ❤ by by the accessibility team.<br />
+[accorhotels.webaccessibility@accor.com](accorhotels.webaccessibility@accor.com)
 

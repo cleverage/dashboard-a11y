@@ -1,0 +1,60 @@
+{
+  "url": "https://www.accorhotels.com/gb/geoloc/selectdisplayzone.jshtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 633,
+      "firstColumn": 346,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gjprx_6000500351006.js\" data-dtconfig=\"rid=RID_338326838|rpid=1689941887|domain=accorhotels.com|lastModification=1553603389716|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=Accor Groupe|agentUri=/dtagent_ICA23gjprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 288
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 722,
+      "firstColumn": 644,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1901/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 824,
+      "firstColumn": 733,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1901/lib/jplugins/jquery-jtemplates.0.7.8.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 907,
+      "firstColumn": 835,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1901/set/geoloc/index.js \"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 73
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1001,
+      "firstColumn": 918,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1901/set/geoloc/selectDisplayZone.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    }
+  ]
+}

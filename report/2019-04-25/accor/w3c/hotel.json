@@ -1,0 +1,2225 @@
+{
+  "url": "https://www.accorhotels.com/gb/hotel-0753-novotel-new-york-times-square/index.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 255,
+      "firstColumn": 127,
+      "subType": "warning",
+      "message": "Potentially bad value “in” for attribute “hreflang” on element “link”: The language subtag “in” is deprecated. Use “id” instead.",
+      "extract": "nical\" /> <link href=\"https://www.accorhotels.com/id/hotel-0753-novotel-new-york-times-square/index.shtml\" hreflang=\"in\" rel=\"alternate\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 129
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 1385,
+      "firstColumn": 1251,
+      "message": "Bad value “pt_BR” for attribute “hreflang” on element “link”: The language subtag “pt_br” is not a valid language subtag.",
+      "extract": "rnate\" /> <link href=\"https://www.accorhotels.com/pt-br/hotel-0753-novotel-new-york-times-square/index.shtml\" hreflang=\"pt_BR\" rel=\"alternate\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 11335,
+      "firstColumn": 11269,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/scripts/oneagent/oneagent.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 67
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 12480,
+      "firstColumn": 12359,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 13050,
+      "firstColumn": 12856,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 15065,
+      "firstColumn": 14874,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/raffles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/raffles-logo.png 2x\" alt=\"Raffles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 15397,
+      "firstColumn": 15194,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/banyan-tree-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/banyan-tree-logo.png 2x\" alt=\"Banyan Tree\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 15767,
+      "firstColumn": 15555,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-legend-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-legend-logo.png 2x\" alt=\"Sofitel Legend\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 16093,
+      "firstColumn": 15899,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/fairmont-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/fairmont-logo.png 2x\" alt=\"Fairmont\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 16436,
+      "firstColumn": 16243,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/so-sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/so-sofitel-logo.png 2x\" alt=\"So/\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 194
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 16771,
+      "firstColumn": 16580,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-logo.png 2x\" alt=\"Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 17105,
+      "firstColumn": 16902,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/onefinestay-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/onefinestay-logo.png 2x\" alt=\"Onefinestay\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 17444,
+      "firstColumn": 17238,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/rixos-hotels-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/rixos-hotels-logo.png 2x\" alt=\"Rixos Hotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 207
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 17753,
+      "firstColumn": 17565,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mantis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mantis-logo.png 2x\" alt=\"Mantis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 18115,
+      "firstColumn": 17910,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mgallery-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mgallery-logo.png 2x\" alt=\"Mgallery By Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 18409,
+      "firstColumn": 18218,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/pullman-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/pullman-logo.png 2x\" alt=\"Pullman\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 18740,
+      "firstColumn": 18543,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/swissotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/swissotel-logo.png 2x\" alt=\"Swissôtel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 19054,
+      "firstColumn": 18863,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/angsana-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/angsana-logo.png 2x\" alt=\"Angsana\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 19387,
+      "firstColumn": 19180,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/twenty-five-hours-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/twenty-five-hours-logo.png 2x\" alt=\"25h\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 208
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 19712,
+      "firstColumn": 19512,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/art-series-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/art-series-logo.png 2x\" alt=\"Art Series\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 201
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 20036,
+      "firstColumn": 19839,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/movenpick-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/movenpick-logo.png 2x\" alt=\"Mövenpick\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 20386,
+      "firstColumn": 20177,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/grand-mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/grand-mercure-logo.png 2x\" alt=\"Grand Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 20702,
+      "firstColumn": 20514,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/huazhu-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/huazhu-logo.png 2x\" alt=\"Huazhu\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 21015,
+      "firstColumn": 20824,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/peppers-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/peppers-logo.png 2x\" alt=\"Peppers\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 21342,
+      "firstColumn": 21145,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/the-sebel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/the-sebel-logo.png 2x\" alt=\"The Sebel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 21697,
+      "firstColumn": 21485,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-premium-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-premium-logo.png 2x\" alt=\"Adagio Premium\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 22006,
+      "firstColumn": 21818,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mantra-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mantra-logo.png 2x\" alt=\"Mantra\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 22330,
+      "firstColumn": 22139,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/novotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/novotel-logo.png 2x\" alt=\"Novotel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 22654,
+      "firstColumn": 22463,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mercure-logo.png 2x\" alt=\"Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 22970,
+      "firstColumn": 22782,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-logo.png 2x\" alt=\"Adagio\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 23311,
+      "firstColumn": 23108,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mamashelter-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mamashelter-logo.png 2x\" alt=\"Mamashelter\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 23632,
+      "firstColumn": 23435,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/breakfree-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/breakfree-logo.png 2x\" alt=\"BreakFree\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 23941,
+      "firstColumn": 23759,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-logo.png 2x\" alt=\"Ibis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 183
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 24278,
+      "firstColumn": 24075,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-styles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-styles-logo.png 2x\" alt=\"Ibis Styles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 24615,
+      "firstColumn": 24412,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-budget-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-budget-logo.png 2x\" alt=\"Ibis Budget\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 24965,
+      "firstColumn": 24756,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-access-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-access-logo.png 2x\" alt=\"Adagio Access\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 25305,
+      "firstColumn": 25100,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/joe-and-joe-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/joe-and-joe-logo.png 2x\" alt=\"Joe &amp; Joe\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 25620,
+      "firstColumn": 25428,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/hotelf1-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/hotelf1-logo.png 2x\" alt=\"Hotel F1\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 193
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 25951,
+      "firstColumn": 25757,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/thalassa-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/thalassa-logo.png 2x\" alt=\"Thalassa\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 40554,
+      "firstColumn": 40416,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/europcar-offers/europcar-offers-240x200-en.jpg\" alt=\"Car rental – Europcar\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 139
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 47805,
+      "firstColumn": 47688,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/meeting-planner/meeting-planner-240x200-gb.jpg\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 118
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 51951,
+      "firstColumn": 51809,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/new-hotels/new-hotels-en.jpg\" alt=\"Earn more Rewards points – Club AccorHotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 143
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 52242,
+      "firstColumn": 52115,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/elite-experience/elite-experience-en.jpg\" alt=\"Elite experience\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 128
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 55835,
+      "firstColumn": 55795,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "iv></div> <main id=\"main\" role=\"main\" class=\"main\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 41
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 57665,
+      "firstColumn": 57386,
+      "message": "When the “srcset” attribute has any image candidate string with a width descriptor, the “sizes” attribute must also be present.",
+      "extract": "picture\"> <img src=\"//www.ahstatic.com/photos/0753_ho_00_p_1024x768.jpg\" srcset=\"//www.ahstatic.com/photos/0753_ho_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ho_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ho_00_p_1024x768.jpg 1024w\" alt=\"Novotel New York Times Square\"/> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 280
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 58400,
+      "firstColumn": 58396,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 58718,
+      "firstColumn": 58621,
+      "message": "Bad value “tooltip-WIFI/Internet Access” for attribute “id” on element “div”: An ID must not contain whitespace.",
+      "extract": "</button> <div id=\"tooltip-WIFI/Internet Access\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\">The ho",
+      "hiliteStart": 10,
+      "hiliteLength": 98
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 58836,
+      "firstColumn": 58832,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 59239,
+      "firstColumn": 59235,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 59648,
+      "firstColumn": 59644,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 60059,
+      "firstColumn": 60055,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 60486,
+      "firstColumn": 60482,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 60791,
+      "firstColumn": 60698,
+      "message": "Bad value “tooltip-Air Conditioning” for attribute “id” on element “div”: An ID must not contain whitespace.",
+      "extract": "</button> <div id=\"tooltip-Air Conditioning\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\">The ho",
+      "hiliteStart": 10,
+      "hiliteLength": 94
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 61190,
+      "firstColumn": 61116,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "v> </div> <nav role=\"navigation\" class=\"sub-nav\" id=\"sub-nav\" aria-label=\"Secondary\"> <ul c",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 61871,
+      "firstColumn": 61830,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "tel</div> <section class=\"section section--booking\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 42
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 67102,
+      "firstColumn": 67045,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "/section> <section class=\"section section--alt section--best-price\"> <svg ",
+      "hiliteStart": 10,
+      "hiliteLength": 58
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 67461,
+      "firstColumn": 67410,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "/section> <section class=\"section section--alt section--lcah\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 52
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 67612,
+      "firstColumn": 67544,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "/section> <section class=\"section section--b2b-access\" id=\"section-b2b-access\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 69
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 69932,
+      "firstColumn": 69904,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "=\"false\"> <div class=\"loading-spinner\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 29
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 69972,
+      "firstColumn": 69940,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "r\"></div> <div class=\"button__description\"> <div>",
+      "hiliteStart": 10,
+      "hiliteLength": 33
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 69458,
+      "firstColumn": 69423,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "/section> <section class=\"section--favorites\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 73389,
+      "firstColumn": 73251,
+      "message": "Attribute “alt” not allowed on element “svg” at this point.",
+      "extract": "\"planet\"> <svg class=\"lazysvg\" data-url=\"/fact-sheet/assets/icons/graphics/icons.htm\" aria-hidden=\"true\" focusable=\"false\" alt=\"PLANET 21 programme\"><use x",
+      "hiliteStart": 10,
+      "hiliteLength": 139
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 74723,
+      "firstColumn": 74719,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 75564,
+      "firstColumn": 75560,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 75884,
+      "firstColumn": 75802,
+      "message": "Duplicate ID “tooltip-plus-”.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 75038,
+      "firstColumn": 74956,
+      "subType": "warning",
+      "message": "The first occurrence of ID “tooltip-plus-” was here.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 76455,
+      "firstColumn": 76451,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 76801,
+      "firstColumn": 76719,
+      "message": "Duplicate ID “tooltip-plus-”.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 75038,
+      "firstColumn": 74956,
+      "subType": "warning",
+      "message": "The first occurrence of ID “tooltip-plus-” was here.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 77715,
+      "firstColumn": 77711,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 78030,
+      "firstColumn": 77948,
+      "message": "Duplicate ID “tooltip-plus-”.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 75038,
+      "firstColumn": 74956,
+      "subType": "warning",
+      "message": "The first occurrence of ID “tooltip-plus-” was here.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 78552,
+      "firstColumn": 78548,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 78881,
+      "firstColumn": 78799,
+      "message": "Duplicate ID “tooltip-plus-”.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 75038,
+      "firstColumn": 74956,
+      "subType": "warning",
+      "message": "The first occurrence of ID “tooltip-plus-” was here.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 80224,
+      "firstColumn": 80220,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 80542,
+      "firstColumn": 80460,
+      "message": "Duplicate ID “tooltip-plus-”.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 75038,
+      "firstColumn": 74956,
+      "subType": "warning",
+      "message": "The first occurrence of ID “tooltip-plus-” was here.",
+      "extract": "</button> <div id=\"tooltip-plus-\" class=\"tooltip__content\" role=\"tooltip\" aria-hidden=\"true\"> <ul> ",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 81631,
+      "firstColumn": 81627,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 82878,
+      "firstColumn": 82874,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "\"button\"> <div><svg c",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 73625,
+      "firstColumn": 73561,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "/section> <section class=\"section section--services\" id=\"section-services\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 65
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 85608,
+      "firstColumn": 85583,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "none)\" /> <div class=\"map__overlay\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 26
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 86516,
+      "firstColumn": 86510,
+      "message": "Stray end tag “c:if”.",
+      "extract": "svg> </a> </c:if> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 7
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 89241,
+      "message": "Duplicate attribute “class”.",
+      "extract": "en=\"true\" class=\"button--picto",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 90511,
+      "firstColumn": 90200,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rokgbz_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rokgbz_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rokgbz_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rokgbz_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 312
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 92250,
+      "firstColumn": 91939,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rod2bz_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rod2bz_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rod2bz_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rod2bz_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 312
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 93975,
+      "firstColumn": 93660,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rokgbrv_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rokgbrv_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rokgbrv_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rokgbrv_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 316
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 95733,
+      "firstColumn": 95418,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rod2brv_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rod2brv_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rod2brv_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rod2brv_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 316
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 97496,
+      "firstColumn": 97177,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rokgbciz_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rokgbciz_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rokgbciz_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rokgbciz_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 320
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 99246,
+      "firstColumn": 98927,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rod2bciz_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rod2bciz_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rod2bciz_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rod2bciz_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 320
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 100993,
+      "firstColumn": 100678,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rokgbci_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rokgbci_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rokgbci_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rokgbci_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 316
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 102739,
+      "firstColumn": 102424,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rod2bci_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rod2bci_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rod2bci_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rod2bci_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 316
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 104482,
+      "firstColumn": 104171,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "wrapper\"> <img data-original=\"//www.ahstatic.com/photos/0753_rodbch_00_p_1024x768.jpg\" data-original-srcset=\"//www.ahstatic.com/photos/0753_rodbch_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rodbch_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rodbch_00_p_2048x1536.jpg 2048w\" alt=\"\" class=\"lazyload\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 312
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 109090,
+      "firstColumn": 108845,
+      "message": "Element “source” is missing required attribute “srcset”.",
+      "extract": "<picture> <source media=\"(max-width: 767px)\" data-original-srcset=\"/fact-sheet/assets/images/bar-1-320.jpg 320w, /fact-sheet/assets/images/bar-1-768.jpg 768w, /fact-sheet/assets/images/bar-1-1024.jpg 1024w /fact-sheet/assets/images/bar-1-1280.jpg 1280w\" /> <sour",
+      "hiliteStart": 10,
+      "hiliteLength": 246
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 109187,
+      "firstColumn": 109092,
+      "message": "Element “source” is missing required attribute “srcset”.",
+      "extract": "1280w\" /> <source media=\"(min-width: 768px)\" data-original-srcset=\"/fact-sheet/assets/images/bar-1.jpg\" /> <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 96
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 109271,
+      "firstColumn": 109189,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "1.jpg\" /> <img data-original=\"/fact-sheet/assets/images/bar-1.jpg\" alt=\"\" class=\"lazyload\" /> </pic",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 112690,
+      "firstColumn": 112298,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "er\"> <div><img class=\"lazyload\" data-original=\"//www.ahstatic.com/photos/0753_sm_00_p_2048x1536.jpg\" data-original-set=\"//www.ahstatic.com/photos/0753_sm_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sm_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sm_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sm_00_p_2048x1536.jpg 2048w\" alt=\"Novotel New York Times Square Meeting Room\" /></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 393
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 113039,
+      "firstColumn": 112955,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "uests</p> <a href=\"//www.accorhotels.com/gb/our-services/reviews.shtml\" target=\"_blank\" alt=\"\">Find o",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 113528,
+      "message": "Duplicate attribute “class”.",
+      "extract": "e=\"false\" class=\"score\"><use x",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 113852,
+      "firstColumn": 113743,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "advisor\"> <img data-original=\"/assets/images/fact-sheet/trip_owl_reviews_logo.svg\" alt=\"tripadvisor\" class=\"lazyload\" /> <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 113959,
+      "firstColumn": 113854,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "yload\" /> <img data-original=\"/assets/images/fact-sheet/trip_reviews_logo.svg\" alt=\"tripadvisor\" class=\"lazyload\" /> <p><s",
+      "hiliteStart": 10,
+      "hiliteLength": 106
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 114205,
+      "firstColumn": 114105,
+      "message": "Element “source” is missing required attribute “srcset”.",
+      "extract": "tificat\"> <source media=\"(max-width: 767px)\" data-original-srcset=\"/fact-sheet/assets/images/certificat.png\" /> <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 114394,
+      "firstColumn": 114207,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "t.png\" /> <img data-original=\"https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-19949-5.jpg\" alt=\"TripAdvisor Certificate of Excellence\" class=\"lazyload\" /> </pic",
+      "hiliteStart": 10,
+      "hiliteLength": 188
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 114582,
+      "firstColumn": 114480,
+      "message": "Attribute “visible” not allowed on element “div” at this point.",
+      "extract": "e> </div> <div itemprop=\"aggregateRating\" itemscope itemtype=\"http://schema.org/AggregateRating\" visible=\"false\"> <meta",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 153363,
+      "firstColumn": 153360,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "trustyou\"><h2></h2><",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 153464,
+      "firstColumn": 153428,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "trustyou\"><nav role=\"navigation\" aria-label=\"\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 37
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 153519,
+      "firstColumn": 153503,
+      "message": "Bad value “” for attribute “id” on element “a”: An ID must not be the empty string.",
+      "extract": "template\"><a href=\"\" id=\"\"><span>",
+      "hiliteStart": 10,
+      "hiliteLength": 17
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 153627,
+      "firstColumn": 153575,
+      "message": "Duplicate ID “”.",
+      "extract": "contents\"><div id=\"\" class=\"template tab\" tabindex=\"-1\" hidden><h3 cl",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 153519,
+      "firstColumn": 153503,
+      "subType": "warning",
+      "message": "The first occurrence of ID “” was here.",
+      "extract": "template\"><a href=\"\" id=\"\"><span>",
+      "hiliteStart": 10,
+      "hiliteLength": 17
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 153627,
+      "firstColumn": 153575,
+      "message": "Bad value “” for attribute “id” on element “div”: An ID must not be the empty string.",
+      "extract": "contents\"><div id=\"\" class=\"template tab\" tabindex=\"-1\" hidden><h3 cl",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 14,
+      "lastColumn": 153647,
+      "firstColumn": 153628,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "1\" hidden><h3 class=\"sr-only\"></h3><",
+      "hiliteStart": 10,
+      "hiliteLength": 20
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 154111,
+      "firstColumn": 154026,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "red by</p><img alt=\"Trustyou\" class=\"lazyload\" data-original=\"/imagerie/fact-sheet/gss/ty.png\"/></sect",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 154339,
+      "firstColumn": 154229,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "=\"hotel\"> <img data-original=\"/fact-sheet/assets/icons/brands/icons/color/fai.svg\" class=\"hotel__logo lazyload\" alt=\"\" /> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 154522,
+      "firstColumn": 154370,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "picture\"> <img data-original=\"//www.ahstatic.com/photos/a568-the-plaza-a-fairmont-managed-hotel.jpg\" class=\"lazyload\" alt=\"The Plaza - A Fairmont Managed Hotel\" /> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 153
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 156296,
+      "firstColumn": 156186,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "=\"hotel\"> <img data-original=\"/fact-sheet/assets/icons/brands/icons/color/sof.svg\" class=\"hotel__logo lazyload\" alt=\"\" /> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 156441,
+      "firstColumn": 156327,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "picture\"> <img data-original=\"//www.ahstatic.com/photos/2185-sofitel-new-york.jpg\" class=\"lazyload\" alt=\"Sofitel New York\" /> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 158149,
+      "firstColumn": 158039,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "=\"hotel\"> <img data-original=\"/fact-sheet/assets/icons/brands/icons/color/ibs.svg\" class=\"hotel__logo lazyload\" alt=\"\" /> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 158338,
+      "firstColumn": 158180,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "picture\"> <img data-original=\"//www.ahstatic.com/photos/9856-ibis-styles-new-york-laguardia-airport.jpg\" class=\"lazyload\" alt=\"ibis Styles New York LaGuardia Airport\" /> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 159
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 162447,
+      "firstColumn": 162119,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ho_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ho_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ho_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ho_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ho_00_p_2048x1536.jpg 2048w\" alt=\"Hotel 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 162790,
+      "firstColumn": 162462,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ho_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ho_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ho_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ho_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ho_01_p_2048x1536.jpg 2048w\" alt=\"Hotel 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 163133,
+      "firstColumn": 162805,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ho_02_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ho_02_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ho_02_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ho_02_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ho_02_p_2048x1536.jpg 2048w\" alt=\"Hotel 3\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 163476,
+      "firstColumn": 163148,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ho_03_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ho_03_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ho_03_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ho_03_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ho_03_p_2048x1536.jpg 2048w\" alt=\"Hotel 4\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 163819,
+      "firstColumn": 163491,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ho_04_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ho_04_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ho_04_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ho_04_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ho_04_p_2048x1536.jpg 2048w\" alt=\"Hotel 5\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 164162,
+      "firstColumn": 163834,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ho_05_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ho_05_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ho_05_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ho_05_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ho_05_p_2048x1536.jpg 2048w\" alt=\"Hotel 6\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 164505,
+      "firstColumn": 164177,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ro_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ro_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ro_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ro_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ro_00_p_2048x1536.jpg 2048w\" alt=\"Rooms 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 164848,
+      "firstColumn": 164520,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ro_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ro_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ro_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ro_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ro_01_p_2048x1536.jpg 2048w\" alt=\"Rooms 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 165191,
+      "firstColumn": 164863,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ro_02_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ro_02_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ro_02_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ro_02_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ro_02_p_2048x1536.jpg 2048w\" alt=\"Rooms 3\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 165534,
+      "firstColumn": 165206,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ro_03_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ro_03_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ro_03_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ro_03_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ro_03_p_2048x1536.jpg 2048w\" alt=\"Rooms 4\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 165877,
+      "firstColumn": 165549,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ro_04_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ro_04_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ro_04_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ro_04_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ro_04_p_2048x1536.jpg 2048w\" alt=\"Rooms 5\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 166220,
+      "firstColumn": 165892,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ro_05_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ro_05_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ro_05_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ro_05_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ro_05_p_2048x1536.jpg 2048w\" alt=\"Rooms 6\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 329
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 166568,
+      "firstColumn": 166235,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_rs_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_rs_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_rs_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rs_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rs_00_p_2048x1536.jpg 2048w\" alt=\"Restaurant 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 334
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 166916,
+      "firstColumn": 166583,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_rs_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_rs_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_rs_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rs_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rs_01_p_2048x1536.jpg 2048w\" alt=\"Restaurant 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 334
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 167264,
+      "firstColumn": 166931,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_rs_02_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_rs_02_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_rs_02_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rs_02_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rs_02_p_2048x1536.jpg 2048w\" alt=\"Restaurant 3\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 334
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 167612,
+      "firstColumn": 167279,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_rs_03_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_rs_03_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_rs_03_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rs_03_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rs_03_p_2048x1536.jpg 2048w\" alt=\"Restaurant 4\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 334
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 167960,
+      "firstColumn": 167627,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_rs_04_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_rs_04_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_rs_04_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rs_04_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rs_04_p_2048x1536.jpg 2048w\" alt=\"Restaurant 5\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 334
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 168308,
+      "firstColumn": 167975,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_rs_05_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_rs_05_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_rs_05_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_rs_05_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_rs_05_p_2048x1536.jpg 2048w\" alt=\"Restaurant 6\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 334
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 168649,
+      "firstColumn": 168323,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ba_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ba_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ba_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ba_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ba_00_p_2048x1536.jpg 2048w\" alt=\"Bar 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 327
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 168990,
+      "firstColumn": 168664,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ba_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ba_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ba_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ba_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ba_01_p_2048x1536.jpg 2048w\" alt=\"Bar 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 327
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 169331,
+      "firstColumn": 169005,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ba_02_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ba_02_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ba_02_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ba_02_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ba_02_p_2048x1536.jpg 2048w\" alt=\"Bar 3\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 327
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 169672,
+      "firstColumn": 169346,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ba_03_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ba_03_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ba_03_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ba_03_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ba_03_p_2048x1536.jpg 2048w\" alt=\"Bar 4\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 327
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 170013,
+      "firstColumn": 169687,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ba_04_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ba_04_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ba_04_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ba_04_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ba_04_p_2048x1536.jpg 2048w\" alt=\"Bar 5\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 327
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 170354,
+      "firstColumn": 170028,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_ba_05_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_ba_05_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_ba_05_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_ba_05_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_ba_05_p_2048x1536.jpg 2048w\" alt=\"Bar 6\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 327
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 170711,
+      "firstColumn": 170369,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sm_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sm_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sm_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sm_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sm_00_p_2048x1536.jpg 2048w\" alt=\"Meetings and events 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 343
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 171068,
+      "firstColumn": 170726,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sm_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sm_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sm_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sm_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sm_01_p_2048x1536.jpg 2048w\" alt=\"Meetings and events 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 343
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 171414,
+      "firstColumn": 171083,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sl_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sl_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sl_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sl_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sl_00_p_2048x1536.jpg 2048w\" alt=\"Services 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 332
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 171760,
+      "firstColumn": 171429,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sl_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sl_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sl_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sl_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sl_01_p_2048x1536.jpg 2048w\" alt=\"Services 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 332
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 172106,
+      "firstColumn": 171775,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sl_02_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sl_02_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sl_02_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sl_02_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sl_02_p_2048x1536.jpg 2048w\" alt=\"Services 3\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 332
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 172452,
+      "firstColumn": 172121,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sl_03_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sl_03_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sl_03_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sl_03_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sl_03_p_2048x1536.jpg 2048w\" alt=\"Services 4\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 332
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 172798,
+      "firstColumn": 172467,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sl_04_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sl_04_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sl_04_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sl_04_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sl_04_p_2048x1536.jpg 2048w\" alt=\"Services 5\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 332
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 173144,
+      "firstColumn": 172813,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_sl_05_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_sl_05_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_sl_05_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_sl_05_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_sl_05_p_2048x1536.jpg 2048w\" alt=\"Services 6\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 332
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 173505,
+      "firstColumn": 173159,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_dd_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_dd_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_dd_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_dd_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_dd_00_p_2048x1536.jpg 2048w\" alt=\"Sustainable development 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 347
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 173854,
+      "firstColumn": 173520,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_de_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_de_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_de_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_de_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_de_00_p_2048x1536.jpg 2048w\" alt=\"Destination 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 335
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 174203,
+      "firstColumn": 173869,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_de_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_de_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_de_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_de_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_de_01_p_2048x1536.jpg 2048w\" alt=\"Destination 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 335
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 174552,
+      "firstColumn": 174218,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_de_02_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_de_02_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_de_02_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_de_02_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_de_02_p_2048x1536.jpg 2048w\" alt=\"Destination 3\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 335
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 174901,
+      "firstColumn": 174567,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_de_03_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_de_03_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_de_03_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_de_03_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_de_03_p_2048x1536.jpg 2048w\" alt=\"Destination 4\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 335
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 175245,
+      "firstColumn": 174916,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_fa_00_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_fa_00_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_fa_00_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_fa_00_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_fa_00_p_2048x1536.jpg 2048w\" alt=\"Family 1\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 330
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 175589,
+      "firstColumn": 175260,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_fa_01_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_fa_01_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_fa_01_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_fa_01_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_fa_01_p_2048x1536.jpg 2048w\" alt=\"Family 2\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 330
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 175933,
+      "firstColumn": 175604,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_fa_02_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_fa_02_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_fa_02_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_fa_02_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_fa_02_p_2048x1536.jpg 2048w\" alt=\"Family 3\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 330
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 176277,
+      "firstColumn": 175948,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "iv> <div> <img data-lazy=\"//www.ahstatic.com/photos/0753_fa_03_p_1024x768.jpg\" data-srcset=\"//www.ahstatic.com/photos/0753_fa_03_p_120x90.jpg 120w, //www.ahstatic.com/photos/0753_fa_03_p_346x260.jpg 346w, //www.ahstatic.com/photos/0753_fa_03_p_1024x768.jpg 1024w, //www.ahstatic.com/photos/0753_fa_03_p_2048x1536.jpg 2048w\" alt=\"Family 4\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 330
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 176545,
+      "firstColumn": 176434,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ho_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Video 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 176743,
+      "firstColumn": 176632,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ho_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Hotel 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 176900,
+      "firstColumn": 176789,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ho_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Hotel 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 177057,
+      "firstColumn": 176946,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ho_02_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Hotel 3\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 177214,
+      "firstColumn": 177103,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ho_03_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Hotel 4\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 177371,
+      "firstColumn": 177260,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ho_04_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Hotel 5\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 177528,
+      "firstColumn": 177417,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ho_05_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Hotel 6\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 177726,
+      "firstColumn": 177615,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ro_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Rooms 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 177883,
+      "firstColumn": 177772,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ro_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Rooms 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 178040,
+      "firstColumn": 177929,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ro_02_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Rooms 3\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 178197,
+      "firstColumn": 178086,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ro_03_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Rooms 4\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 178354,
+      "firstColumn": 178243,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ro_04_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Rooms 5\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 178511,
+      "firstColumn": 178400,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ro_05_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Rooms 6\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 112
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 178719,
+      "firstColumn": 178603,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_rs_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Restaurant 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 178881,
+      "firstColumn": 178765,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_rs_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Restaurant 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 179043,
+      "firstColumn": 178927,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_rs_02_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Restaurant 3\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 179205,
+      "firstColumn": 179089,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_rs_03_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Restaurant 4\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 179367,
+      "firstColumn": 179251,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_rs_04_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Restaurant 5\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 179529,
+      "firstColumn": 179413,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_rs_05_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Restaurant 6\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 179723,
+      "firstColumn": 179614,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ba_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Bar 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 179878,
+      "firstColumn": 179769,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ba_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Bar 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 180033,
+      "firstColumn": 179924,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ba_02_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Bar 3\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 180188,
+      "firstColumn": 180079,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ba_03_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Bar 4\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 180343,
+      "firstColumn": 180234,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ba_04_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Bar 5\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 180498,
+      "firstColumn": 180389,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_ba_05_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Bar 6\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 180724,
+      "firstColumn": 180599,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sm_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Meetings and events 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 126
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 180895,
+      "firstColumn": 180770,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sm_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Meetings and events 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 126
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 181099,
+      "firstColumn": 180985,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sl_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Services 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 181259,
+      "firstColumn": 181145,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sl_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Services 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 181419,
+      "firstColumn": 181305,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sl_02_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Services 3\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 181579,
+      "firstColumn": 181465,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sl_03_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Services 4\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 181739,
+      "firstColumn": 181625,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sl_04_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Services 5\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 181899,
+      "firstColumn": 181785,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_sl_05_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Services 6\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 182133,
+      "firstColumn": 182004,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_dd_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Sustainable development 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 130
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 182343,
+      "firstColumn": 182226,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_de_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Destination 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 118
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 182506,
+      "firstColumn": 182389,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_de_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Destination 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 118
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 182669,
+      "firstColumn": 182552,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_de_02_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Destination 3\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 118
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 182832,
+      "firstColumn": 182715,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_de_03_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Destination 4\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 118
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 183032,
+      "firstColumn": 182920,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_fa_00_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Family 1\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 113
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 183190,
+      "firstColumn": 183078,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_fa_01_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Family 2\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 113
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 183348,
+      "firstColumn": 183236,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_fa_02_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Family 3\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 113
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 183506,
+      "firstColumn": 183394,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"button\"> <img data-original=\"//www.ahstatic.com/photos/0753_fa_03_p_120x90.jpg\" class=\"lazyload\" alt=\"Zoom -  Family 4\" /> </but",
+      "hiliteStart": 10,
+      "hiliteLength": 113
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 185416,
+      "firstColumn": 185351,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "picture\"> <img data-original=\"logoUrl\" class=\"hotel-logo lazyload\" alt=\"\" /> <div>",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 185491,
+      "firstColumn": 185424,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": " /> <div> <img data-original=\"imgUrl\" class=\"hotel-picture lazyload\" alt=\"\" /> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 185631,
+      "firstColumn": 185540,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "ription\"> <a href=\"//www.accorhotels.com/rid\" target=\"_blank\" class=\"hotel__name\" alt=\" - New window\">Hotel ",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 185784,
+      "firstColumn": 185669,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "NTRY)</p> <a href=\"//www.accorhotels.com/rid\" class=\"hotel__booking button button-level3\" target=\"_blank\" alt=\" - New window\">Book</",
+      "hiliteStart": 10,
+      "hiliteLength": 116
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 185929,
+      "firstColumn": 185829,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "_button\"> <a href=\"//www.accorhotels.com/rid\" class=\"button button-level3\" target=\"_blank\" alt=\" - New window\">Book</",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 186125,
+      "firstColumn": 186097,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "d=\"true\"> <div class=\"loading-spinner\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 29
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 186165,
+      "firstColumn": 186133,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "r\"></div> <div class=\"button__description\"> <div>",
+      "hiliteStart": 10,
+      "hiliteLength": 33
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 188545,
+      "firstColumn": 188435,
+      "message": "Bad value “/mailing_list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "</li> <li><a href=\"/mailing_list.svlt?action=CREATEACCOUNT&amp;site=PMO|PAR&amp;origine=WEB\" class=\"ico ico-small-email\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 192698,
+      "firstColumn": 192439,
+      "message": "CSS: “border”: Parse Error.",
+      "extract": "rize --><img src=\"https://www.accorhotels.com/fstrz/r/stats-dc1.fzcdn.net/beacon?cust=5862&amp;u=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fhotel-0753-novotel-new-york-times-square%2Findex.shtml&amp;optimized=true\" width=\"0\" height=\"0\" style=\"display:none;border=none;\"></body> ",
+      "hiliteStart": 10,
+      "hiliteLength": 260
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 192698,
+      "firstColumn": 192439,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "rize --><img src=\"https://www.accorhotels.com/fstrz/r/stats-dc1.fzcdn.net/beacon?cust=5862&amp;u=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fhotel-0753-novotel-new-york-times-square%2Findex.shtml&amp;optimized=true\" width=\"0\" height=\"0\" style=\"display:none;border=none;\"></body> ",
+      "hiliteStart": 10,
+      "hiliteLength": 260
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 62233,
+      "firstColumn": 62202,
+      "message": "The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.",
+      "extract": "\"home-ac\"><label for=\"search-destination\"><span>",
+      "hiliteStart": 10,
+      "hiliteLength": 32
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 12667,
+      "firstColumn": 12538,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 130
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 58394,
+      "firstColumn": 58309,
+      "message": "The “aria-describedby” attribute must point to an element in the same document.",
+      "extract": "w\"> <li > <button class=\"tooltip\" aria-describedby=\"tooltip-WIFI/Internet Access\" type=\"button\"> <div>",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 58394,
+      "firstColumn": 58309,
+      "message": "The “aria-describedby” attribute must point to an element in the same document.",
+      "extract": "w\"> <li > <button class=\"tooltip\" aria-describedby=\"tooltip-WIFI/Internet Access\" type=\"button\"> <div>",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 60480,
+      "firstColumn": 60399,
+      "message": "The “aria-describedby” attribute must point to an element in the same document.",
+      "extract": "li> <li > <button class=\"tooltip\" aria-describedby=\"tooltip-Air Conditioning\" type=\"button\"> <div>",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 60480,
+      "firstColumn": 60399,
+      "message": "The “aria-describedby” attribute must point to an element in the same document.",
+      "extract": "li> <li > <button class=\"tooltip\" aria-describedby=\"tooltip-Air Conditioning\" type=\"button\"> <div>",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 114582,
+      "firstColumn": 114480,
+      "message": "The “itemprop” attribute was specified, but the element is not a property of any item.",
+      "extract": "e> </div> <div itemprop=\"aggregateRating\" itemscope itemtype=\"http://schema.org/AggregateRating\" visible=\"false\"> <meta",
+      "hiliteStart": 10,
+      "hiliteLength": 103
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 114627,
+      "firstColumn": 114584,
+      "message": "The “itemprop” attribute was specified, but the element is not a property of any item.",
+      "extract": "=\"false\"> <meta itemprop=\"ratingValue\" content=\"4.2\"/> <meta",
+      "hiliteStart": 10,
+      "hiliteLength": 44
+    },
+    {
+      "type": "error",
+      "lastLine": 14,
+      "lastColumn": 114673,
+      "firstColumn": 114629,
+      "message": "The “itemprop” attribute was specified, but the element is not a property of any item.",
+      "extract": "t=\"4.2\"/> <meta itemprop=\"ratingcount\" content=\"1266\"/> </div",
+      "hiliteStart": 10,
+      "hiliteLength": 45
+    }
+  ],
+  "language": "en"
+}

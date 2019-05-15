@@ -1,0 +1,68 @@
+{
+  "url": "https://www.accorhotels.com/fr/promotions-offers/week-end-offers/owm000651-offre-speciale-citytrip-europe.shtml",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 679,
+      "firstColumn": 505,
+      "message": "Stray start tag “html”.",
+      "extract": "IE)]><!--><html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"><!--<[",
+      "hiliteStart": 10,
+      "hiliteLength": 175
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 679,
+      "firstColumn": 505,
+      "message": "Attribute “xmlns:fb” not allowed here.",
+      "extract": "IE)]><!--><html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"><!--<[",
+      "hiliteStart": 10,
+      "hiliteLength": 175
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 679,
+      "firstColumn": 505,
+      "subType": "warning",
+      "message": "Attribute with the local name “xmlns:fb” is not serializable as XML 1.0.",
+      "extract": "IE)]><!--><html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"><!--<[",
+      "hiliteStart": 10,
+      "hiliteLength": 175
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 679,
+      "firstColumn": 505,
+      "message": "Attribute “xmlns:og” not allowed here.",
+      "extract": "IE)]><!--><html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"><!--<[",
+      "hiliteStart": 10,
+      "hiliteLength": 175
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 679,
+      "firstColumn": 505,
+      "subType": "warning",
+      "message": "Attribute with the local name “xmlns:og” is not serializable as XML 1.0.",
+      "extract": "IE)]><!--><html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"><!--<[",
+      "hiliteStart": 10,
+      "hiliteLength": 175
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 679,
+      "firstColumn": 505,
+      "subType": "fatal",
+      "message": "Cannot recover after last error. Any further errors will be ignored.",
+      "extract": "IE)]><!--><html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"><!--<[",
+      "hiliteStart": 10,
+      "hiliteLength": 175
+    }
+  ]
+}

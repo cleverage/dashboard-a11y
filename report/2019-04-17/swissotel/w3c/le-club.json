@@ -1,0 +1,11 @@
+{
+  "url": "https://www.swissotel.com/leclub/join-loyalty-program/",
+  "messages": [
+    {
+      "type": "non-document-error",
+      "url": "https://www.swissotel.com/leclub/join-loyalty-program/",
+      "subType": "io",
+      "message": "HTTP resource not retrievable. The HTTP status from the remote server was: 404."
+    }
+  ]
+}
