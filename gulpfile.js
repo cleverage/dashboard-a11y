@@ -14,9 +14,7 @@
  * Licensed under the MIT license.
  */
 
-
 'use strict';
-
 
 // gulp plugins
 const assert = require('assert'),
@@ -211,7 +209,7 @@ gulp.task('axe', 'Running axe-core validator', function(done) {
 				assert(isValidURL(url), 'Invalid URL');
 
 				await page.goto(url, {
-      		timeout : 60000 // 1 minute 
+      		timeout : 300000 // 5 minutes 
 				});
 
 		    const res = await new AxePuppeteer(page)
@@ -339,4 +337,3 @@ gulp.task('default', 'Default task', gulp.series([
   'json',
   'localhost'
 ]));
-
