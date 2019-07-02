@@ -1,0 +1,138 @@
+{
+  "url": "https://www.swissotel.com/promo/europe/",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 5,
+      "lastColumn": 66,
+      "firstColumn": 5,
+      "message": "A “meta” element with an “http-equiv” attribute whose value is “X-UA-Compatible” must have a “content” attribute with the value “IE=edge”.",
+      "extract": "f-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 62
+    },
+    {
+      "type": "error",
+      "lastLine": 43,
+      "lastColumn": 13,
+      "firstColumn": 5,
+      "message": "Stray end tag “script”.",
+      "extract": "ript>\n    </script>\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 9
+    },
+    {
+      "type": "info",
+      "lastLine": 62,
+      "lastColumn": 123,
+      "firstColumn": 15,
+      "subType": "warning",
+      "message": "The “border” attribute is obsolete. Consider specifying “img { border: 0; }” in CSS instead.",
+      "extract": "<noscript><img src=\"https://frhi.112.2o7.net/b/ss/frhiswissotel/1/H.23.2--NS/0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\"></nosc",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "info",
+      "lastLine": 83,
+      "lastColumn": 40,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "iv>\n\t\n    <header id=\"nav-area\" role=\"banner\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "info",
+      "lastLine": 101,
+      "lastColumn": 37,
+      "firstColumn": 2,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "rapper\">\n\t<main id=\"divContainer\" role=\"main\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "error",
+      "lastLine": 106,
+      "lastColumn": 84,
+      "firstColumn": 34,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "s=\"slide\"><img src=\"/promo/europe/images/home/home-hero.jpg\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 51
+    },
+    {
+      "type": "error",
+      "lastLine": 123,
+      "lastColumn": 95,
+      "firstColumn": 42,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/promo/europe/images/ui/icon-cta-arrow.png\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 127,
+      "lastColumn": 75,
+      "firstColumn": 23,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/promo/europe/images/home/home-family.jpg\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "error",
+      "lastLine": 133,
+      "lastColumn": 95,
+      "firstColumn": 42,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/promo/europe/images/ui/icon-cta-arrow.png\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 137,
+      "lastColumn": 75,
+      "firstColumn": 23,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/promo/europe/images/home/home-suites.jpg\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "error",
+      "lastLine": 145,
+      "lastColumn": 95,
+      "firstColumn": 42,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ta-arrow\"><img src=\"/promo/europe/images/ui/icon-cta-arrow.png\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 54
+    },
+    {
+      "type": "error",
+      "lastLine": 149,
+      "lastColumn": 77,
+      "firstColumn": 23,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "    </div><img src=\"/promo/europe/images/home/home-weekends.jpg\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 55
+    },
+    {
+      "type": "error",
+      "lastLine": 165,
+      "lastColumn": 133,
+      "firstColumn": 79,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "tri-logo\"><img src=\"/promo/europe/images/ui/footer-tri-logo.png\"></a>\n ",
+      "hiliteStart": 10,
+      "hiliteLength": 55
+    }
+  ]
+}
