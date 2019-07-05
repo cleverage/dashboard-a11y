@@ -190,7 +190,8 @@ gulp.task('axe', 'Running axe-core validator', function(done) {
 		for(let i in jsonData) {
 
 			// create site folder in results folder
-			const folderResultsSite = folderTime + '/' + jsonData[i].site;
+			const folderResultsSite = folderTime + '/' + cleanStr(jsonData[i].site);
+
 			if (!fs.existsSync(folderResultsSite)) {
 				fs.mkdirSync(folderResultsSite);
 			}
