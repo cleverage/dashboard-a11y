@@ -11,14 +11,6 @@
         }
       },
       {
-        "name": "Home reborn",
-        "url": "https://www.accorhotels.com/france/index.fr.shtml",
-        "results": {
-          "w3c": 52,
-          "axe": 8
-        }
-      },
-      {
         "name": "Web accessibility",
         "url": "https://www.accorhotels.com/web-accessibility/index.fr.shtml",
         "results": {

@@ -7,16 +7,6 @@
         "url": "https://www.accorhotels.com/fr/france/index.shtml",
         "results": {
           "w3c": 62,
-          "date": "2019-03-04",
-          "axe": 13
-        }
-      },
-      {
-        "name": "Home reborn",
-        "url": "https://www.accorhotels.com/france/index.fr.shtml",
-        "results": {
-          "w3c": 62,
-          "date": "2019-03-04",
           "axe": 13
         }
       },
@@ -25,7 +15,6 @@
         "url": "https://www.accorhotels.com/web-accessibility/index.fr.shtml",
         "results": {
           "w3c": 45,
-          "date": "2019-03-04",
           "axe": 17
         }
       },
@@ -34,7 +23,6 @@
         "url": "https://www.accorhotels.com/legal-conditions/index.fr.shtml",
         "results": {
           "w3c": 76,
-          "date": "2019-03-04",
           "axe": 34
         }
       },
@@ -43,7 +31,6 @@
         "url": "https://www.accorhotels.com/booking/internet-sales-conditions.fr.shtml",
         "results": {
           "w3c": 76,
-          "date": "2019-03-04",
           "axe": 89
         }
       },
@@ -52,7 +39,6 @@
         "url": "https://www.accorhotels.com/fr/sustainable-development/index.shtml",
         "results": {
           "w3c": 49,
-          "date": "2019-03-04",
           "axe": 37
         }
       },
@@ -61,7 +47,6 @@
         "url": "https://www.accorhotels.com/gb/hotel-0753-novotel-new-york-times-square/index.shtml",
         "results": {
           "w3c": 84,
-          "date": "2019-03-04",
           "axe": 34
         }
       },
@@ -79,7 +64,6 @@
         "url": "https://www.accorhotels.com/leclub/join-loyalty-program/index.en.shtml",
         "results": {
           "w3c": 48,
-          "date": "2019-03-04",
           "axe": 21
         }
       },
@@ -88,7 +72,6 @@
         "url": "https://www.accorhotels.com/gb/brands/index.shtml",
         "results": {
           "w3c": 62,
-          "date": "2019-03-04",
           "axe": 38
         }
       },
@@ -97,7 +80,6 @@
         "url": "https://www.accorhotels.com/pt-br/brands/hotels-ibis.shtml",
         "results": {
           "w3c": 57,
-          "date": "2019-03-04",
           "axe": 60
         }
       },
@@ -106,7 +88,6 @@
         "url": "https://www.accorhotels.com/brands/movenpick.en.shtml",
         "results": {
           "w3c": 51,
-          "date": "2019-03-04",
           "axe": 11
         }
       },
@@ -115,7 +96,6 @@
         "url": "https://www.accorhotels.com/gb/support/contact.shtml",
         "results": {
           "w3c": 72,
-          "date": "2019-03-04",
           "axe": 20
         }
       },
@@ -124,7 +104,6 @@
         "url": "https://www.accorhotels.com/fr/sitemap/index.shtml",
         "results": {
           "w3c": 47,
-          "date": "2019-03-04",
           "axe": 183
         }
       },
@@ -133,7 +112,6 @@
         "url": "https://www.accorhotels.com/fr/france/promotions-offers/index.shtml",
         "results": {
           "w3c": 4,
-          "date": "2019-03-04",
           "axe": 33
         }
       },
@@ -142,7 +120,6 @@
         "url": "https://www.accorhotels.com/fr/promotions-offers/week-end-offers/owm000651-offre-speciale-citytrip-europe.shtml",
         "results": {
           "w3c": 4,
-          "date": "2019-03-04",
           "axe": 59
         }
       },
@@ -151,7 +128,6 @@
         "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/register",
         "results": {
           "w3c": 45,
-          "date": "2019-03-04",
           "axe": 13
         }
       },
@@ -160,7 +136,6 @@
         "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/login",
         "results": {
           "w3c": 45,
-          "date": "2019-03-04",
           "axe": 13
         }
       },
@@ -169,7 +144,6 @@
         "url": "https://hotelf1.accorhotels.com/home/index.fr.shtml",
         "results": {
           "w3c": 8,
-          "date": "2019-03-04",
           "axe": 108
         }
       },
@@ -178,7 +152,6 @@
         "url": "https://mercure.accorhotels.com/fr/france/index.shtml",
         "results": {
           "w3c": 18,
-          "date": "2019-03-04",
           "axe": 99
         }
       },
@@ -187,7 +160,6 @@
         "url": "https://novotel.accorhotels.com/fr/france/index.shtml",
         "results": {
           "w3c": 23,
-          "date": "2019-03-04",
           "axe": 35
         }
       },
@@ -196,7 +168,6 @@
         "url": "https://ibis.accorhotels.com/brasil/index.pt-br.shtml",
         "results": {
           "w3c": 53,
-          "date": "2019-03-04",
           "axe": 46
         }
       },
@@ -205,7 +176,6 @@
         "url": "https://sofitel.accorhotels.com/fr/france/index.shtml",
         "results": {
           "w3c": 44,
-          "date": "2019-03-04",
           "axe": 36
         }
       },
@@ -214,7 +184,6 @@
         "url": "https://sofitel.accorhotels.com/gb/hotel-2185-sofitel-new-york/index.shtml",
         "results": {
           "w3c": 24,
-          "date": "2019-03-04",
           "axe": 46
         }
       },
@@ -223,7 +192,6 @@
         "url": "https://pullman.accorhotels.com/fr/france/index.shtml",
         "results": {
           "w3c": 20,
-          "date": "2019-03-04",
           "axe": 29
         }
       },
@@ -232,7 +200,6 @@
         "url": "https://restaurants.accorhotels.com/united-kingdom/index.en.shtml",
         "results": {
           "w3c": 46,
-          "date": "2019-03-04",
           "axe": 31
         }
       },
@@ -241,7 +208,6 @@
         "url": "https://travelpros.accorhotels.com/gb/northamerica/index.shtml",
         "results": {
           "w3c": 250,
-          "date": "2019-03-04",
           "axe": 57
         }
       },
@@ -250,7 +216,6 @@
         "url": "https://businesstravel.accorhotels.com/gb/united-kingdom/index.shtml",
         "results": {
           "w3c": 11,
-          "date": "2019-03-04",
           "axe": 56
         }
       },
@@ -259,7 +224,6 @@
         "url": "https://meetings.accorhotels.com/united-kingdom/index.en.shtml",
         "results": {
           "w3c": 57,
-          "date": "2019-03-04",
           "axe": 30
         }
       }
@@ -273,7 +237,6 @@
         "url": "https://www.swissotel.com",
         "results": {
           "w3c": 4,
-          "date": "2019-03-04",
           "axe": 8
         }
       },
@@ -282,7 +245,6 @@
         "url": "https://www.swissotel.com/web-accessibility/",
         "results": {
           "w3c": 17,
-          "date": "2019-03-04",
           "axe": 6
         }
       },
@@ -291,7 +253,6 @@
         "url": "https://www.swissotel.com/hotels/singapore-stamford/",
         "results": {
           "w3c": 1,
-          "date": "2019-03-04",
           "axe": 6
         }
       },
@@ -300,7 +261,6 @@
         "url": "https://www.swissotel.com/hotels/bangkok-ratchada/explore-hotel/",
         "results": {
           "w3c": 2,
-          "date": "2019-03-04",
           "axe": 9
         }
       },
@@ -309,7 +269,6 @@
         "url": "https://www.swissotel.com/hotels/singapore-merchant-court/dining/ellenborough-market-cafe",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 10
         }
       },
@@ -318,7 +277,6 @@
         "url": "https://www.swissotel.com/hotels/singapore-stamford/spa-fitness/",
         "results": {
           "w3c": 5,
-          "date": "2019-03-04",
           "axe": 7
         }
       },
@@ -335,7 +293,6 @@
         "url": "https://www.swissotel.com/meetings-events",
         "results": {
           "w3c": 1,
-          "date": "2019-03-04",
           "axe": 6
         }
       },
@@ -344,7 +301,6 @@
         "url": "https://www.swissotel.com/privacy-and-terms",
         "results": {
           "w3c": 2,
-          "date": "2019-03-04",
           "axe": 6
         }
       },
@@ -353,7 +309,6 @@
         "url": "https://www.swissotel.com/sitemap",
         "results": {
           "w3c": 1,
-          "date": "2019-03-04",
           "axe": 6
         }
       },
@@ -362,7 +317,6 @@
         "url": "https://www.swissotel.com/leclub/join-loyalty-program/",
         "results": {
           "w3c": 15,
-          "date": "2019-03-04",
           "axe": 9
         }
       },
@@ -371,7 +325,6 @@
         "url": "https://www.swissotel.com/destinations/",
         "results": {
           "w3c": 0,
-          "date": "2019-03-04",
           "axe": 9
         }
       },
@@ -380,7 +333,6 @@
         "url": "https://www.swissotel.com/careers/",
         "results": {
           "w3c": 0,
-          "date": "2019-03-04",
           "axe": 7
         }
       },
@@ -389,7 +341,6 @@
         "url": "https://www.swissotel.com/reservations/check-availability/",
         "results": {
           "w3c": 17,
-          "date": "2019-03-04",
           "axe": 14
         }
       },
@@ -398,7 +349,6 @@
         "url": "https://www.swissotel.com/about-swissotel/",
         "results": {
           "w3c": 1,
-          "date": "2019-03-04",
           "axe": 8
         }
       },
@@ -407,7 +357,6 @@
         "url": "https://www.swissotel.com/contact-us",
         "results": {
           "w3c": 0,
-          "date": "2019-03-04",
           "axe": 14
         }
       },
@@ -416,7 +365,6 @@
         "url": "https://www.swissotel.com/discover/sustainability/",
         "results": {
           "w3c": 49,
-          "date": "2019-03-04",
           "axe": 38
         }
       },
@@ -425,7 +373,6 @@
         "url": "https://www.swissotel.com/purovel/",
         "results": {
           "w3c": 2,
-          "date": "2019-03-04",
           "axe": 6
         }
       },
@@ -434,7 +381,6 @@
         "url": "https://www.swissotel.com/promo/europe/",
         "results": {
           "w3c": 11,
-          "date": "2019-03-04",
           "axe": 24
         }
       }
@@ -448,7 +394,6 @@
         "url": "https://www.raffles.com",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 19
         }
       },
@@ -457,7 +402,6 @@
         "url": "https://www.raffles.com/web-accessibility/",
         "results": {
           "w3c": 6,
-          "date": "2019-03-04",
           "axe": 12
         }
       },
@@ -466,7 +410,6 @@
         "url": "https://www.raffles.com/singapore/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 35
         }
       },
@@ -475,7 +418,6 @@
         "url": "https://www.raffles.com/singapore/location/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 30
         }
       },
@@ -484,7 +426,6 @@
         "url": "https://www.raffles.com/singapore/dining/long-bar/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 26
         }
       },
@@ -493,7 +434,6 @@
         "url": "https://www.raffles-tr.com/istanbul/spa/",
         "results": {
           "w3c": 0,
-          "date": "2019-03-04",
           "axe": 35
         }
       },
@@ -502,7 +442,6 @@
         "url": "https://www.raffles.com/makkah/offers/hotel-offers/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 13
         }
       },
@@ -511,7 +450,6 @@
         "url": "https://www.raffles.com/events/meeting-and-events/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 17
         }
       },
@@ -520,7 +458,6 @@
         "url": "https://www.raffles.com/privacy/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 17
         }
       },
@@ -529,7 +466,6 @@
         "url": "https://www.raffles.com/site-map/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 17
         }
       },
@@ -538,7 +474,6 @@
         "url": "https://www.raffles.com/leclub/join-loyalty-program/",
         "results": {
           "w3c": 19,
-          "date": "2019-03-04",
           "axe": 15
         }
       },
@@ -547,7 +482,6 @@
         "url": "https://www.raffles.com/destinations/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 19
         }
       },
@@ -556,7 +490,6 @@
         "url": "https://www.raffles.com/careers/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 17
         }
       },
@@ -565,7 +498,6 @@
         "url": "https://www.raffles.com/reservations/check-availability/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 19
         }
       },
@@ -574,7 +506,6 @@
         "url": "https://www.raffles.com/about-raffles/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 23
         }
       },
@@ -583,7 +514,6 @@
         "url": "https://www.raffles.com/offers/email-offers/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 22
         }
       },
@@ -592,7 +522,6 @@
         "url": "https://www.raffles.com/partners/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 17
         }
       },
@@ -601,7 +530,6 @@
         "url": "https://www.raffles.com/gallery/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 20
         }
       },
@@ -610,7 +538,6 @@
         "url": "https://www.raffles.com/raffles-life/raffles-1915-gin/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 12
         }
       }
@@ -624,7 +551,6 @@
         "url": "https://www.fairmont.com/",
         "results": {
           "w3c": 12,
-          "date": "2019-03-04",
           "axe": 27
         }
       },
@@ -633,7 +559,6 @@
         "url": "https://www.fairmont.com/web-accessibility/",
         "results": {
           "w3c": 12,
-          "date": "2019-03-04",
           "axe": 24
         }
       },
@@ -642,7 +567,6 @@
         "url": "https://www.fairmont.com/banff-springs/",
         "results": {
           "w3c": 18,
-          "date": "2019-03-04",
           "axe": 48
         }
       },
@@ -651,7 +575,6 @@
         "url": "https://www.fairmont.com/banff-springs/map/mapanddirections/",
         "results": {
           "w3c": 22,
-          "date": "2019-03-04",
           "axe": 24
         }
       },
@@ -660,7 +583,6 @@
         "url": "https://www.fairmont.com/banff-springs/dining/",
         "results": {
           "w3c": 19,
-          "date": "2019-03-04",
           "axe": 27
         }
       },
@@ -669,7 +591,6 @@
         "url": "https://www.fairmont.com/banff-springs/willow-stream/",
         "results": {
           "w3c": 9,
-          "date": "2019-03-04",
           "axe": 40
         }
       },
@@ -678,7 +599,6 @@
         "url": "https://www.fairmont.com/offers/",
         "results": {
           "w3c": 8,
-          "date": "2019-03-04",
           "axe": 66
         }
       },
@@ -687,7 +607,6 @@
         "url": "https://www.fairmont.com/meetings-weddings/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 35
         }
       },
@@ -696,7 +615,6 @@
         "url": "https://www.fairmont.com/help/terms-and-conditions/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 24
         }
       },
@@ -705,7 +623,6 @@
         "url": "https://www.fairmont.com/search/",
         "results": {
           "w3c": 9,
-          "date": "2019-03-04",
           "axe": 227
         }
       },
@@ -714,7 +631,6 @@
         "url": "https://www.fairmont.com/leclub/join-loyalty-program/",
         "results": {
           "w3c": 12,
-          "date": "2019-03-04",
           "axe": 30
         }
       },
@@ -723,7 +639,6 @@
         "url": "https://www.fairmont.com/destinations/",
         "results": {
           "w3c": 10,
-          "date": "2019-03-04",
           "axe": 195
         }
       },
@@ -732,7 +647,6 @@
         "url": "https://www.fairmont.com/careers/",
         "results": {
           "w3c": 6,
-          "date": "2019-03-04",
           "axe": 24
         }
       },
@@ -741,7 +655,6 @@
         "url": "https://www.fairmont.com/reservations/check-availability/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 35
         }
       },
@@ -750,7 +663,6 @@
         "url": "https://www.fairmont.com/about-us/",
         "results": {
           "w3c": 23,
-          "date": "2019-03-04",
           "axe": 25
         }
       },
@@ -759,7 +671,6 @@
         "url": "https://www.fairmont.com/email/email-offers/",
         "results": {
           "w3c": 9,
-          "date": "2019-03-04",
           "axe": 26
         }
       },
@@ -768,7 +679,6 @@
         "url": "https://www.fairmont.com/contact-us/morenumbers/",
         "results": {
           "w3c": 10,
-          "date": "2019-03-04",
           "axe": 65
         }
       },
@@ -777,7 +687,6 @@
         "url": "https://www.fairmont.com/residences/",
         "results": {
           "w3c": 7,
-          "date": "2019-03-04",
           "axe": 28
         }
       },
@@ -786,7 +695,6 @@
         "url": "https://www.fairmont.com/about-us/programs-partners/hotel-partners/affiliatefaq/",
         "results": {
           "w3c": 6,
-          "date": "2019-03-04",
           "axe": 24
         }
       }
