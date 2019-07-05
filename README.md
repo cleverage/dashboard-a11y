@@ -3,10 +3,10 @@
 Launch the W3C and aXe tools on a list of URLs contained in a JSON file.
 
 What's aXe and W3C ?
-* aXe : automated tool that can find accessibility defects of Web documents. 
-* W3C : automated tool that helps check the validity of Web documents.
+* aXe : automated tool that can find some accessibility defects of Web documents. 
+* w3c : automated tool that check the mark-up (HTML) validation of Web documents.
 
-Warning: even the best automated accessibility testing tools will only test one-third of all accessibility tests. In other words, theses tools are not magic. They are useful but they have to be completed by a human evaluation.
+Warning: even the best automated accessibility testing tools will only test at the most one-third of all possible accessibility issues. In other words, theses tools are not magic. They are useful but they have to be completed by a human evaluation.
 
 **Demo:** [http://cleverage.github.io/dashboard-a11y](http://cleverage.github.io/dashboard-a11y)
 
