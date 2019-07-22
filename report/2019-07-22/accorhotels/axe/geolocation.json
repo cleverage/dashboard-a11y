@@ -1,0 +1,2199 @@
+{
+  "testEngine": {
+    "name": "axe-core",
+    "version": "3.2.2"
+  },
+  "testRunner": {
+    "name": "axe"
+  },
+  "testEnvironment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/75.0.3765.0 Safari/537.36",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "orientationAngle": 0,
+    "orientationType": "portrait-primary"
+  },
+  "timestamp": "2019-07-22T07:16:23.210Z",
+  "url": "https://www.accorhotels.com/gb/geoloc/selectdisplayzone.jshtml",
+  "toolOptions": {
+    "rules": {
+      "frame-tested": {
+        "enabled": false
+      }
+    },
+    "reporter": "v1"
+  },
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143"
+      ],
+      "description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+      "help": "Elements must have sufficient color contrast",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/color-contrast?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#dadbdd",
+                "bgColor": "#ffffff",
+                "contrastRatio": 1.38,
+                "fontSize": "9.0pt",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has insufficient color contrast of 1.38 (foreground color: #dadbdd, background color: #ffffff, font size: 9.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<span id=\"countrySelectContainerValue\">Country</span>",
+          "target": [
+            "#countrySelectContainerValue"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 1.38 (foreground color: #dadbdd, background color: #ffffff, font size: 9.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#ffffff",
+                "bgColor": "#38b7ff",
+                "contrastRatio": 2.23,
+                "fontSize": "8.3pt",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<input type=\"submit\" value=\"Confirm my country and language\">",
+                  "target": [
+                    "input[type=\"submit\"]"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Element has insufficient color contrast of 2.23 (foreground color: #ffffff, background color: #38b7ff, font size: 8.3pt, font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<input type=\"submit\" value=\"Confirm my country and language\">",
+          "target": [
+            "input[type=\"submit\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 2.23 (foreground color: #ffffff, background color: #38b7ff, font size: 8.3pt, font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    },
+    {
+      "id": "label",
+      "impact": "critical",
+      "tags": [
+        "cat.forms",
+        "wcag2a",
+        "wcag332",
+        "wcag131",
+        "section508",
+        "section508.22.n"
+      ],
+      "description": "Ensures every form element has a label",
+      "help": "Form elements must have labels",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/label?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-label attribute does not exist or is empty"
+            },
+            {
+              "id": "aria-labelledby",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty"
+            },
+            {
+              "id": "implicit-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Form element does not have an implicit (wrapped) <label>"
+            },
+            {
+              "id": "explicit-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Form element does not have an explicit <label>"
+            },
+            {
+              "id": "non-empty-title",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has no title attribute or the title attribute is empty"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "critical",
+          "html": "<select>",
+          "target": [
+            "#continentSelector > select"
+          ],
+          "failureSummary": "Fix any of the following:\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Form element does not have an implicit (wrapped) <label>\n  Form element does not have an explicit <label>\n  Element has no title attribute or the title attribute is empty"
+        },
+        {
+          "any": [
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-label attribute does not exist or is empty"
+            },
+            {
+              "id": "aria-labelledby",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty"
+            },
+            {
+              "id": "implicit-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Form element does not have an implicit (wrapped) <label>"
+            },
+            {
+              "id": "explicit-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Form element does not have an explicit <label>"
+            },
+            {
+              "id": "non-empty-title",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has no title attribute or the title attribute is empty"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "critical",
+          "html": "<select disabled=\"disabled\">",
+          "target": [
+            "#countrySelectContainer > select"
+          ],
+          "failureSummary": "Fix any of the following:\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Form element does not have an implicit (wrapped) <label>\n  Form element does not have an explicit <label>\n  Element has no title attribute or the title attribute is empty"
+        }
+      ]
+    },
+    {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the document has only one main landmark and each iframe in the page has at most one main landmark",
+      "help": "Document must have one main landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/landmark-one-main?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "page-has-main",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "moderate",
+              "message": "Document does not have a main landmark"
+            }
+          ],
+          "none": [],
+          "impact": "moderate",
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ],
+          "failureSummary": "Fix all of the following:\n  Document does not have a main landmark"
+        }
+      ]
+    },
+    {
+      "id": "page-has-heading-one",
+      "impact": "moderate",
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+      "help": "Page must contain a level-one heading",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/page-has-heading-one?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "page-has-heading-one",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "moderate",
+              "message": "Page must have a level-one heading"
+            }
+          ],
+          "none": [],
+          "impact": "moderate",
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ],
+          "failureSummary": "Fix all of the following:\n  Page must have a level-one heading"
+        }
+      ]
+    },
+    {
+      "id": "region",
+      "impact": "moderate",
+      "tags": [
+        "cat.keyboard",
+        "best-practice"
+      ],
+      "description": "Ensures all page content is contained by landmarks",
+      "help": "All page content must be contained by landmarks",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/region?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "region",
+              "data": null,
+              "relatedNodes": [
+                {
+                  "html": "<p class=\"countrySelectorTitle\">Select your location and language below</p>",
+                  "target": [
+                    ".countrySelectorTitle"
+                  ]
+                },
+                {
+                  "html": "<span id=\"continentSelectorValue\">Geographical area</span>",
+                  "target": [
+                    "#continentSelectorValue"
+                  ]
+                },
+                {
+                  "html": "<select>",
+                  "target": [
+                    "#continentSelector > select"
+                  ]
+                },
+                {
+                  "html": "<span id=\"countrySelectContainerValue\">Country</span>",
+                  "target": [
+                    "#countrySelectContainerValue"
+                  ]
+                },
+                {
+                  "html": "<select disabled=\"disabled\">",
+                  "target": [
+                    "#countrySelectContainer > select"
+                  ]
+                },
+                {
+                  "html": "<input type=\"submit\" value=\"Confirm my country and language\">",
+                  "target": [
+                    "input[type=\"submit\"]"
+                  ]
+                },
+                {
+                  "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+                  "target": [
+                    ".usabilla_live_button_container"
+                  ]
+                },
+                {
+                  "html": "<img width=\"0\" height=\"0\" alt=\"\" src=\"https://t.teads.tv/track?action=pageView&amp;advertiser_id=11819&amp;referer=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fgeoloc%2Fselectdisplayzone.jshtml\" style=\"position: absolute;\">",
+                  "target": [
+                    "#geoCountry > img[alt=\"\"]"
+                  ]
+                }
+              ],
+              "impact": "moderate",
+              "message": "Some page content is not contained by landmarks"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "moderate",
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ],
+          "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks"
+        }
+      ]
+    }
+  ],
+  "passes": [
+    {
+      "id": "aria-allowed-attr",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412"
+      ],
+      "description": "Ensures ARIA attributes are allowed for an element's role",
+      "help": "Elements must only use allowed ARIA attributes",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-allowed-attr?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-allowed-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attributes are used correctly for the defined role"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-unsupported-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-allowed-role",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "best-practice"
+      ],
+      "description": "Ensures role attribute has an appropriate value for the element",
+      "help": "ARIA role must be appropriate for the element",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-allowed-role?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-allowed-role",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "ARIA role is allowed for given element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-hidden-body",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412"
+      ],
+      "description": "Ensures aria-hidden='true' is not present on the document body.",
+      "help": "aria-hidden='true' must not be present on the document body",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-hidden-body?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-hidden-body",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "No aria-hidden attribute is present on document body"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<body id=\"geoCountry\" class=\"en ach\" style=\"\">",
+          "target": [
+            "#geoCountry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-required-attr",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412"
+      ],
+      "description": "Ensures elements with ARIA roles have all required ARIA attributes",
+      "help": "Required ARIA attributes must be provided",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-required-attr?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-required-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "All required ARIA attributes are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-required-children",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures elements with an ARIA role that require child roles contain them",
+      "help": "Certain ARIA roles must contain particular children",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-required-children?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-required-children",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Required ARIA children are present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-required-parent",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures elements with an ARIA role that require parent roles are contained by them",
+      "help": "Certain ARIA roles must be contained by particular parents",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-required-parent?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-required-parent",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Required ARIA parent role present"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-roles",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412"
+      ],
+      "description": "Ensures all elements with a role attribute use a valid value",
+      "help": "ARIA roles used must conform to valid values",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-roles?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "invalidrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is valid"
+            },
+            {
+              "id": "abstractrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Abstract roles are not used"
+            },
+            {
+              "id": "unsupportedrole",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA role is supported"
+            }
+          ],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-valid-attr-value",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412"
+      ],
+      "description": "Ensures all ARIA attributes have valid values",
+      "help": "ARIA attributes must conform to valid values",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-valid-attr-value?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [
+            {
+              "id": "aria-valid-attr-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute values are valid"
+            },
+            {
+              "id": "aria-errormessage",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Uses a supported aria-errormessage technique"
+            }
+          ],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aria-valid-attr",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412"
+      ],
+      "description": "Ensures attributes that begin with aria- are valid ARIA attributes",
+      "help": "ARIA attributes must conform to valid names",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-valid-attr?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "aria-valid-attr",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "ARIA attribute name are valid"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "button-name",
+      "impact": null,
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.a"
+      ],
+      "description": "Ensures buttons have discernible text",
+      "help": "Buttons must have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/button-name?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "non-empty-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Element has a non-empty value attribute"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
+          "html": "<input type=\"submit\" value=\"Confirm my country and language\">",
+          "target": [
+            "input[type=\"submit\"]"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "button-has-visible-text",
+              "data": "Usabilla Feedback Button",
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Element has inner text that is visible to screen readers"
+            },
+            {
+              "id": "aria-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-label attribute exists and is not empty"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "focusable-no-name",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element is not in tab order or has accessible text"
+            }
+          ],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143"
+      ],
+      "description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+      "help": "Elements must have sufficient color contrast",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/color-contrast?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#333333",
+                "bgColor": "#ffffff",
+                "contrastRatio": 12.63,
+                "fontSize": "13.5pt",
+                "fontWeight": "bold",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 12.63"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<p class=\"countrySelectorTitle\">Select your location and language below</p>",
+          "target": [
+            ".countrySelectorTitle"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#19171c",
+                "bgColor": "#ffffff",
+                "contrastRatio": 17.78,
+                "fontSize": "9.0pt",
+                "fontWeight": "normal",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has sufficient color contrast of 17.78"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<span id=\"continentSelectorValue\">Geographical area</span>",
+          "target": [
+            "#continentSelectorValue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "document-title",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag242"
+      ],
+      "description": "Ensures each HTML document contains a non-empty <title> element",
+      "help": "Documents must have <title> element to aid in navigation",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/document-title?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "doc-has-title",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Document has a non-empty <title> element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "duplicate-id",
+      "impact": null,
+      "tags": [
+        "cat.parsing",
+        "wcag2a",
+        "wcag411"
+      ],
+      "description": "Ensures every id attribute value is unique",
+      "help": "id attribute value must be unique",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/duplicate-id?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "geoCountry",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<body id=\"geoCountry\" class=\"en ach\" style=\"\">",
+          "target": [
+            "#geoCountry"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "lightningjs-usabilla_live",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div id=\"lightningjs-usabilla_live\" style=\"display: none;\"><div><iframe frameborder=\"0\" id=\"lightningjs-frame-usabilla_live\"></iframe></div></div>",
+          "target": [
+            "#lightningjs-usabilla_live"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "lightningjs-frame-usabilla_live",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<iframe frameborder=\"0\" id=\"lightningjs-frame-usabilla_live\"></iframe>",
+          "target": [
+            "#lightningjs-frame-usabilla_live"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "countrySelector",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div id=\"countrySelector\">",
+          "target": [
+            "#countrySelector"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "mobile",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div id=\"mobile\">",
+          "target": [
+            "#mobile"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "frmDisplayVersion",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<form action=\"\" method=\"post\" id=\"frmDisplayVersion\">",
+          "target": [
+            "#frmDisplayVersion"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "continentSelector",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div id=\"continentSelector\" class=\"selectContainer\">",
+          "target": [
+            "#continentSelector"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "continentSelectorValue",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<span id=\"continentSelectorValue\">Geographical area</span>",
+          "target": [
+            "#continentSelectorValue"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "countrySelectContainer",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div id=\"countrySelectContainer\" class=\"selectContainer disabled\">",
+          "target": [
+            "#countrySelectContainer"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "countrySelectContainerValue",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<span id=\"countrySelectContainerValue\">Country</span>",
+          "target": [
+            "#countrySelectContainerValue"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<script type=\"text/javascript\" id=\"\">",
+          "target": [
+            "script[type=\"text\\/javascript\"]:nth-child(7)"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "ta09232342711982271",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<iframe name=\"ta09232342711982271\" id=\"ta09232342711982271\" src=\"javascript:false\"></iframe>",
+          "target": [
+            "#ta09232342711982271"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "ywa-1563779781871-522276",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<script type=\"application/javascript\" id=\"ywa-1563779781871-522276\" class=\"ywa-10000\" defer=\"\" src=\"https://sp.analytics.yahoo.com/sp.pl?a=10000&amp;jsonp=YAHOO.ywa.I13N.handleJSONResponse&amp;d=Mon%2C%2022%20Jul%202019%2007%3A16%3A21%20GMT&amp;n=-2d&amp;b=Select%20your%20location%20and%20language%20below&amp;.yp=10066194&amp;f=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fgeoloc%2Fselectdisplayzone.jshtml&amp;enc=UTF-8\">",
+          "target": [
+            "#ywa-1563779781871-522276"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "snap025821269030825444",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<iframe id=\"snap025821269030825444\" name=\"snap025821269030825444\"></iframe>",
+          "target": [
+            "#snap025821269030825444"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "batBeacon0.6867944225921763",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div style=\"width:0px; height:0px; display:none; visibility:hidden;\" id=\"batBeacon0.6867944225921763\">",
+          "target": [
+            "#batBeacon0\\.6867944225921763"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "batBeacon0.16845846496749406",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<img style=\"width:0px; height:0px; display:none; visibility:hidden;\" id=\"batBeacon0.16845846496749406\" width=\"0\" height=\"0\" alt=\"\" src=\"https://bat.bing.com/action/0?ti=5823727&amp;Ver=2&amp;mid=310e8573-ea07-e90e-0749-5c0e1dcf8213&amp;pi=0&amp;lg=en-US&amp;sw=1440&amp;sh=900&amp;sc=24&amp;tl=Select%20your%20location%20and%20language%20below&amp;p=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fgeoloc%2Fselectdisplayzone.jshtml&amp;r=&amp;lt=1183&amp;evt=pageLoad&amp;msclkid=N&amp;rn=198810\">",
+          "target": [
+            "#batBeacon0\\.16845846496749406"
+          ]
+        },
+        {
+          "any": [
+            {
+              "id": "duplicate-id",
+              "data": "mm_sync_back_ground",
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Document has no static elements that share the same id attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<iframe src=\"https://pixel.mathtag.com/sync/iframe?mt_uuid=0e655d35-626d-4800-9908-10593027adc1&amp;no_iframe=1&amp;mt_adid=216015\" id=\"mm_sync_back_ground\" style=\"visibility: hidden; display: none;\"></iframe>",
+          "target": [
+            "#mm_sync_back_ground"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "form-field-multiple-labels",
+      "impact": null,
+      "tags": [
+        "cat.forms",
+        "wcag2a",
+        "wcag332"
+      ],
+      "description": "Ensures form field does not have multiple label elements",
+      "help": "Form field must not have multiple label elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/form-field-multiple-labels?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "multiple-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "moderate",
+              "message": "Form field does not have multiple label elements"
+            }
+          ],
+          "impact": null,
+          "html": "<select>",
+          "target": [
+            "#continentSelector > select"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "multiple-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "moderate",
+              "message": "Form field does not have multiple label elements"
+            }
+          ],
+          "impact": null,
+          "html": "<select disabled=\"disabled\">",
+          "target": [
+            "#countrySelectContainer > select"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frame-title-unique",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "best-practice"
+      ],
+      "description": "Ensures <iframe> and <frame> elements contain a unique title attribute",
+      "help": "Frames must have a unique title attribute",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/frame-title-unique?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "unique-frame-title",
+              "data": "usabilla feedback button",
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element's title attribute is unique"
+            }
+          ],
+          "impact": null,
+          "html": "<iframe src=\"\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" data-tags=\"left\" title=\"Usabilla Feedback Button\" style=\"width: 40px; height: 130px; margin: 0px; padding: 0px; border: 0px; overflow: hidden; z-index: 9998; position: absolute; left: 0px; top: 0px; box-shadow: 0px 0px 0px; background-color: transparent;\">",
+          "target": [
+            "iframe[src=\"\"]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frame-title",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag241",
+        "wcag412",
+        "section508",
+        "section508.22.i"
+      ],
+      "description": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+      "help": "Frames must have title attribute",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/frame-title?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "non-empty-title",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has a title attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<iframe src=\"\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" data-tags=\"left\" title=\"Usabilla Feedback Button\" style=\"width: 40px; height: 130px; margin: 0px; padding: 0px; border: 0px; overflow: hidden; z-index: 9998; position: absolute; left: 0px; top: 0px; box-shadow: 0px 0px 0px; background-color: transparent;\">",
+          "target": [
+            "iframe[src=\"\"]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-has-lang",
+      "impact": null,
+      "tags": [
+        "cat.language",
+        "wcag2a",
+        "wcag311"
+      ],
+      "description": "Ensures every HTML document has a lang attribute",
+      "help": "<html> element must have a lang attribute",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/html-has-lang?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "has-lang",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "The <html> element has a lang attribute"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "html-lang-valid",
+      "impact": null,
+      "tags": [
+        "cat.language",
+        "wcag2a",
+        "wcag311"
+      ],
+      "description": "Ensures the lang attribute of the <html> element has a valid value",
+      "help": "<html> element must have a valid value for the lang attribute",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/html-lang-valid?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "valid-lang",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Value of lang attribute is included in the list of valid languages"
+            }
+          ],
+          "impact": null,
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "image-alt",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a"
+      ],
+      "description": "Ensures <img> elements have alternate text or a role of none or presentation",
+      "help": "Images must have alternate text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/image-alt?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "has-alt",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Element has an alt attribute"
+            }
+          ],
+          "all": [],
+          "none": [
+            {
+              "id": "alt-space-value",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "Element has a valid alt attribute value"
+            }
+          ],
+          "impact": null,
+          "html": "<img width=\"0\" height=\"0\" alt=\"\" src=\"https://t.teads.tv/track?action=pageView&amp;advertiser_id=11819&amp;referer=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fgeoloc%2Fselectdisplayzone.jshtml\" style=\"position: absolute;\">",
+          "target": [
+            "#geoCountry > img[alt=\"\"]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "image-redundant-alt",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "best-practice"
+      ],
+      "description": "Ensure button and link text is not repeated as image alternative",
+      "help": "Text of buttons and links should not be repeated in the image alternative",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/image-redundant-alt?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "duplicate-img-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Element does not duplicate existing text in <img> alt text"
+            }
+          ],
+          "impact": null,
+          "html": "<p class=\"countrySelectorTitle\">Select your location and language below</p>",
+          "target": [
+            ".countrySelectorTitle"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "duplicate-img-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Element does not duplicate existing text in <img> alt text"
+            }
+          ],
+          "impact": null,
+          "html": "<p><input type=\"submit\" value=\"Confirm my country and language\"></p>",
+          "target": [
+            "#frmDisplayVersion > p"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "duplicate-img-label",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "Element does not duplicate existing text in <img> alt text"
+            }
+          ],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "label-title-only",
+      "impact": null,
+      "tags": [
+        "cat.forms",
+        "best-practice"
+      ],
+      "description": "Ensures that every form element is not solely labeled using the title or aria-describedby attributes",
+      "help": "Form elements should have a visible label",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/label-title-only?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "title-only",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Form element does not solely use title attribute for its label"
+            }
+          ],
+          "impact": null,
+          "html": "<select>",
+          "target": [
+            "#continentSelector > select"
+          ]
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "title-only",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Form element does not solely use title attribute for its label"
+            }
+          ],
+          "impact": null,
+          "html": "<select disabled=\"disabled\">",
+          "target": [
+            "#countrySelectContainer > select"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "landmark-no-duplicate-banner",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the document has at most one banner landmark",
+      "help": "Document must not have more than one banner landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/landmark-no-duplicate-banner?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "page-no-duplicate-banner",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "moderate",
+              "message": "Document does not have more than one banner landmark"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "landmark-no-duplicate-contentinfo",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the document has at most one contentinfo landmark",
+      "help": "Document must not have more than one contentinfo landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/landmark-no-duplicate-contentinfo?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "page-no-duplicate-contentinfo",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "moderate",
+              "message": "Document does not have more than one contentinfo landmark"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<html lang=\"en\">",
+          "target": [
+            "html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meta-viewport-large",
+      "impact": null,
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "best-practice"
+      ],
+      "description": "Ensures <meta name=\"viewport\"> can scale a significant amount",
+      "help": "Users should be able to zoom and scale the text up to 500%",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/meta-viewport-large?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "meta-viewport-large",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "minor",
+              "message": "<meta> tag does not prevent significant zooming on mobile devices"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+          "target": [
+            "meta[name=\"viewport\"]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meta-viewport",
+      "impact": null,
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag2aa",
+        "wcag144"
+      ],
+      "description": "Ensures <meta name=\"viewport\"> does not disable text scaling and zooming",
+      "help": "Zooming and scaling must not be disabled",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/meta-viewport?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "meta-viewport",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "critical",
+              "message": "<meta> tag does not disable zooming on mobile devices"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+          "target": [
+            "meta[name=\"viewport\"]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tabindex",
+      "impact": null,
+      "tags": [
+        "cat.keyboard",
+        "best-practice"
+      ],
+      "description": "Ensures tabindex attribute values are not greater than 0",
+      "help": "Elements should not have tabindex greater than zero",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/tabindex?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "tabindex",
+              "data": null,
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element does not have a tabindex greater than 0"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": null,
+          "html": "<div class=\"usabilla_live_button_container\" role=\"button\" tabindex=\"0\" style=\"width:40px;height:130px;position:fixed;z-index:999;left:0;top:75%;margin-top:-65px\" aria-label=\"Usabilla Feedback Button\">",
+          "target": [
+            ".usabilla_live_button_container"
+          ]
+        }
+      ]
+    }
+  ],
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143"
+      ],
+      "description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+      "help": "Elements must have sufficient color contrast",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/color-contrast?application=axe-puppeteer",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "fgColor": "#ffffff",
+                "bgColor": "#ffffff",
+                "contrastRatio": 1,
+                "fontSize": "8.3pt",
+                "fontWeight": "normal",
+                "missingData": "equalRatio",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element has a 1:1 contrast ratio with the background"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<select>",
+          "target": [
+            "#continentSelector > select"
+          ]
+        }
+      ]
+    }
+  ],
+  "inapplicable": [
+    {
+      "id": "accesskeys",
+      "impact": null,
+      "tags": [
+        "best-practice",
+        "cat.keyboard"
+      ],
+      "description": "Ensures every accesskey attribute value is unique",
+      "help": "accesskey attribute value must be unique",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/accesskeys?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "area-alt",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a"
+      ],
+      "description": "Ensures <area> elements of image maps have alternate text",
+      "help": "Active <area> elements must have alternate text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/area-alt?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "aria-dpub-role-fallback",
+      "impact": null,
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures unsupported DPUB roles are only used on elements with implicit fallback roles",
+      "help": "Unsupported DPUB ARIA roles should be used on elements with implicit fallback roles",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-dpub-role-fallback?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "aria-hidden-focus",
+      "impact": null,
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412"
+      ],
+      "description": "Ensures aria-hidden elements do not contain focusable elements",
+      "help": "ARIA hidden element must not contain focusable elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/aria-hidden-focus?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "autocomplete-valid",
+      "impact": null,
+      "tags": [
+        "cat.forms",
+        "wcag21aa",
+        "wcag135"
+      ],
+      "description": "Ensure the autocomplete attribute is correct and suitable for the form field",
+      "help": "autocomplete attribute must be used correctly",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/autocomplete-valid?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "blink",
+      "impact": null,
+      "tags": [
+        "cat.time-and-media",
+        "wcag2a",
+        "wcag222",
+        "section508",
+        "section508.22.j"
+      ],
+      "description": "Ensures <blink> elements are not used",
+      "help": "<blink> elements are deprecated and must not be used",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/blink?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "bypass",
+      "impact": null,
+      "tags": [
+        "cat.keyboard",
+        "wcag2a",
+        "wcag241",
+        "section508",
+        "section508.22.o"
+      ],
+      "description": "Ensures each page has at least one mechanism for a user to bypass navigation and jump straight to the content",
+      "help": "Page must have means to bypass repeated blocks",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/bypass?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "checkboxgroup",
+      "impact": null,
+      "tags": [
+        "cat.forms",
+        "best-practice"
+      ],
+      "description": "Ensures related <input type=\"checkbox\"> elements have a group and that the group designation is consistent",
+      "help": "Checkbox inputs with the same name attribute value must be part of a group",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/checkboxgroup?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "definition-list",
+      "impact": null,
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures <dl> elements are structured correctly",
+      "help": "<dl> elements must only directly contain properly-ordered <dt> and <dd> groups, <script> or <template> elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/definition-list?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "dlitem",
+      "impact": null,
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures <dt> and <dd> elements are contained by a <dl>",
+      "help": "<dt> and <dd> elements must be contained by a <dl>",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/dlitem?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "duplicate-id-active",
+      "impact": null,
+      "tags": [
+        "cat.parsing",
+        "wcag2a",
+        "wcag411"
+      ],
+      "description": "Ensures every id attribute value of active elements is unique",
+      "help": "IDs of active elements must be unique",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/duplicate-id-active?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "duplicate-id-aria",
+      "impact": null,
+      "tags": [
+        "cat.parsing",
+        "wcag2a",
+        "wcag411"
+      ],
+      "description": "Ensures every id attribute value used in ARIA and in labels is unique",
+      "help": "IDs used in ARIA and labels must be unique",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/duplicate-id-aria?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "empty-heading",
+      "impact": null,
+      "tags": [
+        "cat.name-role-value",
+        "best-practice"
+      ],
+      "description": "Ensures headings have discernible text",
+      "help": "Headings must not be empty",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/empty-heading?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "heading-order",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the order of headings is semantically correct",
+      "help": "Heading levels should only increase by one",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/heading-order?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "html-xml-lang-mismatch",
+      "impact": null,
+      "tags": [
+        "cat.language",
+        "wcag2a",
+        "wcag311"
+      ],
+      "description": "Ensure that HTML elements with both valid lang and xml:lang attributes agree on the base language of the page",
+      "help": "HTML elements with lang and xml:lang must have the same base language",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/html-xml-lang-mismatch?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "input-image-alt",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a"
+      ],
+      "description": "Ensures <input type=\"image\"> elements have alternate text",
+      "help": "Image buttons must have alternate text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/input-image-alt?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "landmark-banner-is-top-level",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the banner landmark is at top level",
+      "help": "Banner landmark must not be contained in another landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/landmark-banner-is-top-level?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "landmark-complementary-is-top-level",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the complementary landmark or aside is at top level",
+      "help": "Aside must not be contained in another landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/landmark-complementary-is-top-level?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "landmark-contentinfo-is-top-level",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the contentinfo landmark is at top level",
+      "help": "Contentinfo landmark must not be contained in another landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/landmark-contentinfo-is-top-level?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "landmark-main-is-top-level",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ],
+      "description": "Ensures the main landmark is at top level",
+      "help": "Main landmark must not be contained in another landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/landmark-main-is-top-level?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "layout-table",
+      "impact": null,
+      "tags": [
+        "cat.semantics",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures presentational <table> elements do not use <th>, <caption> elements or the summary attribute",
+      "help": "Layout tables must not use data table elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/layout-table?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "link-name",
+      "impact": null,
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "wcag244",
+        "section508",
+        "section508.22.a"
+      ],
+      "description": "Ensures links have discernible text",
+      "help": "Links must have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/link-name?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "list",
+      "impact": null,
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures that lists are structured correctly",
+      "help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/list?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "listitem",
+      "impact": null,
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131"
+      ],
+      "description": "Ensures <li> elements are used semantically",
+      "help": "<li> elements must be contained in a <ul> or <ol>",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/listitem?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "marquee",
+      "impact": null,
+      "tags": [
+        "cat.parsing",
+        "wcag2a",
+        "wcag222"
+      ],
+      "description": "Ensures <marquee> elements are not used",
+      "help": "<marquee> elements are deprecated and must not be used",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/marquee?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "meta-refresh",
+      "impact": null,
+      "tags": [
+        "cat.time",
+        "wcag2a",
+        "wcag2aaa",
+        "wcag221",
+        "wcag224",
+        "wcag325"
+      ],
+      "description": "Ensures <meta http-equiv=\"refresh\"> is not used",
+      "help": "Timed refresh must not exist",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/meta-refresh?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "object-alt",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a"
+      ],
+      "description": "Ensures <object> elements have alternate text",
+      "help": "<object> elements must have alternate text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/object-alt?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "radiogroup",
+      "impact": null,
+      "tags": [
+        "cat.forms",
+        "best-practice"
+      ],
+      "description": "Ensures related <input type=\"radio\"> elements have a group and that the group designation is consistent",
+      "help": "Radio inputs with the same name attribute value must be part of a group",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/radiogroup?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "scope-attr-valid",
+      "impact": null,
+      "tags": [
+        "cat.tables",
+        "best-practice"
+      ],
+      "description": "Ensures the scope attribute is used correctly on tables",
+      "help": "scope attribute should be used correctly",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/scope-attr-valid?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "server-side-image-map",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag211",
+        "section508",
+        "section508.22.f"
+      ],
+      "description": "Ensures that server-side image maps are not used",
+      "help": "Server-side image maps must not be used",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/server-side-image-map?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "skip-link",
+      "impact": null,
+      "tags": [
+        "cat.keyboard",
+        "best-practice"
+      ],
+      "description": "Ensure all skip links have a focusable target",
+      "help": "The skip-link target should exist and be focusable",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/skip-link?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "table-duplicate-name",
+      "impact": null,
+      "tags": [
+        "cat.tables",
+        "best-practice"
+      ],
+      "description": "Ensure that tables do not have the same summary and caption",
+      "help": "The <caption> element should not contain the same text as the summary attribute",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/table-duplicate-name?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "td-headers-attr",
+      "impact": null,
+      "tags": [
+        "cat.tables",
+        "wcag2a",
+        "wcag131",
+        "section508",
+        "section508.22.g"
+      ],
+      "description": "Ensure that each cell in a table using the headers refers to another cell in that table",
+      "help": "All cells in a table element that use the headers attribute must only refer to other cells of that same table",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/td-headers-attr?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "th-has-data-cells",
+      "impact": null,
+      "tags": [
+        "cat.tables",
+        "wcag2a",
+        "wcag131",
+        "section508",
+        "section508.22.g"
+      ],
+      "description": "Ensure that each table header in a data table refers to data cells",
+      "help": "All th elements and elements with role=columnheader/rowheader must have data cells they describe",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/th-has-data-cells?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "valid-lang",
+      "impact": null,
+      "tags": [
+        "cat.language",
+        "wcag2aa",
+        "wcag312"
+      ],
+      "description": "Ensures lang attributes have valid values",
+      "help": "lang attribute must have a valid value",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/valid-lang?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "video-caption",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag122",
+        "section508",
+        "section508.22.a"
+      ],
+      "description": "Ensures <video> elements have captions",
+      "help": "<video> elements must have captions",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/video-caption?application=axe-puppeteer",
+      "nodes": []
+    },
+    {
+      "id": "video-description",
+      "impact": null,
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2aa",
+        "wcag125",
+        "section508",
+        "section508.22.b"
+      ],
+      "description": "Ensures <video> elements have audio descriptions",
+      "help": "<video> elements must have an audio description track",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/3.2/video-description?application=axe-puppeteer",
+      "nodes": []
+    }
+  ]
+}
