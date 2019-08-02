@@ -1,0 +1,237 @@
+{
+  "url": "https://novotel.accorhotels.com/fr/france/index.shtml",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 121,
+      "firstColumn": 1,
+      "message": "Almost standards mode doctype. Expected “<!DOCTYPE html>”.",
+      "extract": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html",
+      "hiliteStart": 0,
+      "hiliteLength": 121
+    },
+    {
+      "type": "error",
+      "lastLine": 22,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 25,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 28,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 31,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 34,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 37,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 40,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 43,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 46,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 49,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 52,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 55,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 58,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 61,
+      "lastColumn": 22,
+      "firstColumn": 5,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "/div>\n\t\t\t\t<br clear=\"all\" />\n\t\t\t\t<",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "error",
+      "lastLine": 103,
+      "lastColumn": 9,
+      "firstColumn": 5,
+      "message": "Element “dl” is missing a required instance of child element “dd”.",
+      "extract": "</dt>\n\t\t\t\t</dl>\n\t\t\t</",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 110,
+      "lastColumn": 9,
+      "firstColumn": 5,
+      "message": "Element “dl” is missing a required instance of child element “dd”.",
+      "extract": "</dt>\n\t\t\t\t</dl>\n\t\t\t</",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 126,
+      "lastColumn": 9,
+      "firstColumn": 5,
+      "message": "Element “dl” is missing a required instance of child element “dd”.",
+      "extract": "</dt>\n\t\t\t\t</dl>\n\t\t\t</",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 153,
+      "lastColumn": 9,
+      "firstColumn": 5,
+      "message": "Element “dl” is missing a required instance of child element “dd”.",
+      "extract": "</dt>\n\t\t\t\t</dl>\n\t\t\t</",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 164,
+      "lastColumn": 9,
+      "firstColumn": 5,
+      "message": "Element “dl” is missing a required instance of child element “dd”.",
+      "extract": "</dt>\n\t\t\t\t</dl>\n\t\t\t</",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 174,
+      "lastColumn": 9,
+      "firstColumn": 5,
+      "message": "Element “dl” is missing a required instance of child element “dd”.",
+      "extract": "</dt>\n\t\t\t\t</dl>\n\t\t\t</",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "error",
+      "lastLine": 181,
+      "lastColumn": 19,
+      "firstColumn": 2,
+      "message": "The “clear” attribute on the “br” element is obsolete. Use CSS instead.",
+      "extract": "\n\t</div>\n\t<br clear=\"all\" />\n</div",
+      "hiliteStart": 10,
+      "hiliteLength": 18
+    },
+    {
+      "type": "info",
+      "lastLine": 2,
+      "firstLine": 1,
+      "lastColumn": 43,
+      "firstColumn": 122,
+      "subType": "warning",
+      "message": "Consider adding a “lang” attribute to the “html” start tag to declare the language of this document.",
+      "extract": "onal.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head",
+      "hiliteStart": 10,
+      "hiliteLength": 44
+    }
+  ]
+}
