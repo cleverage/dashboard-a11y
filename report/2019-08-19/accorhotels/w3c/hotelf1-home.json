@@ -1,0 +1,198 @@
+{
+  "url": "https://hotelf1.accorhotels.com/home/index.fr.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 637,
+      "firstColumn": 565,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "dfp.css\"/><script type=\"text/javascript\" src=\"/scripts-v1904/oneagent/oneagent.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 73
+    },
+    {
+      "type": "info",
+      "lastLine": 16,
+      "lastColumn": 3053,
+      "firstColumn": 2932,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 16,
+      "lastColumn": 3623,
+      "firstColumn": 3429,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 16,
+      "lastColumn": 11504,
+      "firstColumn": 11405,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"></span> <img data-src=\"/components/link-navigation/assets/images/pushs/early-trip/early-trip-fr.jpg\" alt=\"\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 100
+    },
+    {
+      "type": "info",
+      "lastLine": 18,
+      "lastColumn": 108,
+      "firstColumn": 15,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "</div> --><section class=\"section section--full-page section--with-background section--book-your-hotel\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 94
+    },
+    {
+      "type": "info",
+      "lastLine": 18,
+      "lastColumn": 7116,
+      "firstColumn": 7053,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "</section><section class=\"section banner banner--left\" data-role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 64
+    },
+    {
+      "type": "error",
+      "lastLine": 24,
+      "lastColumn": 16985,
+      "firstColumn": 16865,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "facebook\"><a target=\"_blank\" alt=\"Accéder à la page facebook\" class=\"button button--icon\" href=\"https://www.facebook.com/HotelF1/\"><i cla",
+      "hiliteStart": 10,
+      "hiliteLength": 121
+    },
+    {
+      "type": "error",
+      "lastLine": 24,
+      "lastColumn": 17202,
+      "firstColumn": 17074,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "nstagram\"><a target=\"_blank\" alt=\"Accéder à la page instagram\" class=\"button button--icon\" href=\"https://www.instagram.com/hotelf1_france\"><i cla",
+      "hiliteStart": 10,
+      "hiliteLength": 129
+    },
+    {
+      "type": "error",
+      "lastLine": 24,
+      "lastColumn": 17420,
+      "firstColumn": 17290,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": " youtube\"><a target=\"_blank\" alt=\"Accéder à la page youtube\" class=\"button button--icon\" href=\"https://www.youtube.com/user/superfluhotelF1\"><i cla",
+      "hiliteStart": 10,
+      "hiliteLength": 131
+    },
+    {
+      "type": "error",
+      "lastLine": 24,
+      "lastColumn": 17802,
+      "firstColumn": 17648,
+      "message": "Bad value “https://www.accorhotels.com/mailing_list.svlt?action=CREATEACCOUNT&site=HOF|PMO&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "g> !</div><a href=\"https://www.accorhotels.com/mailing_list.svlt?action&#x3D;CREATEACCOUNT&amp;site&#x3D;HOF|PMO&amp;origine&#x3D;WEB\" class=\"button button--filled\">Je m&#",
+      "hiliteStart": 10,
+      "hiliteLength": 155
+    },
+    {
+      "type": "info",
+      "lastLine": 24,
+      "lastColumn": 19806,
+      "firstColumn": 19728,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ENGINE --><script type=\"text/javascript\" src=\"/scripts-v1904/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 24,
+      "lastColumn": 19890,
+      "firstColumn": 19816,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1904/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 24,
+      "lastColumn": 19973,
+      "firstColumn": 19900,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1904/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 24,
+      "lastColumn": 20048,
+      "firstColumn": 19983,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1904/set/popins.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 24,
+      "lastColumn": 20145,
+      "firstColumn": 20058,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1904/lib/jplugins/jquery.cookie-2.1.2.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 88
+    },
+    {
+      "type": "info",
+      "lastLine": 24,
+      "lastColumn": 20233,
+      "firstColumn": 20155,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1904/lib/jplugins/jquery.dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 24,
+      "lastColumn": 20298,
+      "firstColumn": 20243,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/common/dfp/dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 16,
+      "lastColumn": 3240,
+      "firstColumn": 3111,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 130
+    }
+  ],
+  "language": "fr"
+}
