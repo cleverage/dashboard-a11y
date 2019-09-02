@@ -1,0 +1,296 @@
+{
+  "url": "https://www.swissotel.com/web-accessibility/",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 9,
+      "lastColumn": 129,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "Consider avoiding viewport values that prevent users from resizing documents.",
+      "extract": "e\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1 initial-scale=1.0, maximum-scale=1.0, user-scalable=no\" />\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 125
+    },
+    {
+      "type": "info",
+      "lastLine": 100,
+      "lastColumn": 119,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "The “border” attribute is obsolete. Consider specifying “img { border: 0; }” in CSS instead.",
+      "extract": ">\n        <img src=\"https://frhi.112.2o7.net/b/ss/frhiswissotel/1/H.23.2--NS/0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" />\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "error",
+      "lastLine": 149,
+      "lastColumn": 35,
+      "firstColumn": 13,
+      "message": "Element “style” not allowed as child of element “noscript” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "          <style type=\"text/css\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 23
+    },
+    {
+      "type": "info",
+      "lastLine": 149,
+      "lastColumn": 35,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": " The “type” attribute for the “style” element is not needed and should be omitted.",
+      "extract": "          <style type=\"text/css\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 23
+    },
+    {
+      "type": "error",
+      "lastLine": 156,
+      "lastColumn": 18,
+      "firstColumn": 9,
+      "message": "The “noframes” element is obsolete. Use the “iframe” element and CSS instead, or use server-side includes.",
+      "extract": ">\n        <noframes>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 10
+    },
+    {
+      "type": "info",
+      "lastLine": 194,
+      "lastColumn": 90,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "Possible misuse of “aria-label”. (If you disagree with this warning, file an issue report or send e-mail to www-validator@w3.org.)",
+      "extract": "\n\n        <div class=\"banner-modal-wrapper\" aria-label=\"Learn more about web accessibility\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "error",
+      "lastLine": 288,
+      "lastColumn": 130,
+      "message": "Duplicate attribute “href”.",
+      "extract": "\" href=\"#\" href=\"javascript:__",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 341,
+      "lastColumn": 175,
+      "firstColumn": 49,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img id=\"ctl00_BrandTopNavigation_imgLoginLogo\" class=\"img-responsive\" alt=\"Le Club AccorHotels\" title=\"Le Club AccorHotels\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 127
+    },
+    {
+      "type": "info",
+      "lastLine": 386,
+      "lastColumn": 94,
+      "firstColumn": 21,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "          <nav class=\"navigation\" aria-label=\"Primary navigation\" role=\"navigation\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "error",
+      "lastLine": 436,
+      "lastColumn": 206,
+      "firstColumn": 37,
+      "message": "Bad value “tel:1 506 388 6948 ” for attribute “href” on element “a”: Illegal character in scheme data: space is not allowed.",
+      "extract": "          <a href=\"tel:1 506 388 6948 \" id=\"ctl00_BrandTopNavigation_hypTelephoneNumber\" class=\"customerCare geoTargettingPhoneNumber\" title=\"Tel. : +1 506 388 6948 (Toll Number)\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 170
+    },
+    {
+      "type": "info",
+      "lastLine": 487,
+      "lastColumn": 51,
+      "firstColumn": 29,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "          <nav role=\"navigation\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 23
+    },
+    {
+      "type": "error",
+      "lastLine": 793,
+      "lastColumn": 129,
+      "firstColumn": 41,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "          <div id=\"ctl00_BrandTopNavigation_urProfileWidget_divMyProfileIcon\" class=\"rightProfile\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 816,
+      "lastColumn": 59,
+      "firstColumn": 41,
+      "message": "Element “div” not allowed as child of element “button” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "          <div class=\"clear\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 19
+    },
+    {
+      "type": "error",
+      "lastLine": 837,
+      "lastColumn": 227,
+      "firstColumn": 49,
+      "message": "Duplicate ID “ctl00_FPCLogin1_btnAccorLogin”.",
+      "extract": "          <button id=\"ctl00_FPCLogin1_btnAccorLogin\" class=\"logInToProfile fpcLogIn btn accLogin javascriptvoidfix detector\" onclick=\"SetTrackingForFirstAuthentificationFlayout('Log in');\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 179
+    },
+    {
+      "type": "info",
+      "lastLine": 327,
+      "lastColumn": 150,
+      "firstColumn": 41,
+      "subType": "warning",
+      "message": "The first occurrence of ID “ctl00_FPCLogin1_btnAccorLogin” was here.",
+      "extract": "          <a id=\"ctl00_FPCLogin1_btnAccorLogin\" class=\"logInToProfile fpcLogIn btn accLogin javascriptvoidfix\" href=\"#\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 841,
+      "lastColumn": 320,
+      "firstColumn": 49,
+      "message": "Attribute “text” not allowed on element “button” at this point.",
+      "extract": "          <button id=\"ctl00_BrandTopNavigation_urProfileWidget_ctl00_FPCLogin1_btnBecomeMember\" class=\"logInToProfile fpcLogIn btn gold hypEnroll javascriptvoidfix detector\" onclick=\"SetTrackingForFirstAuthentificationFlayout(&#39;Create an account&#39;);\" Text=\"Create an account\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 272
+    },
+    {
+      "type": "info",
+      "lastLine": 888,
+      "lastColumn": 43,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "          <main id=\"content\" role=\"main\">\n\n    ",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "info",
+      "lastLine": 894,
+      "lastColumn": 71,
+      "firstColumn": 25,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "          <nav role=\"navigation\" aria-label=\"Breadcrumb\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 47
+    },
+    {
+      "type": "info",
+      "lastLine": 892,
+      "lastColumn": 49,
+      "firstColumn": 21,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "          <section class=\"wrapper__kv\">\n\n    ",
+      "hiliteStart": 10,
+      "hiliteLength": 29
+    },
+    {
+      "type": "info",
+      "lastLine": 1224,
+      "lastColumn": 39,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "The “contentinfo” role is unnecessary for element “footer”.",
+      "extract": "          <footer role=\"contentinfo\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 27
+    },
+    {
+      "type": "error",
+      "lastLine": 1465,
+      "lastColumn": 187,
+      "firstColumn": 41,
+      "message": "Bad value “tel:1 506 388 6948 ” for attribute “href” on element “a”: Illegal character in scheme data: space is not allowed.",
+      "extract": "          <a href=\"tel:1 506 388 6948 \" id=\"ctl00_ucFooter_hypTelephoneNumber\" class=\"geoTargettingPhoneNumber\" title=\"Tel. : +1 506 388 6948 (Toll Number)\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 147
+    },
+    {
+      "type": "error",
+      "lastLine": 1723,
+      "lastColumn": 45,
+      "firstColumn": 9,
+      "message": "Duplicate ID “myModal”.",
+      "extract": "\n\n        <div id=\"myModal\" class=\"loginModal\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 37
+    },
+    {
+      "type": "info",
+      "lastLine": 863,
+      "lastColumn": 93,
+      "firstColumn": 41,
+      "subType": "warning",
+      "message": "The first occurrence of ID “myModal” was here.",
+      "extract": "          <div class=\"newsletterModal fade-scale\" id=\"myModal\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "error",
+      "lastLine": 503,
+      "lastColumn": 137,
+      "firstColumn": 53,
+      "message": "The “aria-labelledby” attribute must point to an element in the same document.",
+      "extract": "          <div class=\"tab-pane active\" id=\"europe\" role=\"tabpanel\" aria-labelledby=\"tabeurope\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 559,
+      "lastColumn": 141,
+      "firstColumn": 53,
+      "message": "The “aria-labelledby” attribute must point to an element in the same document.",
+      "extract": "          <div class=\"tab-pane \" id=\"asiapacific\" role=\"tabpanel\" aria-labelledby=\"tabasiapacific\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 616,
+      "lastColumn": 157,
+      "firstColumn": 53,
+      "message": "The “aria-labelledby” attribute must point to an element in the same document.",
+      "extract": "          <div class=\"tab-pane \" id=\"middleeastandafrica\" role=\"tabpanel\" aria-labelledby=\"tabmiddleeastandafrica\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "error",
+      "lastLine": 642,
+      "lastColumn": 143,
+      "firstColumn": 53,
+      "message": "The “aria-labelledby” attribute must point to an element in the same document.",
+      "extract": "          <div class=\"tab-pane \" id=\"northamerica\" role=\"tabpanel\" aria-labelledby=\"tabnorthamerica\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 653,
+      "lastColumn": 143,
+      "firstColumn": 53,
+      "message": "The “aria-labelledby” attribute must point to an element in the same document.",
+      "extract": "          <div class=\"tab-pane \" id=\"southamerica\" role=\"tabpanel\" aria-labelledby=\"tabsouthamerica\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    }
+  ]
+}
