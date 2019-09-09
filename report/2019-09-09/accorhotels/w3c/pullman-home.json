@@ -1,0 +1,369 @@
+{
+  "url": "https://pullman.accorhotels.com/fr/france/index.shtml",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 16,
+      "lastColumn": 52,
+      "firstColumn": 2,
+      "message": "Using the “meta” element to specify the document-wide default language is obsolete. Consider specifying the language on the root element instead.",
+      "extract": "TF-8\" />\n\t<meta http-equiv=\"Content-Language\" content=\"fr\" />\n\n\t<!-",
+      "hiliteStart": 10,
+      "hiliteLength": 51
+    },
+    {
+      "type": "error",
+      "lastLine": 36,
+      "lastColumn": 107,
+      "firstColumn": 2,
+      "message": "Bad value “ pt-br” for attribute “hreflang” on element “link”: The language subtag “ pt” is not a valid language subtag.",
+      "extract": "=\"en\" />\n\t<link rel=\"alternate\" href=\"https://pullman.accorhotels.com/pt-br/brasil/index.shtml\" hreflang=\" pt-br\" />\n\t<lin",
+      "hiliteStart": 10,
+      "hiliteLength": 106
+    },
+    {
+      "type": "info",
+      "lastLine": 50,
+      "lastColumn": 74,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ico\" />\n\t\n<script type=\"text/javascript\" src=\"/scripts-v19041/oneagent/oneagent.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 58,
+      "lastColumn": 450,
+      "firstColumn": 329,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 58,
+      "lastColumn": 1020,
+      "firstColumn": 826,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "info",
+      "lastLine": 69,
+      "lastColumn": 41,
+      "firstColumn": 2,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "></div>\n\n\t<main role=\"main\" class=\"mainContainer\">\n\t\t<di",
+      "hiliteStart": 10,
+      "hiliteLength": 40
+    },
+    {
+      "type": "error",
+      "lastLine": 77,
+      "lastColumn": 121,
+      "firstColumn": 2,
+      "message": "Attribute “href” not allowed on element “button” at this point.",
+      "extract": "</div>\n\n\n\t<button href=\"#all-destination\" class=\"all-destination-link\" aria-controls=\"destination-selector\" aria-expanded=\"false\">Choisi",
+      "hiliteStart": 10,
+      "hiliteLength": 120
+    },
+    {
+      "type": "info",
+      "lastLine": 205,
+      "lastColumn": 44,
+      "firstColumn": 2,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "=\"true\">\n\t<nav role=\"navigation\" aria-label=\"Region\">\n  <ul",
+      "hiliteStart": 10,
+      "hiliteLength": 43
+    },
+    {
+      "type": "error",
+      "lastLine": 464,
+      "lastColumn": 6,
+      "firstColumn": 1,
+      "message": "End tag “div” seen, but there were open elements.",
+      "extract": "i>\n\t</ul>\n</div>\n\t\t\t<!",
+      "hiliteStart": 10,
+      "hiliteLength": 6
+    },
+    {
+      "type": "error",
+      "lastLine": 205,
+      "lastColumn": 44,
+      "firstColumn": 2,
+      "message": "Unclosed element “nav”.",
+      "extract": "=\"true\">\n\t<nav role=\"navigation\" aria-label=\"Region\">\n  <ul",
+      "hiliteStart": 10,
+      "hiliteLength": 43
+    },
+    {
+      "type": "error",
+      "lastLine": 593,
+      "lastColumn": 140,
+      "firstColumn": 22,
+      "message": "Bad value “https://secure.accorhotels.com/fr/newsletter/getEmail.jshtml?site=PUL|PMO&action=CREATEACCOUNT&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "ss=\"link\"><a href=\"https://secure.accorhotels.com/fr/newsletter/getEmail.jshtml?site=PUL|PMO&action=CREATEACCOUNT&origine=WEB\">S'abonne",
+      "hiliteStart": 10,
+      "hiliteLength": 119
+    },
+    {
+      "type": "info",
+      "lastLine": 601,
+      "lastColumn": 41,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “contentinfo” role is unnecessary for element “footer”.",
+      "extract": "ter -->\n\t\t<footer id=\"footer\" role=\"contentinfo\">\n\t<div",
+      "hiliteStart": 10,
+      "hiliteLength": 39
+    },
+    {
+      "type": "error",
+      "lastLine": 624,
+      "lastColumn": 127,
+      "firstColumn": 9,
+      "message": "Bad value “https://secure.accorhotels.com/fr/newsletter/getEmail.jshtml?site=PUL|PMO&action=CREATEACCOUNT&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": ">\n\t\t\t\t<li><a href=\"https://secure.accorhotels.com/fr/newsletter/getEmail.jshtml?site=PUL|PMO&action=CREATEACCOUNT&origine=WEB\">Newslett",
+      "hiliteStart": 10,
+      "hiliteLength": 119
+    },
+    {
+      "type": "error",
+      "lastLine": 642,
+      "lastColumn": 63,
+      "message": "No space between attributes.",
+      "extract": ".com/index.jsp\"\" target=\"_blan",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 642,
+      "lastColumn": 63,
+      "message": "Saw “\"” when expecting an attribute name. Probable cause: “=” missing immediately before.",
+      "extract": ".com/index.jsp\"\" target=\"_blan",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "info",
+      "lastLine": 642,
+      "lastColumn": 80,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "Attribute “\"” is not serializable as XML 1.0.",
+      "extract": ">\n\t\t\t\t<li><a href=\"https://travelpros.accorhotels.com/index.jsp\"\" target=\"_blank\">Agents",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 642,
+      "lastColumn": 80,
+      "firstColumn": 9,
+      "message": "Attribute “\"” not allowed on element “a” at this point.",
+      "extract": ">\n\t\t\t\t<li><a href=\"https://travelpros.accorhotels.com/index.jsp\"\" target=\"_blank\">Agents",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 643,
+      "lastColumn": 63,
+      "message": "No space between attributes.",
+      "extract": ".com/index.jsp\"\" target=\"_blan",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 643,
+      "lastColumn": 63,
+      "message": "Saw “\"” when expecting an attribute name. Probable cause: “=” missing immediately before.",
+      "extract": ".com/index.jsp\"\" target=\"_blan",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "info",
+      "lastLine": 643,
+      "lastColumn": 80,
+      "firstColumn": 9,
+      "subType": "warning",
+      "message": "Attribute “\"” is not serializable as XML 1.0.",
+      "extract": ">\n\t\t\t\t<li><a href=\"https://travelpros.accorhotels.com/index.jsp\"\" target=\"_blank\">Profes",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 643,
+      "lastColumn": 80,
+      "firstColumn": 9,
+      "message": "Attribute “\"” not allowed on element “a” at this point.",
+      "extract": ">\n\t\t\t\t<li><a href=\"https://travelpros.accorhotels.com/index.jsp\"\" target=\"_blank\">Profes",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "error",
+      "lastLine": 682,
+      "lastColumn": 28,
+      "firstColumn": 3,
+      "message": "Element “span” not allowed as child of element “ul” in this context. (Suppressing further errors from this subtree.)",
+      "extract": "a></li>\n\t\t<span class=\"tripadvisor\">\n\t\t\t\t\t",
+      "hiliteStart": 10,
+      "hiliteLength": 26
+    },
+    {
+      "type": "error",
+      "lastLine": 693,
+      "lastColumn": 58,
+      "firstColumn": 3,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "_icon\">\n\t\t<img src=\"/assets/images/commun/fevad-sans-texte.png\" />\n\t\t<sp",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "info",
+      "lastLine": 707,
+      "lastColumn": 82,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ION -->\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 708,
+      "lastColumn": 78,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 76
+    },
+    {
+      "type": "info",
+      "lastLine": 709,
+      "lastColumn": 70,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/set/home_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "info",
+      "lastLine": 710,
+      "lastColumn": 82,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/lib/jplugins/jquery.dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 711,
+      "lastColumn": 58,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/common/dfp/dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "info",
+      "lastLine": 712,
+      "lastColumn": 77,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 713,
+      "lastColumn": 69,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/set/popins.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 67
+    },
+    {
+      "type": "info",
+      "lastLine": 714,
+      "lastColumn": 91,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/lib/jplugins/jquery.cookie-2.1.2.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 715,
+      "lastColumn": 65,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/footer.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 63
+    },
+    {
+      "type": "info",
+      "lastLine": 716,
+      "lastColumn": 63,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n\t\t<script type=\"text/javascript\" src=\"/scripts-v19041/main.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 61
+    },
+    {
+      "type": "error",
+      "lastLine": 82,
+      "lastColumn": 42,
+      "firstColumn": 7,
+      "message": "The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.",
+      "extract": "n\">\n\t\t\t<p><label for=\"search-destination-boo\">Pays /",
+      "hiliteStart": 10,
+      "hiliteLength": 36
+    },
+    {
+      "type": "error",
+      "lastLine": 58,
+      "lastColumn": 637,
+      "firstColumn": 508,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 130
+    }
+  ]
+}
