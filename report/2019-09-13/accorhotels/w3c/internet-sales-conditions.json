@@ -1,0 +1,845 @@
+{
+  "url": "https://www.accorhotels.com/booking/internet-sales-conditions.fr.shtml",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 121,
+      "firstColumn": 1,
+      "message": "Almost standards mode doctype. Expected “<!DOCTYPE html>”.",
+      "extract": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"> <html",
+      "hiliteStart": 0,
+      "hiliteLength": 121
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1070,
+      "firstColumn": 964,
+      "subType": "warning",
+      "message": "Consider avoiding viewport values that prevent users from resizing documents.",
+      "extract": "utf-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\"> <meta",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1197,
+      "firstColumn": 1118,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "t=\"fr\" /> <script type=\"text/javascript\" src=\"/scripts-v19041/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1279,
+      "firstColumn": 1208,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/booking/scripts-v19041/booking.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1372,
+      "firstColumn": 1290,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v19041/lib/lazysizes.min.js\" async=\"\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 2216,
+      "firstColumn": 2143,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/scripts-v19041/oneagent/oneagent.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 2965,
+      "firstColumn": 2844,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 3535,
+      "firstColumn": 3341,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 5564,
+      "firstColumn": 5373,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/raffles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/raffles-logo.png 2x\" alt=\"Raffles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 5896,
+      "firstColumn": 5693,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/banyan-tree-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/banyan-tree-logo.png 2x\" alt=\"Banyan Tree\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 6266,
+      "firstColumn": 6054,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-legend-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-legend-logo.png 2x\" alt=\"Sofitel Legend\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 6592,
+      "firstColumn": 6398,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/fairmont-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/fairmont-logo.png 2x\" alt=\"Fairmont\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 6935,
+      "firstColumn": 6742,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/so-sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/so-sofitel-logo.png 2x\" alt=\"So/\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 194
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 7270,
+      "firstColumn": 7079,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/sofitel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/sofitel-logo.png 2x\" alt=\"Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 7604,
+      "firstColumn": 7401,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/onefinestay-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/onefinestay-logo.png 2x\" alt=\"Onefinestay\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 7943,
+      "firstColumn": 7737,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/rixos-hotels-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/rixos-hotels-logo.png 2x\" alt=\"Rixos Hotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 207
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 8252,
+      "firstColumn": 8064,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mantis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mantis-logo.png 2x\" alt=\"Mantis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 8584,
+      "firstColumn": 8379,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mgallery-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mgallery-logo.png 2x\" alt=\"Mgallery By Sofitel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 8878,
+      "firstColumn": 8687,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/pullman-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/pullman-logo.png 2x\" alt=\"Pullman\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9209,
+      "firstColumn": 9012,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/swissotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/swissotel-logo.png 2x\" alt=\"Swissôtel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9523,
+      "firstColumn": 9332,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/angsana-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/angsana-logo.png 2x\" alt=\"Angsana\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9856,
+      "firstColumn": 9649,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/twenty-five-hours-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/twenty-five-hours-logo.png 2x\" alt=\"25h\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 208
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 10180,
+      "firstColumn": 9983,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/movenpick-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/movenpick-logo.png 2x\" alt=\"Mövenpick\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 10530,
+      "firstColumn": 10321,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/grand-mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/grand-mercure-logo.png 2x\" alt=\"Grand Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 10846,
+      "firstColumn": 10658,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/huazhu-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/huazhu-logo.png 2x\" alt=\"Huazhu\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 11173,
+      "firstColumn": 10976,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/the-sebel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/the-sebel-logo.png 2x\" alt=\"The Sebel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 198
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 11528,
+      "firstColumn": 11316,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-premium-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-premium-logo.png 2x\" alt=\"Adagio Premium\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 213
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 11844,
+      "firstColumn": 11653,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/novotel-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/novotel-logo.png 2x\" alt=\"Novotel\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 12160,
+      "firstColumn": 11969,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mercure-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mercure-logo.png 2x\" alt=\"Mercure\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 12476,
+      "firstColumn": 12288,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-logo.png 2x\" alt=\"Adagio\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 189
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 12817,
+      "firstColumn": 12614,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/mamashelter-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/mamashelter-logo.png 2x\" alt=\"Mamashelter\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13121,
+      "firstColumn": 12936,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/tribe-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/tribe-logo.png 2x\" alt=\"TRIBE\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 186
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13422,
+      "firstColumn": 13240,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-logo.png 2x\" alt=\"Ibis\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 183
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13751,
+      "firstColumn": 13548,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-styles-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-styles-logo.png 2x\" alt=\"Ibis Styles\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 14080,
+      "firstColumn": 13877,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/ibis-budget-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/ibis-budget-logo.png 2x\" alt=\"Ibis Budget\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 204
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 14430,
+      "firstColumn": 14221,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/adagio-access-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/adagio-access-logo.png 2x\" alt=\"Adagio Access\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 210
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 14770,
+      "firstColumn": 14565,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/joe-and-joe-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/joe-and-joe-logo.png 2x\" alt=\"Joe &amp; Joe\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 206
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 15074,
+      "firstColumn": 14889,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/greet-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/greet-logo.png 2x\" alt=\"greet\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 186
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 15389,
+      "firstColumn": 15197,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/hotelf1-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/hotelf1-logo.png 2x\" alt=\"Hotel F1\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 193
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 15720,
+      "firstColumn": 15526,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/brands-logo/thalassa-logo.png\" data-srcset=\"/components/link-navigation/assets/images/brands-logo/2x/thalassa-logo.png 2x\" alt=\"Thalassa\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 26128,
+      "firstColumn": 25982,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/members-rate/members-rate-240x200-fr.jpg\" alt=\"Tarif membres - Le club AccorHotels\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 147
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 30200,
+      "firstColumn": 29972,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/europcar-offers/europcar-offers-240x200-fr.jpg\" alt=\"Location de voiture - Europcar - Gagnez jusqu’à 1000 points par location et bénéficiez de 10% à 20% de remise !\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 229
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 37949,
+      "firstColumn": 37710,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/meeting-planner/meeting-planner-240x200-fr.jpg\" alt=\"Découvrez Le Club AccorHotels Meeting Planner notre programme de fidélité dédié aux professionnels de l&#x27;événementiel.\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 240
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 41998,
+      "firstColumn": 41869,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/all/all-fr.jpg\" alt=\"Tout l&#x27;univers Accor rien que pour vous\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 130
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 42335,
+      "firstColumn": 42179,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/link-navigation/assets/images/pushs/mighty/mighty-fr.jpg\" alt=\"Volez, séjournez, cumulez des Miles Flying Blue et points Rewards\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 157
+    },
+    {
+      "type": "info",
+      "lastLine": 9,
+      "lastColumn": 80,
+      "firstColumn": 11,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v19041/frieze-brands.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 70
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 356,
+      "firstColumn": 268,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-raffles.png\" alt=\"Raffles\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 583,
+      "firstColumn": 487,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-banyan-tree.png\" alt=\"Banyan Tree\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 803,
+      "firstColumn": 715,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-sofitel-legend.png\" alt=\"\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 1011,
+      "firstColumn": 921,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-fairmont.png\" alt=\"Fairmont\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 1217,
+      "firstColumn": 1139,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-so.png\" alt=\"So\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 1430,
+      "firstColumn": 1342,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-sofitel.png\" alt=\"Sofitel\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 1659,
+      "firstColumn": 1563,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-onefinestay.png\" alt=\"onefinestay\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 1855,
+      "firstColumn": 1771,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-rixos.png\" alt=\"Rixos\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 2050,
+      "firstColumn": 1964,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-mantis.png\" alt=\"Mantis\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 2266,
+      "firstColumn": 2176,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-mgallery.png\" alt=\"MGallery\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 2479,
+      "firstColumn": 2391,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-pullman.png\" alt=\"Pullman\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 2691,
+      "firstColumn": 2599,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-swissotel.png\" alt=\"Swissotel\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 93
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 2932,
+      "firstColumn": 2844,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-angsana.png\" alt=\"Angsana\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 3143,
+      "firstColumn": 3055,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-25hours.png\" alt=\"25hours\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 3342,
+      "firstColumn": 3257,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-movenpick.png\" alt=\"Mövenpick\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 86
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 3568,
+      "firstColumn": 3468,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-grand-mercure.png\" alt=\"Grand Mercure\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 3762,
+      "firstColumn": 3682,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-huazhu.png\" alt=\"\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 81
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 3969,
+      "firstColumn": 3877,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-the-sebel.png\" alt=\"The Sebel\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 93
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 4193,
+      "firstColumn": 4095,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-adagio-pre.png\" alt=\"Adagio Premium\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 99
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 4406,
+      "firstColumn": 4318,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-novotel.png\" alt=\"Novotel\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 4619,
+      "firstColumn": 4531,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-mercure.png\" alt=\"Mercure\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 4824,
+      "firstColumn": 4738,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-adagio.png\" alt=\"Adagio\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 5038,
+      "firstColumn": 4948,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-mama.png\" alt=\"Mama Shelter\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 5282,
+      "firstColumn": 5200,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-ibis.png\" alt=\"Ibis\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 5503,
+      "firstColumn": 5407,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-ibis-styles.png\" alt=\"Ibis Styles\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 5724,
+      "firstColumn": 5628,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-ibis-budget.png\" alt=\"Ibis Budget\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 5936,
+      "firstColumn": 5849,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-adagio-access.png\" alt=\"\"/> </spa",
+      "hiliteStart": 10,
+      "hiliteLength": 88
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 6151,
+      "firstColumn": 6062,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-joandjoe.png\" alt=\"Jo&Joe\"/> </span",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 6365,
+      "firstColumn": 6276,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-hotel-f1.png\" alt=\"HotelF1\"/> </span",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 6578,
+      "firstColumn": 6488,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "> <span> <img class=\"lazyload\" data-src=\"/imagerie/brands/logo-frieze-thalassa.png\" alt=\"Thalassa\"/> </span",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 32286,
+      "firstColumn": 32283,
+      "message": "No “p” element in scope but a “p” end tag seen.",
+      "extract": "ervation.</p> <p>Les",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 41568,
+      "firstColumn": 41565,
+      "message": "No “p” element in scope but a “p” end tag seen.",
+      "extract": "Service. </p> <p cla",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 48773,
+      "firstColumn": 48769,
+      "message": "End tag “br”.",
+      "extract": "lamation.</br> •\tLe f",
+      "hiliteStart": 10,
+      "hiliteLength": 5
+    },
+    {
+      "type": "info",
+      "lastLine": 9,
+      "lastColumn": 53622,
+      "firstColumn": 53555,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "oter --> <script type=\"text/javascript\" src=\"/scripts-v19041/main-legacy.js\"></scr",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 54202,
+      "firstColumn": 53942,
+      "message": "CSS: “border”: Parse Error.",
+      "extract": "erize --><img src=\"https://www.accorhotels.com/fstrz/r/stats-dc1.fzcdn.net/beacon?cust=5862&amp;u=https%3A%2F%2Fwww.accorhotels.com%2Fbooking%2Finternet-sales-conditions.fr.shtml&amp;optimized=true&amp;frz_env=dc1\" width=\"0\" height=\"0\" style=\"display:none;border=none;\"></body>",
+      "hiliteStart": 10,
+      "hiliteLength": 261
+    },
+    {
+      "type": "error",
+      "lastLine": 9,
+      "lastColumn": 54202,
+      "firstColumn": 53942,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "erize --><img src=\"https://www.accorhotels.com/fstrz/r/stats-dc1.fzcdn.net/beacon?cust=5862&amp;u=https%3A%2F%2Fwww.accorhotels.com%2Fbooking%2Finternet-sales-conditions.fr.shtml&amp;optimized=true&amp;frz_env=dc1\" width=\"0\" height=\"0\" style=\"display:none;border=none;\"></body>",
+      "hiliteStart": 10,
+      "hiliteLength": 261
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 3152,
+      "firstColumn": 3023,
+      "message": "The “aria-controls” attribute must point to an element in the same document.",
+      "extract": "pperHead\"><button aria-expanded=\"false\" aria-controls=\"link-navigation-nav\" type=\"button\" class=\"link-navigation__drawer-toggle burgerMenu\"><span ",
+      "hiliteStart": 10,
+      "hiliteLength": 130
+    }
+  ],
+  "language": "fr"
+}

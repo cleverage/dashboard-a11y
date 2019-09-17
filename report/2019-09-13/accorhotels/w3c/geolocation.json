@@ -1,0 +1,80 @@
+{
+  "url": "https://www.accorhotels.com/gb/geoloc/selectdisplayzone.jshtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 426,
+      "firstColumn": 347,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/scripts-v19041/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 529,
+      "firstColumn": 437,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v19041/lib/jplugins/jquery-jtemplates.0.7.8.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 93
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 613,
+      "firstColumn": 540,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v19041/set/geoloc/index.js \"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 708,
+      "firstColumn": 624,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v19041/set/geoloc/selectDisplayZone.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1497,
+      "firstColumn": 1424,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/scripts-v19041/oneagent/oneagent.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 2380,
+      "firstColumn": 2126,
+      "message": "CSS: “border”: Parse Error.",
+      "extract": "terize --><img src=\"https://www.accorhotels.com/fstrz/r/stats-dc1.fzcdn.net/beacon?cust=5862&amp;u=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fgeoloc%2Fselectdisplayzone.jshtml&amp;optimized=true&amp;frz_env=dc1\" width=\"0\" height=\"0\" style=\"display:none;border=none;\"></body",
+      "hiliteStart": 10,
+      "hiliteLength": 255
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 2380,
+      "firstColumn": 2126,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "terize --><img src=\"https://www.accorhotels.com/fstrz/r/stats-dc1.fzcdn.net/beacon?cust=5862&amp;u=https%3A%2F%2Fwww.accorhotels.com%2Fgb%2Fgeoloc%2Fselectdisplayzone.jshtml&amp;optimized=true&amp;frz_env=dc1\" width=\"0\" height=\"0\" style=\"display:none;border=none;\"></body",
+      "hiliteStart": 10,
+      "hiliteLength": 255
+    }
+  ]
+}
