@@ -1,0 +1,351 @@
+{
+  "url": "https://ibis.accorhotels.com/brasil/index.pt-br.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 1574,
+      "firstColumn": 1474,
+      "subType": "warning",
+      "message": "Consider avoiding viewport values that prevent users from resizing documents.",
+      "extract": "E=edge\"/> <meta name=\"viewport\" content=\"width=device-width,minimum-scale=1,maximum-scale=1,user-scalable=no\"/> <meta",
+      "hiliteStart": 10,
+      "hiliteLength": 101
+    },
+    {
+      "type": "info",
+      "lastLine": 8,
+      "lastColumn": 121,
+      "firstColumn": 11,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"https://ibis.accorhotels.com/scripts-v19041/oneagent/oneagent.js?frz-v=61\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "info",
+      "lastLine": 8,
+      "lastColumn": 970,
+      "firstColumn": 849,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 8,
+      "lastColumn": 1540,
+      "firstColumn": 1346,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "_content\"><nav id=\"link-navigation-menu\" aria-labelledby=\"link-navigation-menu\" aria-expanded=\"false\" class=\"link-navigation__nav link-navigation__achnav link-navigation__shadoweddrawer\" role=\"navigation\"><ul cl",
+      "hiliteStart": 10,
+      "hiliteLength": 195
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 5715,
+      "firstColumn": 5580,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"https://ibis.accorhotels.com/components/link-navigation/assets/images/pushs/ibis_bed/ibis-bed-pt-br.jpg?frz-v=61\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 136
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 6051,
+      "firstColumn": 5906,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"https://ibis.accorhotels.com/components/link-navigation/assets/images/pushs/ibis_business/ibis-business-pt-br.jpg?frz-v=61\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 146
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 9079,
+      "firstColumn": 8934,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"https://ibis.accorhotels.com/components/link-navigation/assets/images/pushs/ibis_business/ibis-business-pt-br.jpg?frz-v=61\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 146
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 9405,
+      "firstColumn": 9270,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"https://ibis.accorhotels.com/components/link-navigation/assets/images/pushs/ibis_bed/ibis-bed-pt-br.jpg?frz-v=61\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 136
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 15567,
+      "firstColumn": 15410,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"https://ibis.accorhotels.com/components/link-navigation/assets/images/pushs/meeting-planner/meeting-planner-240x200-pt-br.jpg?frz-v=61\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 158
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 19755,
+      "firstColumn": 19616,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"https://ibis.accorhotels.com/components/link-navigation/assets/images/pushs/new-hotels/new-hotels-pt-br.jpg?frz-v=61\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 140
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 20117,
+      "firstColumn": 19966,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"https://ibis.accorhotels.com/components/link-navigation/assets/images/pushs/elite-experience/elite-experience-pt-br.jpg?frz-v=61\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 152
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 24882,
+      "firstColumn": 24819,
+      "message": "Attribute “readonly” not allowed on element “input” at this point.",
+      "extract": "e-sejour\"><input type=\"hidden\" id=\"datepicker-input-arrivee\" readonly=\"\"/><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 64
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 24882,
+      "firstColumn": 24819,
+      "message": "Attribute “readonly” is only allowed when the input type is “date”, “datetime-local”, “email”, “month”, “number”, “password”, “search”, “tel”, “text”, “time”, “url”, or “week”.",
+      "extract": "e-sejour\"><input type=\"hidden\" id=\"datepicker-input-arrivee\" readonly=\"\"/><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 64
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25410,
+      "firstColumn": 25326,
+      "message": "Attribute “readonly” not allowed on element “input” at this point.",
+      "extract": "\"\"/></div><input type=\"hidden\" value=\"\" id=\"search-dayIn-boo\" name=\"search.dayIn\" readonly=\"\"/> <inpu",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25410,
+      "firstColumn": 25326,
+      "message": "Attribute “readonly” is only allowed when the input type is “date”, “datetime-local”, “email”, “month”, “number”, “password”, “search”, “tel”, “text”, “time”, “url”, or “week”.",
+      "extract": "\"\"/></div><input type=\"hidden\" value=\"\" id=\"search-dayIn-boo\" name=\"search.dayIn\" readonly=\"\"/> <inpu",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25528,
+      "firstColumn": 25412,
+      "message": "Attribute “size” not allowed on element “input” at this point.",
+      "extract": "only=\"\"/> <input type=\"hidden\" size=\"\" disabled=\"disabled\" value=\"\" id=\"search-monthIn-boo\" name=\"search.monthIn\" readonly=\"\"/> <inpu",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25528,
+      "firstColumn": 25412,
+      "message": "Attribute “readonly” not allowed on element “input” at this point.",
+      "extract": "only=\"\"/> <input type=\"hidden\" size=\"\" disabled=\"disabled\" value=\"\" id=\"search-monthIn-boo\" name=\"search.monthIn\" readonly=\"\"/> <inpu",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25528,
+      "firstColumn": 25412,
+      "message": "Attribute “readonly” is only allowed when the input type is “date”, “datetime-local”, “email”, “month”, “number”, “password”, “search”, “tel”, “text”, “time”, “url”, or “week”.",
+      "extract": "only=\"\"/> <input type=\"hidden\" size=\"\" disabled=\"disabled\" value=\"\" id=\"search-monthIn-boo\" name=\"search.monthIn\" readonly=\"\"/> <inpu",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25644,
+      "firstColumn": 25530,
+      "message": "Attribute “size” not allowed on element “input” at this point.",
+      "extract": "only=\"\"/> <input type=\"hidden\" size=\"\" disabled=\"disabled\" value=\"\" id=\"search-yearIn-boo\" name=\"search.yearIn\" readonly=\"\"/></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25644,
+      "firstColumn": 25530,
+      "message": "Attribute “readonly” not allowed on element “input” at this point.",
+      "extract": "only=\"\"/> <input type=\"hidden\" size=\"\" disabled=\"disabled\" value=\"\" id=\"search-yearIn-boo\" name=\"search.yearIn\" readonly=\"\"/></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 25644,
+      "firstColumn": 25530,
+      "message": "Attribute “readonly” is only allowed when the input type is “date”, “datetime-local”, “email”, “month”, “number”, “password”, “search”, “tel”, “text”, “time”, “url”, or “week”.",
+      "extract": "only=\"\"/> <input type=\"hidden\" size=\"\" disabled=\"disabled\" value=\"\" id=\"search-yearIn-boo\" name=\"search.yearIn\" readonly=\"\"/></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 115
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 27325,
+      "firstColumn": 27317,
+      "message": "Element “option” without attribute “label” must not be empty.",
+      "extract": "lue=\"ALL\"></option><optio",
+      "hiliteStart": 10,
+      "hiliteLength": 9
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 27429,
+      "firstColumn": 27421,
+      "message": "Element “option” without attribute “label” must not be empty.",
+      "extract": "alue=\"UP\"></option><optio",
+      "hiliteStart": 10,
+      "hiliteLength": 9
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 27538,
+      "firstColumn": 27530,
+      "message": "Element “option” without attribute “label” must not be empty.",
+      "extract": "alue=\"BU\"></option></sele",
+      "hiliteStart": 10,
+      "hiliteLength": 9
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 28138,
+      "firstColumn": 28083,
+      "message": "Attribute “value” not allowed on element “div” at this point.",
+      "extract": "pan></div><div class=\"number\" value=\"1\" data-min=\"1\" data-max=\"6\">1</div",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 28685,
+      "firstColumn": 28630,
+      "message": "Attribute “value” not allowed on element “div” at this point.",
+      "extract": "pan></div><div class=\"number\" value=\"0\" data-min=\"0\" data-max=\"3\">0</div",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 34712,
+      "firstColumn": 34666,
+      "message": "Bad value “” for attribute “srcset” on element “source”: Must contain one or more image candidate strings.",
+      "extract": "<picture> <source media=\"(max-width: 767px)\" srcset=\"\" /> <sour",
+      "hiliteStart": 10,
+      "hiliteLength": 47
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 34761,
+      "firstColumn": 34714,
+      "message": "Bad value “” for attribute “srcset” on element “source”: Must contain one or more image candidate strings.",
+      "extract": "set=\"\" /> <source media=\"(max-width: 1023px)\" srcset=\"\" /> <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 48
+    },
+    {
+      "type": "info",
+      "lastLine": 8,
+      "lastColumn": 36602,
+      "firstColumn": 36553,
+      "subType": "warning",
+      "message": "The “heading” role is unnecessary for element “h2”.",
+      "extract": "\"></span> <h2 class=\"sr-only\" role=\"heading\" aria-level=\"2\">Conheç",
+      "hiliteStart": 10,
+      "hiliteLength": 50
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 37249,
+      "firstColumn": 37058,
+      "message": "Element “source” is missing required attribute “srcset”.",
+      "extract": "<picture> <source media=\"(min-width: 1024px)\" data-srcset=\"https://ibis.accorhotels.com/middleware/images/1385686754489/1566936465670/accor-banner-ibis-budget-landing-page-texto2-1920x783.jpg?frz-v=61\"> <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 192
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 37392,
+      "firstColumn": 37251,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "rz-v=61\"> <img class=\"lazyload\" data-src=\"https://ibis.accorhotels.com/middleware/images/1385686754489/1566936465670/1385688732987.jpg?frz-v=61\" alt=\"\"> </pic",
+      "hiliteStart": 10,
+      "hiliteLength": 142
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 38507,
+      "firstColumn": 38366,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "h-front\"> <img class=\"lazyload\" data-src=\"https://ibis.accorhotels.com/middleware/images/1385674243661/1547242610388/1385674243788.jpg?frz-v=61\" alt=\"\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 142
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 39098,
+      "firstColumn": 39095,
+      "message": "End tag “a” violates nesting rules.",
+      "extract": "v> </div> </a> </li>",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 8,
+      "lastColumn": 39098,
+      "firstColumn": 39095,
+      "subType": "fatal",
+      "message": "Cannot recover after last error. Any further errors will be ignored.",
+      "extract": "v> </div> </a> </li>",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    }
+  ]
+}
