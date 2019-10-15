@@ -1,0 +1,702 @@
+[
+  {
+    "site": "AccorHotels",
+    "data": [
+      {
+        "name": "Home",
+        "url": "https://www.accorhotels.com/fr/france/index.shtml",
+        "results": {
+          "w3c": 54,
+          "axe": 7
+        }
+      },
+      {
+        "name": "Web accessibility",
+        "url": "https://www.accorhotels.com/web-accessibility/index.fr.shtml",
+        "results": {
+          "w3c": 40,
+          "axe": 11
+        }
+      },
+      {
+        "name": "Legal conditions",
+        "url": "https://www.accorhotels.com/legal-conditions/index.fr.shtml",
+        "results": {
+          "w3c": 71,
+          "axe": 29
+        }
+      },
+      {
+        "name": "Internet sales conditions",
+        "url": "https://www.accorhotels.com/booking/internet-sales-conditions.fr.shtml",
+        "results": {
+          "w3c": 74,
+          "axe": 58
+        }
+      },
+      {
+        "name": "Sustainable development",
+        "url": "https://www.accorhotels.com/fr/sustainable-development/index.shtml",
+        "results": {
+          "w3c": 44,
+          "axe": 40
+        }
+      },
+      {
+        "name": "Hotel",
+        "url": "https://www.accorhotels.com/gb/hotel-0753-novotel-new-york-times-square/index.shtml",
+        "results": {
+          "w3c": 47,
+          "axe": 19
+        }
+      },
+      {
+        "name": "Geolocation",
+        "url": "https://www.accorhotels.com/gb/geoloc/selectdisplayzone.jshtml",
+        "results": {
+          "w3c": 2,
+          "axe": 7
+        }
+      },
+      {
+        "name": "Le club",
+        "url": "https://www.accorhotels.com/leclub/join-loyalty-program/index.en.shtml",
+        "results": {
+          "w3c": 49,
+          "axe": 39
+        }
+      },
+      {
+        "name": "Brand Landing",
+        "url": "https://www.accorhotels.com/gb/brands/index.shtml",
+        "results": {
+          "w3c": 44,
+          "axe": 85
+        }
+      },
+      {
+        "name": "Brand Hotel Ibis",
+        "url": "https://www.accorhotels.com/pt-br/brands/hotels-ibis.shtml",
+        "results": {
+          "w3c": 52,
+          "axe": 53
+        }
+      },
+      {
+        "name": "Brand Hotel Movenpick",
+        "url": "https://www.accorhotels.com/brands/movenpick.en.shtml",
+        "results": {
+          "w3c": 52,
+          "axe": 19
+        }
+      },
+      {
+        "name": "Contact",
+        "url": "https://www.accorhotels.com/gb/support/contact.shtml",
+        "results": {
+          "w3c": 52,
+          "axe": 12
+        }
+      },
+      {
+        "name": "Sitemap",
+        "url": "https://www.accorhotels.com/fr/sitemap/index.shtml",
+        "results": {
+          "w3c": 42,
+          "axe": 187
+        }
+      },
+      {
+        "name": "Offers",
+        "url": "https://www.accorhotels.com/fr/france/promotions-offers/index.shtml",
+        "results": {
+          "w3c": 4,
+          "axe": 22
+        }
+      },
+      {
+        "name": "Offers - city trip",
+        "url": "https://www.accorhotels.com/fr/promotions-offers/week-end-offers/owm000651-offre-speciale-citytrip-europe.shtml",
+        "results": {
+          "w3c": 2,
+          "axe": 43
+        }
+      },
+      {
+        "name": "Register",
+        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/register",
+        "results": {
+          "w3c": 41,
+          "axe": 5
+        }
+      },
+      {
+        "name": "Login",
+        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/login",
+        "results": {
+          "w3c": 41,
+          "axe": 4
+        }
+      },
+      {
+        "name": "HotelF1 - home",
+        "url": "https://hotelf1.accorhotels.com/home/index.fr.shtml",
+        "results": {
+          "w3c": 6,
+          "axe": 19
+        }
+      },
+      {
+        "name": "Mercure - home",
+        "url": "https://mercure.accorhotels.com/fr/france/index.shtml",
+        "results": {
+          "w3c": 13,
+          "axe": 19
+        }
+      },
+      {
+        "name": "Novotel - home",
+        "url": "https://novotel.accorhotels.com/fr/france/index.shtml",
+        "results": {
+          "w3c": 15,
+          "axe": 22
+        }
+      },
+      {
+        "name": "Ibis - home",
+        "url": "https://ibis.accorhotels.com/brasil/index.pt-br.shtml",
+        "results": {
+          "w3c": 50,
+          "axe": 14
+        }
+      },
+      {
+        "name": "Sofitel - home",
+        "url": "https://sofitel.accorhotels.com/fr/france/index.shtml",
+        "results": {
+          "w3c": 35,
+          "axe": 46
+        }
+      },
+      {
+        "name": "Sofitel - hotel",
+        "url": "https://sofitel.accorhotels.com/gb/hotel-2185-sofitel-new-york/index.shtml",
+        "results": {
+          "w3c": 14,
+          "axe": 44
+        }
+      },
+      {
+        "name": "Pullman - home",
+        "url": "https://pullman.accorhotels.com/fr/france/index.shtml",
+        "results": {
+          "w3c": 22,
+          "axe": 17
+        }
+      },
+      {
+        "name": "Restaurants - home",
+        "url": "https://restaurants.accorhotels.com/united-kingdom/index.en.shtml",
+        "results": {
+          "w3c": 45,
+          "axe": 57
+        }
+      },
+      {
+        "name": "Travel pros - home",
+        "url": "https://travelpros.accorhotels.com/gb/northamerica/index.shtml",
+        "results": {
+          "w3c": 250,
+          "axe": 50
+        }
+      },
+      {
+        "name": "Business travel - home",
+        "url": "https://businesstravel.accorhotels.com/gb/united-kingdom/index.shtml",
+        "results": {
+          "w3c": 11,
+          "axe": 74
+        }
+      },
+      {
+        "name": "Meetings - home",
+        "url": "https://meetings.accorhotels.com/united-kingdom/index.en.shtml",
+        "results": {
+          "w3c": 57,
+          "axe": 108
+        }
+      }
+    ]
+  },
+  {
+    "site": "Swisshôtel",
+    "data": [
+      {
+        "name": "Home",
+        "url": "https://www.swissotel.com",
+        "results": {
+          "w3c": 5,
+          "axe": 5
+        }
+      },
+      {
+        "name": "Web accessibility",
+        "url": "https://www.swissotel.com/web-accessibility/",
+        "results": {
+          "w3c": 0,
+          "axe": 3
+        }
+      },
+      {
+        "name": "Hotel",
+        "url": "https://www.swissotel.com/hotels/singapore-stamford/",
+        "results": {
+          "w3c": 1,
+          "axe": 5
+        }
+      },
+      {
+        "name": "Hotel - location",
+        "url": "https://www.swissotel.com/hotels/bangkok-ratchada/explore-hotel/",
+        "results": {
+          "w3c": 2,
+          "axe": 6
+        }
+      },
+      {
+        "name": "Hotel - dining",
+        "url": "https://www.swissotel.com/hotels/singapore-merchant-court/dining/ellenborough-market-cafe",
+        "results": {
+          "w3c": 7,
+          "axe": 7
+        }
+      },
+      {
+        "name": "Hotel - spa",
+        "url": "https://www.swissotel.com/hotels/singapore-stamford/spa-fitness/",
+        "results": {
+          "w3c": 2,
+          "axe": 3
+        }
+      },
+      {
+        "name": "Offers",
+        "url": "https://www.swissotel.com/offers",
+        "results": {
+          "w3c": 5,
+          "axe": 4
+        }
+      },
+      {
+        "name": "Meetings event",
+        "url": "https://www.swissotel.com/meetings-events",
+        "results": {
+          "w3c": 4,
+          "axe": 3
+        }
+      },
+      {
+        "name": "Privacy and terms",
+        "url": "https://www.swissotel.com/privacy-and-terms",
+        "results": {
+          "w3c": 0,
+          "axe": 3
+        }
+      },
+      {
+        "name": "Sitemap",
+        "url": "https://www.swissotel.com/sitemap",
+        "results": {
+          "w3c": 0,
+          "axe": 3
+        }
+      },
+      {
+        "name": "Le club",
+        "url": "https://www.swissotel.com/leclub/join-loyalty-program/",
+        "results": {
+          "w3c": 17,
+          "axe": 3
+        }
+      },
+      {
+        "name": "Destinations",
+        "url": "https://www.swissotel.com/destinations/",
+        "results": {
+          "w3c": 0,
+          "axe": 4
+        }
+      },
+      {
+        "name": "Careers",
+        "url": "https://www.swissotel.com/careers/",
+        "results": {
+          "w3c": 0,
+          "axe": 7
+        }
+      },
+      {
+        "name": "Tunnel step 1",
+        "url": "https://www.swissotel.com/reservations/check-availability/",
+        "results": {
+          "w3c": 16,
+          "axe": 3
+        }
+      },
+      {
+        "name": "About us",
+        "url": "https://www.swissotel.com/about-swissotel/",
+        "results": {
+          "w3c": 0,
+          "axe": 6
+        }
+      },
+      {
+        "name": "Newsletter",
+        "url": "https://www.swissotel.com/contact-us",
+        "results": {
+          "w3c": 0,
+          "axe": 4
+        }
+      },
+      {
+        "name": "Discover sustainability",
+        "url": "https://www.swissotel.com/discover/sustainability/",
+        "results": {
+          "w3c": 10,
+          "axe": 2
+        }
+      },
+      {
+        "name": "Discover",
+        "url": "https://www.swissotel.com/purovel/",
+        "results": {
+          "w3c": 0,
+          "axe": 3
+        }
+      },
+      {
+        "name": "Promo Europe",
+        "url": "https://www.swissotel.com/promo/europe/",
+        "results": {
+          "w3c": 0,
+          "axe": 1
+        }
+      }
+    ]
+  },
+  {
+    "site": "Raffles",
+    "data": [
+      {
+        "name": "Home",
+        "url": "https://www.raffles.com",
+        "results": {
+          "w3c": 8,
+          "axe": 29
+        }
+      },
+      {
+        "name": "Web accessibility",
+        "url": "https://www.raffles.com/web-accessibility/",
+        "results": {
+          "w3c": 6,
+          "axe": 26
+        }
+      },
+      {
+        "name": "Hotel",
+        "url": "https://www.raffles.com/singapore/",
+        "results": {
+          "w3c": 31,
+          "axe": 45
+        }
+      },
+      {
+        "name": "Hotel - location",
+        "url": "https://www.raffles.com/singapore/location/",
+        "results": {
+          "w3c": 58,
+          "axe": 42
+        }
+      },
+      {
+        "name": "Hotel - dining",
+        "url": "https://www.raffles.com/singapore/dining/long-bar/",
+        "results": {
+          "w3c": 37,
+          "axe": 41
+        }
+      },
+      {
+        "name": "Hotel - spa",
+        "url": "https://www.raffles-tr.com/istanbul/spa/",
+        "results": {
+          "w3c": 0,
+          "axe": 45
+        }
+      },
+      {
+        "name": "Offers",
+        "url": "https://www.raffles.com/makkah/offers/hotel-offers/",
+        "results": {
+          "w3c": 24,
+          "axe": 28
+        }
+      },
+      {
+        "name": "Meetings event",
+        "url": "https://www.raffles.com/events/meeting-and-events/",
+        "results": {
+          "w3c": 4,
+          "axe": 27
+        }
+      },
+      {
+        "name": "Privacy and terms",
+        "url": "https://www.raffles.com/privacy/",
+        "results": {
+          "w3c": 3,
+          "axe": 27
+        }
+      },
+      {
+        "name": "Sitemap",
+        "url": "https://www.raffles.com/site-map/",
+        "results": {
+          "w3c": 3,
+          "axe": 27
+        }
+      },
+      {
+        "name": "Le club",
+        "url": "https://www.raffles.com/leclub/join-loyalty-program/",
+        "results": {
+          "w3c": 21,
+          "axe": 29
+        }
+      },
+      {
+        "name": "Destinations",
+        "url": "https://www.raffles.com/destinations/",
+        "results": {
+          "w3c": 4,
+          "axe": 32
+        }
+      },
+      {
+        "name": "Careers",
+        "url": "https://www.raffles.com/careers/",
+        "results": {
+          "w3c": 4,
+          "axe": 27
+        }
+      },
+      {
+        "name": "Tunnel step 1",
+        "url": "https://www.raffles.com/reservations/check-availability/",
+        "results": {
+          "w3c": 4,
+          "axe": 32
+        }
+      },
+      {
+        "name": "About us",
+        "url": "https://www.raffles.com/about-raffles/",
+        "results": {
+          "w3c": 38,
+          "axe": 60
+        }
+      },
+      {
+        "name": "Newsletter",
+        "url": "https://www.raffles.com/offers/email-offers/",
+        "results": {
+          "w3c": 4,
+          "axe": 35
+        }
+      },
+      {
+        "name": "Partners",
+        "url": "https://www.raffles.com/partners/",
+        "results": {
+          "w3c": 4,
+          "axe": 27
+        }
+      },
+      {
+        "name": "Gallery",
+        "url": "https://www.raffles.com/gallery/",
+        "results": {
+          "w3c": 453,
+          "axe": 30
+        }
+      },
+      {
+        "name": "Raffles life - Gin",
+        "url": "https://www.raffles.com/raffles-life/raffles-1915-gin/",
+        "results": {
+          "w3c": 17,
+          "axe": 27
+        }
+      }
+    ]
+  },
+  {
+    "site": "Fairmont",
+    "data": [
+      {
+        "name": "Home",
+        "url": "https://www.fairmont.com/",
+        "results": {
+          "w3c": 12,
+          "axe": 34
+        }
+      },
+      {
+        "name": "Web accessibility",
+        "url": "https://www.fairmont.com/web-accessibility/",
+        "results": {
+          "w3c": 12,
+          "axe": 25
+        }
+      },
+      {
+        "name": "Hotel",
+        "url": "https://www.fairmont.com/banff-springs/",
+        "results": {
+          "w3c": 20,
+          "axe": 49
+        }
+      },
+      {
+        "name": "Hotel - location",
+        "url": "https://www.fairmont.com/banff-springs/map/mapanddirections/",
+        "results": {
+          "w3c": 22,
+          "axe": 25
+        }
+      },
+      {
+        "name": "Hotel - dining",
+        "url": "https://www.fairmont.com/banff-springs/dining/",
+        "results": {
+          "w3c": 19,
+          "axe": 28
+        }
+      },
+      {
+        "name": "Hotel - spa",
+        "url": "https://www.fairmont.com/banff-springs/willow-stream/",
+        "results": {
+          "w3c": 8,
+          "axe": 40
+        }
+      },
+      {
+        "name": "Offers",
+        "url": "https://www.fairmont.com/offers/",
+        "results": {
+          "w3c": 8,
+          "axe": 67
+        }
+      },
+      {
+        "name": "Meetings event",
+        "url": "https://www.fairmont.com/meetings-weddings/",
+        "results": {
+          "w3c": 7,
+          "axe": 33
+        }
+      },
+      {
+        "name": "Privacy and terms",
+        "url": "https://www.fairmont.com/help/terms-and-conditions/",
+        "results": {
+          "w3c": 7,
+          "axe": 25
+        }
+      },
+      {
+        "name": "Sitemap",
+        "url": "https://www.fairmont.com/search/",
+        "results": {
+          "w3c": 9,
+          "axe": 240
+        }
+      },
+      {
+        "name": "Le club",
+        "url": "https://www.fairmont.com/leclub/join-loyalty-program/",
+        "results": {
+          "w3c": 12,
+          "axe": 32
+        }
+      },
+      {
+        "name": "Destinations",
+        "url": "https://www.fairmont.com/destinations/",
+        "results": {
+          "w3c": 10,
+          "axe": 196
+        }
+      },
+      {
+        "name": "Careers",
+        "url": "https://www.fairmont.com/careers/",
+        "results": {
+          "w3c": 6,
+          "axe": 25
+        }
+      },
+      {
+        "name": "Tunnel step 1",
+        "url": "https://www.fairmont.com/reservations/check-availability/",
+        "results": {
+          "w3c": 7,
+          "axe": 35
+        }
+      },
+      {
+        "name": "About us",
+        "url": "https://www.fairmont.com/about-us/",
+        "results": {
+          "w3c": 23,
+          "axe": 26
+        }
+      },
+      {
+        "name": "Newsletter",
+        "url": "https://www.fairmont.com/email/email-offers/",
+        "results": {
+          "w3c": 9,
+          "axe": 27
+        }
+      },
+      {
+        "name": "Contact us",
+        "url": "https://www.fairmont.com/contact-us/morenumbers/",
+        "results": {
+          "w3c": 10,
+          "axe": 64
+        }
+      },
+      {
+        "name": "Residences",
+        "url": "https://www.fairmont.com/residences/",
+        "results": {
+          "w3c": 7,
+          "axe": 30
+        }
+      },
+      {
+        "name": "Affiliate",
+        "url": "https://www.fairmont.com/about-us/programs-partners/hotel-partners/affiliatefaq/",
+        "results": {
+          "w3c": 6,
+          "axe": 25
+        }
+      }
+    ]
+  }
+]
