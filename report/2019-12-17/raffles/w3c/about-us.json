@@ -1,0 +1,775 @@
+{
+  "url": "https://www.raffles.com/about-raffles/",
+  "messages": [
+    {
+      "type": "error",
+      "url": "https://www.raffles.com/about-raffles/",
+      "message": "X-UA-Compatible HTTP header must have the value “IE=edge”, was “IE=edge,chrome=1”."
+    },
+    {
+      "type": "info",
+      "lastLine": 15,
+      "lastColumn": 113,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "/css\" />\n\n<script type=\"text/javascript\" src=\"//d1r80pgesjju2u.cloudfront.net/ra/prod-ld1/delivery/modernizr-3.5.0.min.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 113
+    },
+    {
+      "type": "info",
+      "lastLine": 16,
+      "lastColumn": 83,
+      "firstColumn": 53,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "on.ico\" /><script type=\"text/javascript\">\n  var",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "info",
+      "lastLine": 37,
+      "lastColumn": 35,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "tyle>\n    <script type=\"text/javascript\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "info",
+      "lastLine": 70,
+      "lastColumn": 53,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "erved -->\n<script language=\"JavaScript\" type=\"text/javascript\">\nvar a",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 70,
+      "lastColumn": 53,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "erved -->\n<script language=\"JavaScript\" type=\"text/javascript\">\nvar a",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 73,
+      "lastColumn": 128,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script>\n<script language=\"JavaScript\" type=\"text/javascript\" src=\"//d1r80pgesjju2u.cloudfront.net/ra/prod-ld1/delivery/s_code.js?v=1.0\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 128
+    },
+    {
+      "type": "info",
+      "lastLine": 73,
+      "lastColumn": 128,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "</script>\n<script language=\"JavaScript\" type=\"text/javascript\" src=\"//d1r80pgesjju2u.cloudfront.net/ra/prod-ld1/delivery/s_code.js?v=1.0\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 128
+    },
+    {
+      "type": "info",
+      "lastLine": 74,
+      "lastColumn": 53,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script>\n<script language=\"JavaScript\" type=\"text/javascript\"><!--\ns",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 74,
+      "lastColumn": 53,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "</script>\n<script language=\"JavaScript\" type=\"text/javascript\"><!--\ns",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 88,
+      "lastColumn": 53,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script>\n<script language=\"JavaScript\" type=\"text/javascript\"><!--\ni",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 88,
+      "lastColumn": 53,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "</script>\n<script language=\"JavaScript\" type=\"text/javascript\"><!--\ni",
+      "hiliteStart": 10,
+      "hiliteLength": 53
+    },
+    {
+      "type": "info",
+      "lastLine": 91,
+      "firstLine": 90,
+      "lastColumn": 41,
+      "firstColumn": 25,
+      "subType": "warning",
+      "message": "The “border” attribute is obsolete. Consider specifying “img { border: 0; }” in CSS instead.",
+      "extract": "<noscript><img src=\"https://frhi.112.2o7.net/b/ss/frhiraffles/1/H.24.2--NS/0\"\nheight=\"1\" width=\"1\" border=\"0\" alt=\"\" /></nosc",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "info",
+      "lastLine": 104,
+      "lastColumn": 26,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "t>\n  \n    <header role=\"banner\">\n   \n ",
+      "hiliteStart": 10,
+      "hiliteLength": 22
+    },
+    {
+      "type": "info",
+      "lastLine": 147,
+      "lastColumn": 82,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "Possible misuse of “aria-label”. (If you disagree with this warning, file an issue report or send e-mail to www-validator@w3.org.)",
+      "extract": "e end -->\n<div class=\"banner-modal-wrapper\" aria-label=\"Learn more about web accessibility\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "info",
+      "lastLine": 195,
+      "lastColumn": 125,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": ">\n   \n    <nav id=\"navBrandMainNavigation\" class=\"brand-main-navigation transparent-bg-nav\" role=\"navigation\" aria-label=\"Primary\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 121
+    },
+    {
+      "type": "error",
+      "lastLine": 458,
+      "lastColumn": 195,
+      "firstColumn": 125,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "\"modal\">  <img src=\"/frhi/inc/img/dropdown-close.png\" id=\"imgCloseOurHotelPopup\"></butt",
+      "hiliteStart": 10,
+      "hiliteLength": 71
+    },
+    {
+      "type": "info",
+      "lastLine": 461,
+      "lastColumn": 59,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "Possible misuse of “aria-label”. (If you disagree with this warning, file an issue report or send e-mail to www-validator@w3.org.)",
+      "extract": "\n        \n<div class=\"destination-dropdown\" aria-label=\"Destination\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 59
+    },
+    {
+      "type": "info",
+      "lastLine": 474,
+      "lastColumn": 68,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "Possible misuse of “aria-label”. (If you disagree with this warning, file an issue report or send e-mail to www-validator@w3.org.)",
+      "extract": "  \n</div>\n<div class=\"spa-and-fitness-dropdown\" aria-label=\"Spa and wellness\">\n    <",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 560,
+      "lastColumn": 10,
+      "firstColumn": 5,
+      "message": "Stray end tag “div”.",
+      "extract": "     \n    </div>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 6
+    },
+    {
+      "type": "info",
+      "lastLine": 564,
+      "lastColumn": 35,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "     \n    <main id=\"content\" role=\"main\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "error",
+      "lastLine": 574,
+      "lastColumn": 111,
+      "firstColumn": 17,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img id=\"ctl00_cphMain_TopImageAltText\" class=\"image-hide\" alt=\"Raffles Singapore Courtyard\" />\n\n    ",
+      "hiliteStart": 10,
+      "hiliteLength": 95
+    },
+    {
+      "type": "error",
+      "lastLine": 610,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 611,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 622,
+      "lastColumn": 264,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 623,
+      "lastColumn": 262,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 634,
+      "lastColumn": 271,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ade\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 635,
+      "lastColumn": 269,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ade\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 646,
+      "lastColumn": 262,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ool\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 647,
+      "lastColumn": 260,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ool\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 658,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "alm\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 659,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "alm\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 670,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 671,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 682,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 683,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 694,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 695,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 706,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 707,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 718,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 719,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 730,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 731,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 742,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 743,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 754,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 755,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 766,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 767,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 778,
+      "lastColumn": 263,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 779,
+      "lastColumn": 261,
+      "message": "Duplicate attribute “src”.",
+      "extract": "ore\" alt=\"\" src=\"\" />\n        ",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 800,
+      "lastColumn": 129,
+      "firstColumn": 25,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img id=\"ctl00_cphMain_CorporateFirstSectionImageAltText\" class=\"image-hide\" alt=\"Raffles Gala Events\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "error",
+      "lastLine": 818,
+      "lastColumn": 142,
+      "firstColumn": 29,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img id=\"ctl00_cphMain_CorporateSecondSectionImageAltText\" class=\"image-hide\" alt=\"Raffles Singapore Colonnade\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 114
+    },
+    {
+      "type": "info",
+      "lastLine": 807,
+      "lastColumn": 163,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "          <section id=\"ctl00_cphMain_CorporateResponsibilitySecondSection\" class=\"scroll-panel panel4\" data-section-name=\"fiveth\" data-section-title=\"The Story\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 151
+    },
+    {
+      "type": "error",
+      "lastLine": 824,
+      "lastColumn": 129,
+      "firstColumn": 25,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img id=\"ctl00_cphMain_GreenInitiativeImageAltText\" class=\"image-hide\" alt=\"Raffles Green initiatives\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 105
+    },
+    {
+      "type": "info",
+      "lastLine": 832,
+      "lastColumn": 163,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "          <section id=\"ctl00_cphMain_GreenInitiativeStory\" class=\"scroll-panel panel6 bg-panel-right\" data-section-name=\"seventh\" data-section-title=\"The Story\">\n\n    ",
+      "hiliteStart": 10,
+      "hiliteLength": 151
+    },
+    {
+      "type": "error",
+      "lastLine": 844,
+      "lastColumn": 121,
+      "firstColumn": 25,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "          <img id=\"ctl00_cphMain_AwardsAndAccoladesImageAltText\" class=\"image-hide\" alt=\"Raffles Awards\" />\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "info",
+      "lastLine": 851,
+      "lastColumn": 140,
+      "firstColumn": 13,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "          <section id=\"ctl00_cphMain_AwardsBoard\" class=\"scroll-panel panel8\" data-section-name=\"Ninth\" data-section-title=\"Awards Board\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 128
+    },
+    {
+      "type": "info",
+      "lastLine": 1679,
+      "lastColumn": 31,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “contentinfo” role is unnecessary for element “footer”.",
+      "extract": "main>\n    <footer role=\"contentinfo\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 27
+    },
+    {
+      "type": "info",
+      "lastLine": 1686,
+      "lastColumn": 161,
+      "firstColumn": 20,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "          <nav id=\"navBrandFooterNavigation\" role=\"navigation\" class=\"footer-nav text-center desktop-menu footerFlyoutContainer\" aria-label=\"Secondary\">      ",
+      "hiliteStart": 10,
+      "hiliteLength": 142
+    },
+    {
+      "type": "error",
+      "lastLine": 1887,
+      "lastColumn": 56,
+      "firstColumn": 29,
+      "message": "Element “stop” is missing required attribute “offset”.",
+      "extract": "          <stop stop-color=\"#FFD280\"/>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "error",
+      "lastLine": 1895,
+      "lastColumn": 56,
+      "firstColumn": 29,
+      "message": "Element “stop” is missing required attribute “offset”.",
+      "extract": "          <stop stop-color=\"#FFD280\"/>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "error",
+      "lastLine": 1903,
+      "lastColumn": 56,
+      "firstColumn": 29,
+      "message": "Element “stop” is missing required attribute “offset”.",
+      "extract": "          <stop stop-color=\"#FFD280\"/>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "error",
+      "lastLine": 1911,
+      "lastColumn": 56,
+      "firstColumn": 29,
+      "message": "Element “stop” is missing required attribute “offset”.",
+      "extract": "          <stop stop-color=\"#FFD280\"/>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "error",
+      "lastLine": 1919,
+      "lastColumn": 56,
+      "firstColumn": 29,
+      "message": "Element “stop” is missing required attribute “offset”.",
+      "extract": "          <stop stop-color=\"#FFD280\"/>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "error",
+      "lastLine": 1927,
+      "lastColumn": 56,
+      "firstColumn": 29,
+      "message": "Element “stop” is missing required attribute “offset”.",
+      "extract": "          <stop stop-color=\"#FFD280\"/>\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "info",
+      "lastLine": 2256,
+      "lastColumn": 114,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "/div>\n    <script type=\"text/javascript\" src=\"//d1r80pgesjju2u.cloudfront.net/ra/prod-ld1/delivery/jquery-2.2.4.min.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "info",
+      "lastLine": 2260,
+      "lastColumn": 68,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "-US\" /> \n\n<script src=\"/frhi/inc/js/libs/slick.min.js\" type=\"text/javascript\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "info",
+      "lastLine": 2261,
+      "lastColumn": 69,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script>\n<script src=\"/frhi/inc/js/rafflesajax.min.js\" type=\"text/javascript\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 69
+    },
+    {
+      "type": "info",
+      "lastLine": 2262,
+      "lastColumn": 111,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>  \n<script type=\"text/javascript\" src=\"//d1r80pgesjju2u.cloudfront.net/ra/prod-ld1/delivery/raffles.min.js?v=8.2\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 111
+    },
+    {
+      "type": "info",
+      "lastLine": 2263,
+      "lastColumn": 108,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "/script> \n<script type=\"text/javascript\" src=\"//d1r80pgesjju2u.cloudfront.net/ra/prod-ld1/delivery/so_plugins.min.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 108
+    },
+    {
+      "type": "info",
+      "lastLine": 2269,
+      "lastColumn": 71,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "\n\n\n \n\n    <script type=\"text/javascript\" src=\"/FRHI/inc/js/SsoImp_v3.min.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 67
+    },
+    {
+      "type": "info",
+      "lastLine": 2281,
+      "lastColumn": 80,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "Possible misuse of “aria-label”. (If you disagree with this warning, file an issue report or send e-mail to www-validator@w3.org.)",
+      "extract": "  \n</div>\n<div id=\"enrollModal\" class=\"enrollModal\" aria-label=\"Create an account window\">  \n   ",
+      "hiliteStart": 10,
+      "hiliteLength": 80
+    },
+    {
+      "type": "info",
+      "lastLine": 2295,
+      "lastColumn": 35,
+      "firstColumn": 5,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ipt>\n\n    <script type=\"text/javascript\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "info",
+      "lastLine": 2332,
+      "lastColumn": 31,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "otels -->\n<script type=\"text/javascript\">\n/* <!",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "info",
+      "lastLine": 2340,
+      "lastColumn": 85,
+      "firstColumn": 1,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script>\n<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\">\n</scr",
+      "hiliteStart": 10,
+      "hiliteLength": 85
+    }
+  ],
+  "language": "en"
+}

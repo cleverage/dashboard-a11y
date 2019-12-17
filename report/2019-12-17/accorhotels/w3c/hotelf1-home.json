@@ -1,0 +1,167 @@
+{
+  "url": "https://hotelf1.accorhotels.com/home/index.fr.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 459,
+      "firstColumn": 183,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "scale=1\"/><script type=\"text/javascript\" src=\"/dtagent_ICA23gprx_6000500351006.js\" data-dtconfig=\"rid=RID_-206938200|rpid=-404127709|domain=accor.com|lastModification=1574856158666|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=formula1|agentUri=/dtagent_ICA23gprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 277
+    },
+    {
+      "type": "info",
+      "lastLine": 16,
+      "lastColumn": 3119,
+      "firstColumn": 2998,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 16,
+      "lastColumn": 3305,
+      "firstColumn": 3214,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "-wrapper\"><nav id=\"link-navigation-menu\" role=\"navigation\" aria-label=\"Principale\" aria-hidden=\"true\"><butto",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "error",
+      "lastLine": 16,
+      "lastColumn": 11458,
+      "firstColumn": 11368,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "\"></span> <img data-src=\"/components/header/assets/images/pushs/early-trip/early-trip-fr.jpg\" alt=\"\"></div>",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 108,
+      "firstColumn": 15,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "</div> --><section class=\"section section--full-page section--with-background section--book-your-hotel\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 94
+    },
+    {
+      "type": "error",
+      "lastLine": 28,
+      "lastColumn": 48016,
+      "firstColumn": 47841,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "facebook\"><a target=\"_blank\" title=\"Accéder à la page facebook -  Nouvelle Fenêtre\" alt=\"Accéder à la page facebook\" class=\"button button--icon\" href=\"https://www.facebook.com/HotelF1/\"><i rol",
+      "hiliteStart": 10,
+      "hiliteLength": 176
+    },
+    {
+      "type": "error",
+      "lastLine": 28,
+      "lastColumn": 48340,
+      "firstColumn": 48156,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": "nstagram\"><a target=\"_blank\" title=\"Accéder à la page instagram -  Nouvelle Fenêtre\" alt=\"Accéder à la page instagram\" class=\"button button--icon\" href=\"https://www.instagram.com/hotelf1_france\"><i rol",
+      "hiliteStart": 10,
+      "hiliteLength": 185
+    },
+    {
+      "type": "error",
+      "lastLine": 28,
+      "lastColumn": 48664,
+      "firstColumn": 48480,
+      "message": "Attribute “alt” not allowed on element “a” at this point.",
+      "extract": " youtube\"><a target=\"_blank\" title=\"Accéder à la page youtube -  Nouvelle Fenêtre\" alt=\"Accéder à la page youtube\" class=\"button button--icon\" href=\"https://www.youtube.com/user/superfluhotelF1\"><i rol",
+      "hiliteStart": 10,
+      "hiliteLength": 185
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 51060,
+      "firstColumn": 50982,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ENGINE --><script type=\"text/javascript\" src=\"/scripts-v1905/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 51144,
+      "firstColumn": 51070,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1905/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 51227,
+      "firstColumn": 51154,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1905/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 51302,
+      "firstColumn": 51237,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1905/set/popins.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 51399,
+      "firstColumn": 51312,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1905/lib/jplugins/jquery.cookie-2.1.2.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 88
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 51487,
+      "firstColumn": 51409,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/scripts-v1905/lib/jplugins/jquery.dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 28,
+      "lastColumn": 51552,
+      "firstColumn": 51497,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "></script><script type=\"text/javascript\" src=\"/common/dfp/dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    }
+  ],
+  "language": "fr"
+}

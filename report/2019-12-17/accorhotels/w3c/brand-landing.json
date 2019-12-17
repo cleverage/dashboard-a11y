@@ -1,0 +1,145 @@
+{
+  "url": "https://www.accorhotels.com/gb/brands/index.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 4112,
+      "firstColumn": 3841,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gprx_6000500351006.js\" data-dtconfig=\"rid=RID_1052243101|rpid=2075521967|domain=accor.com|lastModification=1576506968297|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=ALL|agentUri=/dtagent_ICA23gprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 272
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 6733,
+      "firstColumn": 6655,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "g=\"sv\" /> <script type=\"text/javascript\" src=\"/scripts-v1905/lib/jquery-1.7.2-min-ah.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 6815,
+      "firstColumn": 6744,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script src=\"/scripts-v1905/set/brands/index.js\" type=\"text/javascript\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 72
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 3551,
+      "firstColumn": 3430,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 3732,
+      "firstColumn": 3646,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "-wrapper\"><nav id=\"link-navigation-menu\" role=\"navigation\" aria-label=\"Main \" aria-hidden=\"true\"><butto",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 14250,
+      "firstColumn": 14049,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/header/assets/images/pushs/europcar-offers/europcar-offers-240x200-en.jpg\" alt=\"Car rental – Europcar - Earn up to 1,000 points for every rental, plus get a 10-20% discount!\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 202
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 38992,
+      "firstColumn": 38963,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "a> </div> <section class=\"swipe-mobile\"> <sele",
+      "hiliteStart": 10,
+      "hiliteLength": 30
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 45566,
+      "message": "No space between attributes.",
+      "extract": "magerie/px.gif\"class=\"sls-logo",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 39245,
+      "firstColumn": 39195,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "/section> <section class=\"carrousel-hub\" id=\"carousel-brand\"> <div ",
+      "hiliteStart": 10,
+      "hiliteLength": 51
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 88781,
+      "firstColumn": 88762,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "ion> <section class=\"up\"> <a href=\"#",
+      "hiliteStart": 10,
+      "hiliteLength": 20
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 89567,
+      "firstColumn": 89485,
+      "message": "Bad value “/mailing_list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": " <li><a href=\"/mailing_list.svlt?action=CREATEACCOUNT&amp;site=PMO|PAR&amp;origine=WEB\"><i class=\"i",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 92450,
+      "firstColumn": 92369,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "-> <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1905/main.js\"></script> </b",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 92450,
+      "firstColumn": 92369,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "-> <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1905/main.js\"></script> </b",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    }
+  ],
+  "language": "en"
+}

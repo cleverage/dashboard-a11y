@@ -1,0 +1,557 @@
+{
+  "url": "https://www.accorhotels.com/fr/france/promotions-offers/index.shtml",
+  "messages": [
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 654,
+      "firstColumn": 479,
+      "message": "Attribute “xmlns:fb” not allowed here.",
+      "extract": "IE)]><!--> <html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"> <!--<",
+      "hiliteStart": 10,
+      "hiliteLength": 176
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 654,
+      "firstColumn": 479,
+      "subType": "warning",
+      "message": "Attribute with the local name “xmlns:fb” is not serializable as XML 1.0.",
+      "extract": "IE)]><!--> <html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"> <!--<",
+      "hiliteStart": 10,
+      "hiliteLength": 176
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 654,
+      "firstColumn": 479,
+      "message": "Attribute “xmlns:og” not allowed here.",
+      "extract": "IE)]><!--> <html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"> <!--<",
+      "hiliteStart": 10,
+      "hiliteLength": 176
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 654,
+      "firstColumn": 479,
+      "subType": "warning",
+      "message": "Attribute with the local name “xmlns:og” is not serializable as XML 1.0.",
+      "extract": "IE)]><!--> <html xmlns:fb=\"http://ogp.me/ns/fb#\" xmlns:og=\"http://ogp.me/ns#\" xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\" prefix=\"fb: http://www.facebook.com/2008/fbml\"> <!--<",
+      "hiliteStart": 10,
+      "hiliteLength": 176
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 4659,
+      "firstColumn": 4387,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gprx_6000500351006.js\" data-dtconfig=\"rid=RID_-710861702|rpid=-1484070865|domain=accor.com|lastModification=1576506968297|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=ALL|agentUri=/dtagent_ICA23gprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 273
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 5082,
+      "message": "A “charset” attribute on a “meta” element found after the first 1024 bytes.",
+      "extract": " charset=\"UTF-8\"> <title>Nos O",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9593,
+      "firstColumn": 9471,
+      "message": "Bad value “enk” for attribute “hreflang” on element “link”: The language subtag “enk” is not a valid ISO language part of a language tag.",
+      "extract": "g=\"en\" /> <link rel=\"alternate\" href=\"https://all.accor.com/gb/taiwan-hongkong-macao/promotions-offers/index.shtml\" hreflang=\"enk\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 123
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 9919,
+      "firstColumn": 9813,
+      "message": "Bad value “gb” for attribute “hreflang” on element “link”: The language subtag “gb” is not a valid ISO language part of a language tag.",
+      "extract": "en-vn\" /> <link rel=\"alternate\" href=\"https://all.accor.com/gb/africa/promotions-offers/index.shtml\" hreflang=\"gb\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 11609,
+      "firstColumn": 11501,
+      "message": "Bad value “gb-jp” for attribute “hreflang” on element “link”: The language subtag “gb” is not a valid ISO language part of a language tag.",
+      "extract": "ja-jp\" /> <link rel=\"alternate\" href=\"https://all.accor.com/gb/japan/promotions-offers/index.shtml\" hreflang=\"gb-jp\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 12436,
+      "firstColumn": 12331,
+      "message": "Bad value “ pt-br” for attribute “hreflang” on element “link”: The language subtag “ pt” is not a valid language subtag.",
+      "extract": "pt-pt\" /> <link rel=\"alternate\" href=\"all.accor.com/pt-br/brasil/promotions-offers/index.shtml\" hreflang=\" pt-br\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 106
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13048,
+      "firstColumn": 12942,
+      "message": "Bad value “gb-kr” for attribute “hreflang” on element “link”: The language subtag “gb” is not a valid ISO language part of a language tag.",
+      "extract": "zh-cn\" /> <link rel=\"alternate\" href=\"all.accor.com/gb/south-korea/promotions-offers/index.shtml\" hreflang=\"gb-kr\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 13261,
+      "firstColumn": 13158,
+      "message": "Bad value “gb-th” for attribute “hreflang” on element “link”: The language subtag “gb” is not a valid ISO language part of a language tag.",
+      "extract": "ko-kr\" /> <link rel=\"alternate\" href=\"all.accor.com/gb/thailand/promotions-offers/index.shtml\" hreflang=\"gb-th\" /> <link",
+      "hiliteStart": 10,
+      "hiliteLength": 104
+    },
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 13749,
+      "firstColumn": 13676,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ripts --> <script type=\"text/javascript\" src=\"/scripts-v1905/lib/jquery-min-cms.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 2,
+      "firstLine": 1,
+      "lastColumn": 44,
+      "firstColumn": 13760,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\"\nsrc=\"/scripts-v1905/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 3,
+      "lastColumn": 75,
+      "firstColumn": 2,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "/script>\n <script type=\"text/javascript\" src=\"/scripts-v1905/set/autocompletion.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 3,
+      "lastColumn": 159,
+      "firstColumn": 86,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1905/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 3,
+      "lastColumn": 235,
+      "firstColumn": 170,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1905/set/popins.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 3,
+      "lastColumn": 322,
+      "firstColumn": 246,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1905/set/promotions-offers.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 3031,
+      "firstColumn": 2910,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 3217,
+      "firstColumn": 3126,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "-wrapper\"><nav id=\"link-navigation-menu\" role=\"navigation\" aria-label=\"Principale\" aria-hidden=\"true\"><butto",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 13712,
+      "firstColumn": 13493,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/header/assets/images/pushs/europcar-offers/europcar-offers-240x200-fr.jpg\" alt=\"Location de voiture - Europcar - Gagnez jusqu’à 1000 points par location et bénéficiez de 10% à 20% de remise !\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 220
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 39858,
+      "firstColumn": 39720,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "htTitle\"> <a href=\"https://all.accor.com/loyalty-program/promotions-offers/bonus-offers/owm011300-001-offre-de-fin-d-annee-all.fr.shtml\"   target=\"\">Termin",
+      "hiliteStart": 10,
+      "hiliteLength": 139
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 40042,
+      "firstColumn": 39905,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "/a> </h2> <a href=\"https://all.accor.com/loyalty-program/promotions-offers/bonus-offers/owm011300-001-offre-de-fin-d-annee-all.fr.shtml\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 138
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 40861,
+      "firstColumn": 40705,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "Wrapper\"> <a href=\"https://all.accor.com/loyalty-program/promotions-offers/bonus-offers/owm011300-001-offre-de-fin-d-annee-all.fr.shtml\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 157
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 41455,
+      "firstColumn": 41339,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "htTitle\"> <a href=\"https://all.accor.com/promotions-offers/hot-deals-offers/owm011452-001-tarif-flexible.fr.shtml\"   target=\"\">Partez",
+      "hiliteStart": 10,
+      "hiliteLength": 117
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 41622,
+      "firstColumn": 41507,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "/a> </h2> <a href=\"https://all.accor.com/promotions-offers/hot-deals-offers/owm011452-001-tarif-flexible.fr.shtml\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 116
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 41852,
+      "firstColumn": 41849,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "rmation\"> <h3></h3> ",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 42577,
+      "firstColumn": 42443,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "v> </div> <a href=\"https://all.accor.com/promotions-offers/hot-deals-offers/owm011452-001-tarif-flexible.fr.shtml\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 135
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 43130,
+      "firstColumn": 42994,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "htTitle\"> <a href=\"https://all.accor.com/loyalty-program/promotions-offers/generic-earn/owm009610-001-garantie-soleil-france.fr.shtml\"   target=\"\">Offre ",
+      "hiliteStart": 10,
+      "hiliteLength": 137
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 43309,
+      "firstColumn": 43174,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "/a> </h2> <a href=\"https://all.accor.com/loyalty-program/promotions-offers/generic-earn/owm009610-001-garantie-soleil-france.fr.shtml\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 136
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 43544,
+      "firstColumn": 43541,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "rmation\"> <h3></h3> ",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 44211,
+      "firstColumn": 44057,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "v> </div> <a href=\"https://all.accor.com/loyalty-program/promotions-offers/generic-earn/owm009610-001-garantie-soleil-france.fr.shtml\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 155
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 44712,
+      "firstColumn": 44622,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "htTitle\"> <a href=\"https://all.accor.com/france/thematic/sejour-hotel-shopping.fr.shtml\"   target=\"\">PROFIT",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 44834,
+      "firstColumn": 44745,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "/a> </h2> <a href=\"https://all.accor.com/france/thematic/sejour-hotel-shopping.fr.shtml\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 45543,
+      "firstColumn": 45435,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "v> </div> <a href=\"https://all.accor.com/france/thematic/sejour-hotel-shopping.fr.shtml\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 46851,
+      "firstColumn": 46802,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "htTitle\"> <a href=\"https://verychic.accor.com/\"   target=\"\">Nos ve",
+      "hiliteStart": 10,
+      "hiliteLength": 50
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 46937,
+      "firstColumn": 46889,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "/a> </h2> <a href=\"https://verychic.accor.com/\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 49
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 47672,
+      "firstColumn": 47605,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "v> </div> <a href=\"https://verychic.accor.com/\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 68
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 48214,
+      "firstColumn": 48089,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "htTitle\"> <a href=\"https://all.accor.com/promotions-offers/family-offers/owm003923-001-accorhotels-offres-famille.fr.shtml\"   target=\"\">Profit",
+      "hiliteStart": 10,
+      "hiliteLength": 126
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 48381,
+      "firstColumn": 48257,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "/a> </h2> <a href=\"https://all.accor.com/promotions-offers/family-offers/owm003923-001-accorhotels-offres-famille.fr.shtml\" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 125
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 48609,
+      "firstColumn": 48606,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "rmation\"> <h3></h3> ",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 49221,
+      "firstColumn": 49078,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "v> </div> <a href=\"https://all.accor.com/promotions-offers/family-offers/owm003923-001-accorhotels-offres-famille.fr.shtml\"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 144
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 49716,
+      "firstColumn": 49626,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "htTitle\"> <a href=\"https://all.accor.com/hotels-offers/spa-break-france/index.fr.shtml \"   target=\"\">Découv",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 49847,
+      "firstColumn": 49758,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "/a> </h2> <a href=\"https://all.accor.com/hotels-offers/spa-break-france/index.fr.shtml \" target=\"\" > <img ",
+      "hiliteStart": 10,
+      "hiliteLength": 90
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 50450,
+      "firstColumn": 50342,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "Wrapper\"> <a href=\"https://all.accor.com/hotels-offers/spa-break-france/index.fr.shtml \"  class=\"btnAction\" target=\"\" > <span",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 6,
+      "lastColumn": 51936,
+      "firstColumn": 51854,
+      "message": "Bad value “/mailing_list.svlt?action=CREATEACCOUNT&site=PMO|PAR&origine=WEB” for attribute “href” on element “a”: Illegal character in query: “|” is not allowed.",
+      "extract": "</li> <li><a href=\"/mailing_list.svlt?action=CREATEACCOUNT&amp;site=PMO|PAR&amp;origine=WEB\"><i cla",
+      "hiliteStart": 10,
+      "hiliteLength": 83
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 54925,
+      "firstColumn": 54844,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ainer --> <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1905/main.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 54925,
+      "firstColumn": 54844,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": "ainer --> <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1905/main.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 82
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 55058,
+      "firstColumn": 54970,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": " SITE --> <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1905/main-legacy.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 55058,
+      "firstColumn": 54970,
+      "subType": "warning",
+      "message": "The “language” attribute on the “script” element is obsolete. You can safely omit it.",
+      "extract": " SITE --> <script language=\"javascript\" type=\"text/javascript\" src=\"/scripts-v1905/main-legacy.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 89
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 55164,
+      "firstColumn": 55099,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "START --> <script type=\"text/javascript\" src=\"/scripts-v1905/xiti_utils.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 55251,
+      "firstColumn": 55175,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1905/hotel-offers/xiti_ati.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 77
+    },
+    {
+      "type": "info",
+      "lastLine": 6,
+      "lastColumn": 55331,
+      "firstColumn": 55262,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "</script> <script type=\"text/javascript\" src=\"/scripts-v1905/xtanalyzer_roi.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 70
+    }
+  ],
+  "language": "fr"
+}

@@ -1,0 +1,131 @@
+{
+  "url": "https://www.fairmont.com/leclub/join-loyalty-program/",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 3807,
+      "firstColumn": 3537,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gprx_6000500351006.js\" data-dtconfig=\"rid=RID_1763730128|rpid=-47972671|domain=accor.com|lastModification=1576506968297|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=ALL|agentUri=/dtagent_ICA23gprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 271
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 4138,
+      "message": "A “charset” attribute on a “meta” element found after the first 1024 bytes.",
+      "extract": " charset=\"utf-8\"/><meta http-e",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 3615,
+      "firstColumn": 3494,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 3796,
+      "firstColumn": 3710,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "-wrapper\"><nav id=\"link-navigation-menu\" role=\"navigation\" aria-label=\"Main \" aria-hidden=\"true\"><butto",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 14314,
+      "firstColumn": 14113,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/header/assets/images/pushs/europcar-offers/europcar-offers-240x200-en.jpg\" alt=\"Car rental – Europcar - Earn up to 1,000 points for every rental, plus get a 10-20% discount!\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 202
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 38218,
+      "firstColumn": 38191,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "div></div><main id=\"main\" role=\"main\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 50610,
+      "firstColumn": 50579,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "Sections\"><section class=\"brandsSections\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 32
+    },
+    {
+      "type": "info",
+      "lastLine": 4,
+      "lastColumn": 50578,
+      "firstColumn": 50547,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "</section><section class=\"brandsSections\"><secti",
+      "hiliteStart": 10,
+      "hiliteLength": 32
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 65190,
+      "firstColumn": 65082,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "ok</span> <img src=\"/components/footer/assets/images/social-networks/facebook.svg\" class=\"footer__links__single--icon\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 65500,
+      "firstColumn": 65393,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "\"></span> <img src=\"/components/footer/assets/images/social-networks/youtube.svg\" class=\"footer__links__single--icon\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 108
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 65791,
+      "firstColumn": 65682,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "am</span> <img src=\"/components/footer/assets/images/social-networks/instagram.svg\" class=\"footer__links__single--icon\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 110
+    },
+    {
+      "type": "error",
+      "lastLine": 4,
+      "lastColumn": 66094,
+      "firstColumn": 65986,
+      "message": "An “img” element must have an “alt” attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.",
+      "extract": "in</span> <img src=\"/components/footer/assets/images/social-networks/linkedin.svg\" class=\"footer__links__single--icon\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,335 @@
+{
+  "url": "https://mercure.accorhotels.com/fr/france/index.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 7,
+      "lastColumn": 277,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "F-8\" />\n  <script type=\"text/javascript\" src=\"/dtagent_ICA23gprx_6000500351006.js\" data-dtconfig=\"rid=RID_74360863|rpid=-1276127015|domain=accor.com|lastModification=1574856154806|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=mercure|agentUri=/dtagent_ICA23gprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 275
+    },
+    {
+      "type": "info",
+      "lastLine": 69,
+      "lastColumn": 33,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "n\" />\n\n\n  <script type=\"text/javascript\">\n    v",
+      "hiliteStart": 10,
+      "hiliteLength": 31
+    },
+    {
+      "type": "info",
+      "lastLine": 87,
+      "lastColumn": 76,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "ript>\n\n\n  <script type=\"text/javascript\" src=\"/scripts-v1905/lib/jquery-min-cms.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 89,
+      "lastColumn": 77,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "cript>\n\n  <script type=\"text/javascript\" src=\"/scripts-v1905/set/booking-core_fr.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 75
+    },
+    {
+      "type": "info",
+      "lastLine": 90,
+      "lastColumn": 76,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n  <script type=\"text/javascript\" src=\"/scripts-v1905/set/booking-engine.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 74
+    },
+    {
+      "type": "info",
+      "lastLine": 91,
+      "lastColumn": 68,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n  <script type=\"text/javascript\" src=\"/scripts-v1905/set/popins.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 66
+    },
+    {
+      "type": "info",
+      "lastLine": 93,
+      "lastColumn": 71,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "cript>\n\n  <script type=\"text/javascript\" src=\"/scripts-v1905/set/home/home.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 69
+    },
+    {
+      "type": "info",
+      "lastLine": 95,
+      "lastColumn": 90,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "cript>\n\n  <script type=\"text/javascript\" src=\"/scripts-v1905/lib/jplugins/jquery.cookie-2.1.2.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 88
+    },
+    {
+      "type": "info",
+      "lastLine": 96,
+      "lastColumn": 81,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n  <script type=\"text/javascript\" src=\"/scripts-v1905/lib/jplugins/jquery.dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 79
+    },
+    {
+      "type": "info",
+      "lastLine": 97,
+      "lastColumn": 58,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "script>\n  <script type=\"text/javascript\" src=\"/common/dfp/dfp.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 56
+    },
+    {
+      "type": "error",
+      "lastLine": 116,
+      "lastColumn": 492,
+      "firstColumn": 371,
+      "message": "The element “header” must not appear as a descendant of the “header” element.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 116,
+      "lastColumn": 492,
+      "firstColumn": 371,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 116,
+      "lastColumn": 678,
+      "firstColumn": 587,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "-wrapper\"><nav id=\"link-navigation-menu\" role=\"navigation\" aria-label=\"Principale\" aria-hidden=\"true\"><butto",
+      "hiliteStart": 10,
+      "hiliteLength": 92
+    },
+    {
+      "type": "error",
+      "lastLine": 116,
+      "lastColumn": 7034,
+      "firstColumn": 6990,
+      "message": "Duplicate ID “our_destinations”.",
+      "extract": "s</button><ul id=\"our_destinations\" aria-hidden=\"true\"><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 45
+    },
+    {
+      "type": "info",
+      "lastLine": 116,
+      "lastColumn": 5468,
+      "firstColumn": 5424,
+      "subType": "warning",
+      "message": "The first occurrence of ID “our_destinations” was here.",
+      "extract": "e</button><ul id=\"our_destinations\" aria-hidden=\"true\"><li><a",
+      "hiliteStart": 10,
+      "hiliteLength": 45
+    },
+    {
+      "type": "error",
+      "lastLine": 116,
+      "lastColumn": 8297,
+      "firstColumn": 8201,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/header/assets/images/pushs/local-stories/local-stories-fr.jpg\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 97
+    },
+    {
+      "type": "error",
+      "lastLine": 116,
+      "lastColumn": 15261,
+      "firstColumn": 15171,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/header/assets/images/pushs/new-hotels/new-hotels-fr.jpg\" alt=\"\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 91
+    },
+    {
+      "type": "info",
+      "lastLine": 128,
+      "lastColumn": 42,
+      "firstColumn": 3,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "header>\n  <main role=\"main\" class=\"mainContainer\">\n\n    ",
+      "hiliteStart": 10,
+      "hiliteLength": 40
+    },
+    {
+      "type": "info",
+      "lastLine": 147,
+      "lastColumn": 28,
+      "firstColumn": 25,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "          <h3></h3>\n",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "info",
+      "lastLine": 164,
+      "lastColumn": 28,
+      "firstColumn": 25,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "          <h3></h3>\n",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "info",
+      "lastLine": 183,
+      "lastColumn": 28,
+      "firstColumn": 25,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "          <h3></h3>\n",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "info",
+      "lastLine": 200,
+      "lastColumn": 28,
+      "firstColumn": 25,
+      "subType": "warning",
+      "message": "Empty heading.",
+      "extract": "          <h3></h3>\n",
+      "hiliteStart": 10,
+      "hiliteLength": 4
+    },
+    {
+      "type": "error",
+      "lastLine": 721,
+      "lastColumn": 129,
+      "firstColumn": 23,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "          <a href=\"/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V3891\" target=\"\">\n      ",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 739,
+      "lastColumn": 129,
+      "firstColumn": 23,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "          <a href=\"/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V0299\" target=\"\">\n      ",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 757,
+      "lastColumn": 129,
+      "firstColumn": 23,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "          <a href=\"/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2301\" target=\"\">\n      ",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 775,
+      "lastColumn": 129,
+      "firstColumn": 23,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "          <a href=\"/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V0627\" target=\"\">\n      ",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 793,
+      "lastColumn": 129,
+      "firstColumn": 23,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "          <a href=\"/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2671\" target=\"\">\n      ",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "error",
+      "lastLine": 811,
+      "lastColumn": 129,
+      "firstColumn": 23,
+      "message": "Bad value “” for attribute “target” on element “a”: Browsing context name must be at least one character long.",
+      "extract": "          <a href=\"/geo/searchZone.action?search.geoZone.geoZoneType=VI&search.geoZone.geoZoneCode=V2418\" target=\"\">\n      ",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "info",
+      "lastLine": 839,
+      "lastColumn": 33,
+      "firstColumn": 7,
+      "subType": "warning",
+      "message": "The “contentinfo” role is unnecessary for element “footer”.",
+      "extract": "-->\n      <footer role=\"contentinfo\">\n     ",
+      "hiliteStart": 10,
+      "hiliteLength": 27
+    },
+    {
+      "type": "info",
+      "lastLine": 1032,
+      "lastColumn": 85,
+      "firstColumn": 2,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": "/script>\n <script type=\"text/javascript\" src=\"/components/autocomplete/scripts-v1905/main.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 84
+    },
+    {
+      "type": "error",
+      "lastLine": 287,
+      "lastColumn": 155,
+      "firstColumn": 111,
+      "message": "The value of the “for” attribute of the “label” element must be the ID of a non-hidden form control.",
+      "extract": "ue=\"SC\" /><label for=\"identification-reserverType-boo\">Voyage",
+      "hiliteStart": 10,
+      "hiliteLength": 45
+    }
+  ]
+}

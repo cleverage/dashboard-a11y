@@ -1,0 +1,120 @@
+{
+  "url": "https://www.accorhotels.com/brands/movenpick.en.shtml",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 3908,
+      "firstColumn": 3636,
+      "subType": "warning",
+      "message": "The “type” attribute is unnecessary for JavaScript resources.",
+      "extract": ";</script><script type=\"text/javascript\" src=\"/dtagent_ICA23gprx_6000500351006.js\" data-dtconfig=\"rid=RID_-190660892|rpid=-1596381377|domain=accor.com|lastModification=1576506968297|lab=1|tp=500,50,0,1|reportUrl=dynaTraceMonitor|app=ALL|agentUri=/dtagent_ICA23gprx_6000500351006.js\"></scri",
+      "hiliteStart": 10,
+      "hiliteLength": 273
+    },
+    {
+      "type": "error",
+      "lastLine": 1,
+      "lastColumn": 4239,
+      "message": "A “charset” attribute on a “meta” element found after the first 1024 bytes.",
+      "extract": " charset=\"utf-8\"/><meta http-e",
+      "hiliteStart": 15,
+      "hiliteLength": 1
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 3626,
+      "firstColumn": 3505,
+      "subType": "warning",
+      "message": "The “banner” role is unnecessary for element “header”.",
+      "extract": "r__fixed\"><header id=\"link-navigation-primaryHeader\" class=\"link-navigation__primaryHeader link-navigation__shadowed\" role=\"banner\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 122
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 3807,
+      "firstColumn": 3721,
+      "subType": "warning",
+      "message": "The “navigation” role is unnecessary for element “nav”.",
+      "extract": "-wrapper\"><nav id=\"link-navigation-menu\" role=\"navigation\" aria-label=\"Main \" aria-hidden=\"true\"><butto",
+      "hiliteStart": 10,
+      "hiliteLength": 87
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 14325,
+      "firstColumn": 14124,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "n></span> <img data-src=\"/components/header/assets/images/pushs/europcar-offers/europcar-offers-240x200-en.jpg\" alt=\"Car rental – Europcar - Earn up to 1,000 points for every rental, plus get a 10-20% discount!\"></a></",
+      "hiliteStart": 10,
+      "hiliteLength": 202
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 38229,
+      "firstColumn": 38202,
+      "subType": "warning",
+      "message": "The “main” role is unnecessary for element “main”.",
+      "extract": "div></div><main id=\"main\" role=\"main\"><secti",
+      "hiliteStart": 10,
+      "hiliteLength": 28
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 38386,
+      "firstColumn": 38278,
+      "message": "Element “source” is missing required attribute “srcset”.",
+      "extract": "><picture><source media=\"(min-width: 1025px)\" data-srcset=\"/brands/movenpick/assets/images/master-banner-desktop.jpg\"/><sourc",
+      "hiliteStart": 10,
+      "hiliteLength": 109
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 38493,
+      "firstColumn": 38387,
+      "message": "Element “source” is missing required attribute “srcset”.",
+      "extract": "top.jpg\"/><source media=\"(min-width: 768px)\" data-srcset=\"/brands/movenpick/assets/images/master-banner-tablet.jpg\"/><img s",
+      "hiliteStart": 10,
+      "hiliteLength": 107
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 228820,
+      "firstColumn": 228797,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "</section><section class=\"social\"><div c",
+      "hiliteStart": 10,
+      "hiliteLength": 24
+    },
+    {
+      "type": "error",
+      "lastLine": 13,
+      "lastColumn": 231594,
+      "firstColumn": 231495,
+      "message": "Element “img” is missing required attribute “src”.",
+      "extract": "-wrapper\"><img data-src=\"/brands/movenpick/assets/images/poster.jpg\" alt=\"\" class=\"zoom-on__poster lazyload\"/> <butt",
+      "hiliteStart": 10,
+      "hiliteLength": 100
+    },
+    {
+      "type": "info",
+      "lastLine": 13,
+      "lastColumn": 243856,
+      "firstColumn": 243834,
+      "subType": "warning",
+      "message": "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections.",
+      "extract": "/section><section class=\"legal\"><div cl",
+      "hiliteStart": 10,
+      "hiliteLength": 23
+    }
+  ]
+}
