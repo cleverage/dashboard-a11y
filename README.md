@@ -29,6 +29,5 @@ Warning: even the best automated accessibility testing tools will only test at t
 
 <hr />
 
-Dashboard made with ❤ by by the accessibility team.<br />
-[accorhotels.webaccessibility@accor.com](accorhotels.webaccessibility@accor.com)
+Dashboard made with <span aria-hidden="true">❤</span><span class="sr-only">love</span> by Clever Age.
 

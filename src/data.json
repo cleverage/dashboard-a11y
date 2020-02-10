@@ -1,361 +1,54 @@
 [
   {
-    "site": "AccorHotels",
+    "site": "CleverAge",
     "data": [
       { 
         "name": "Home", 
-        "url": "https://www.accorhotels.com/fr/france/index.shtml"
+        "url": "https://www.clever-age.com/en/"
       },
       {
-        "name": "Web accessibility", 
-        "url": "https://www.accorhotels.com/web-accessibility/index.fr.shtml"
+        "name": "About", 
+        "url": "https://www.clever-age.com/en/about/"
       },
       {
-        "name": "Legal conditions", 
-        "url": "https://www.accorhotels.com/legal-conditions/index.fr.shtml"
+        "name": "Our expertise", 
+        "url": "https://www.clever-age.com/en/our-expertise/"
       },
       {
-        "name": "Internet sales conditions", 
-        "url": "https://www.accorhotels.com/booking/internet-sales-conditions.fr.shtml"
+        "name": "Seminars", 
+        "url": "https://www.clever-age.com/en/seminars-for-an-omni-channel-strategy/"
       },
       {
-        "name": "Sustainable development", 
-        "url": "https://www.accorhotels.com/fr/sustainable-development/index.shtml"
+        "name": "Our work", 
+        "url": "https://www.clever-age.com/en/our-work/"
       },
       {
-        "name": "Hotel", 
-        "url": "https://www.accorhotels.com/gb/hotel-0753-novotel-new-york-times-square/index.shtml"
+        "name": "Jobs", 
+        "url": "https://www.clever-age.com/en/jobs/"
       },
       {
-        "name": "Geolocation", 
-        "url": "https://www.accorhotels.com/gb/geoloc/selectdisplayzone.jshtml"
+        "name": "News", 
+        "url": "https://www.clever-age.com/en/news/"
       },
       {
-        "name": "Le club", 
-        "url": "https://www.accorhotels.com/leclub/join-loyalty-program/index.en.shtml"
+        "name": "Blog", 
+        "url": "https://blog.clever-age.com/en/"
       },
       {
-        "name": "Brand Landing", 
-        "url": "https://www.accorhotels.com/gb/brands/index.shtml"
+        "name": "Clever Age Paris", 
+        "url": "https://www.clever-age.com/en/agencies/clever-age-paris/"
       },
       {
-        "name": "Brand Hotel Ibis", 
-        "url": "https://www.accorhotels.com/pt-br/brands/hotels-ibis.shtml"
+        "name": "Clever Garden", 
+        "url": "https://www.clever-age.com/en/offers/clever-garden-en/"
       },
       {
-        "name": "Brand Hotel Movenpick", 
-        "url": "https://www.accorhotels.com/brands/movenpick.en.shtml"
+        "name": "Longchamp", 
+        "url": "https://www.clever-age.com/en/references/longchamp-making-the-website-accessible/?sector=luxury"
       },
       {
-        "name": "Contact", 
-        "url": "https://www.accorhotels.com/gb/support/contact.shtml"
-      },
-      {
-        "name": "Sitemap", 
-        "url": "https://www.accorhotels.com/fr/sitemap/index.shtml"
-      },
-      {
-        "name": "Offers", 
-        "url": "https://www.accorhotels.com/fr/france/promotions-offers/index.shtml"
-      },
-      {
-        "name": "Offers - city trip", 
-        "url": "https://www.accorhotels.com/fr/promotions-offers/week-end-offers/owm000651-offre-speciale-citytrip-europe.shtml"
-      },
-      {
-        "name": "Register", 
-        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/register"
-      },
-      {
-        "name": "Login", 
-        "url": "https://www.accorhotels.com/authentication/index.fr.shtml#/login"
-      },
-      { 
-        "name": "HotelF1 - home", 
-        "url": "https://hotelf1.accorhotels.com/home/index.fr.shtml"
-      },
-      {
-        "name": "Mercure - home", 
-        "url": "https://mercure.accorhotels.com/fr/france/index.shtml"
-      },
-      {
-        "name": "Novotel - home", 
-        "url": "https://novotel.accorhotels.com/fr/france/index.shtml"
-      },
-      {
-        "name": "Ibis - home", 
-        "url": "https://ibis.accorhotels.com/brasil/index.pt-br.shtml"
-      },
-      {
-        "name": "Sofitel - home", 
-        "url": "https://sofitel.accorhotels.com/fr/france/index.shtml"
-      },
-      {
-        "name": "Sofitel - hotel", 
-        "url": "https://sofitel.accorhotels.com/gb/hotel-2185-sofitel-new-york/index.shtml"
-      },
-      {
-        "name": "Pullman - home", 
-        "url": "https://pullman.accorhotels.com/fr/france/index.shtml"
-      },
-      {
-        "name": "Restaurants - home", 
-        "url": "https://restaurants.accorhotels.com/united-kingdom/index.en.shtml"
-      },
-      {
-        "name": "Travel pros - home", 
-        "url": "https://travelpros.accorhotels.com/gb/northamerica/index.shtml"
-      },
-      {
-        "name": "Business travel - home", 
-        "url": "https://businesstravel.accorhotels.com/gb/united-kingdom/index.shtml"
-      },
-      {
-        "name": "Meetings - home", 
-        "url": "https://meetings.accorhotels.com/united-kingdom/index.en.shtml"
-      }
-    ]
-  },
-  {
-    "site": "Swisshôtel",
-    "data": [
-      { 
-        "name": "Home",
-        "url": "https://www.swissotel.com"
-      },
-      { 
-        "name": "Web accessibility",
-        "url": "https://www.swissotel.com/web-accessibility/"
-      },
-      { 
-        "name": "Hotel",
-        "url": "https://www.swissotel.com/hotels/singapore-stamford/"
-      },
-      { 
-        "name": "Hotel - location",
-        "url": "https://www.swissotel.com/hotels/bangkok-ratchada/explore-hotel/"
-      },
-      { 
-        "name": "Hotel - dining",
-        "url": "https://www.swissotel.com/hotels/singapore-merchant-court/dining/ellenborough-market-cafe"
-      },
-      { 
-        "name": "Hotel - spa",
-        "url": "https://www.swissotel.com/hotels/singapore-stamford/spa-fitness/"
-      },
-      { 
-        "name": "Offers",
-        "url": "https://www.swissotel.com/offers"
-      },
-      { 
-        "name": "Meetings event",
-        "url": "https://www.swissotel.com/meetings-events"
-      },
-      { 
-        "name": "Privacy and terms",
-        "url": "https://www.swissotel.com/privacy-and-terms"
-      },
-      { 
-        "name": "Sitemap",
-        "url": "https://www.swissotel.com/sitemap"
-      },
-      { 
-        "name": "Le club",
-        "url": "https://www.swissotel.com/leclub/join-loyalty-program/"
-      },
-      { 
-        "name": "Destinations",
-        "url": "https://www.swissotel.com/destinations/"
-      },
-      { 
-        "name": "Careers",
-        "url": "https://www.swissotel.com/careers/"
-      },
-      { 
-        "name": "Tunnel step 1",
-        "url": "https://www.swissotel.com/reservations/check-availability/"
-      },
-      { 
-        "name": "About us",
-        "url": "https://www.swissotel.com/about-swissotel/"
-      },
-      { 
-        "name": "Newsletter",
-        "url": "https://www.swissotel.com/contact-us"
-      },
-      { 
-        "name": "Discover sustainability",
-        "url": "https://www.swissotel.com/discover/sustainability/"
-      },
-      { 
-        "name": "Discover",
-        "url": "https://www.swissotel.com/purovel/"
-      },
-      { 
-        "name": "Promo Europe",
-        "url": "https://www.swissotel.com/promo/europe/"
-      }
-    ]
-  },
-  {
-    "site": "Raffles",
-    "data": [
-      { 
-        "name": "Home",
-        "url": "https://www.raffles.com"
-      },
-      { 
-        "name": "Web accessibility",
-        "url": "https://www.raffles.com/web-accessibility/"
-      },
-      { 
-        "name": "Hotel",
-        "url": "https://www.raffles.com/singapore/"
-      },
-      { 
-        "name": "Hotel - location",
-        "url": "https://www.raffles.com/singapore/location/"
-      },
-      { 
-        "name": "Hotel - dining",
-        "url": "https://www.raffles.com/singapore/dining/long-bar/"
-      },
-      { 
-        "name": "Hotel - spa",
-        "url": "https://www.raffles-tr.com/istanbul/spa/"
-      },
-      { 
-        "name": "Offers",
-        "url": "https://www.raffles.com/makkah/offers/hotel-offers/"
-      },
-      { 
-        "name": "Meetings event",
-        "url": "https://www.raffles.com/events/meeting-and-events/"
-      },
-      { 
-        "name": "Privacy and terms",
-        "url": "https://www.raffles.com/privacy/"
-      },
-      { 
-        "name": "Sitemap",
-        "url": "https://www.raffles.com/site-map/"
-      },
-      { 
-        "name": "Le club",
-        "url": "https://www.raffles.com/leclub/join-loyalty-program/"
-      },
-      { 
-        "name": "Destinations",
-        "url": "https://www.raffles.com/destinations/"
-      },
-      { 
-        "name": "Careers",
-        "url": "https://www.raffles.com/careers/"
-      },
-      { 
-        "name": "Tunnel step 1",
-        "url": "https://www.raffles.com/reservations/check-availability/"
-      },
-      { 
-        "name": "About us",
-        "url": "https://www.raffles.com/about-raffles/"
-      },
-      { 
-        "name": "Newsletter",
-        "url": "https://www.raffles.com/offers/email-offers/"
-      },
-      { 
-        "name": "Partners",
-        "url": "https://www.raffles.com/partners/"
-      },
-      { 
-        "name": "Gallery",
-        "url": "https://www.raffles.com/gallery/"
-      },
-      { 
-        "name": "Raffles life - Gin",
-        "url": "https://www.raffles.com/raffles-life/raffles-1915-gin/"
-      }
-    ]
-  },
-  {
-    "site": "Fairmont",
-    "data": [
-      { 
-        "name": "Home",
-        "url": "https://www.fairmont.com/"
-      },
-      { 
-        "name": "Web accessibility",
-        "url": "https://www.fairmont.com/web-accessibility/"
-      },
-      { 
-        "name": "Hotel",
-        "url": "https://www.fairmont.com/banff-springs/"
-      },
-      { 
-        "name": "Hotel - location",
-        "url": "https://www.fairmont.com/banff-springs/map/mapanddirections/"
-      },
-      { 
-        "name": "Hotel - dining",
-        "url": "https://www.fairmont.com/banff-springs/dining/"
-      },
-      { 
-        "name": "Hotel - spa",
-        "url": "https://www.fairmont.com/banff-springs/willow-stream/"
-      },
-      { 
-        "name": "Offers",
-        "url": "https://www.fairmont.com/offers/"
-      },
-      { 
-        "name": "Meetings event",
-        "url": "https://www.fairmont.com/meetings-weddings/"
-      },
-      { 
-        "name": "Privacy and terms",
-        "url": "https://www.fairmont.com/help/terms-and-conditions/"
-      },
-      { 
-        "name": "Sitemap",
-        "url": "https://www.fairmont.com/search/"
-      },
-      { 
-        "name": "Le club",
-        "url": "https://www.fairmont.com/leclub/join-loyalty-program/"
-      },
-      { 
-        "name": "Destinations",
-        "url": "https://www.fairmont.com/destinations/"
-      },
-      { 
-        "name": "Careers",
-        "url": "https://www.fairmont.com/careers/"
-      },
-      { 
-        "name": "Tunnel step 1",
-        "url": "https://www.fairmont.com/reservations/check-availability/"
-      },
-      { 
-        "name": "About us",
-        "url": "https://www.fairmont.com/about-us/"
-      },
-      { 
-        "name": "Newsletter",
-        "url": "https://www.fairmont.com/email/email-offers/"
-      },
-      { 
-        "name": "Contact us",
-        "url": "https://www.fairmont.com/contact-us/morenumbers/"
-      },
-      { 
-        "name": "Residences",
-        "url": "https://www.fairmont.com/residences/"
-      },
-      { 
-        "name": "Affiliate",
-        "url": "https://www.fairmont.com/about-us/programs-partners/hotel-partners/affiliatefaq/"
+        "name": "Brief us", 
+        "url": "https://www.clever-age.com/en/brief-us/"
       }
     ]
   }

@@ -1,0 +1,103 @@
+[
+  {
+    "site": "CleverAge",
+    "data": [
+      {
+        "name": "Home",
+        "url": "https://www.clever-age.com/en/",
+        "results": {
+          "w3c": 6,
+          "axe": 3
+        }
+      },
+      {
+        "name": "About",
+        "url": "https://www.clever-age.com/en/about/",
+        "results": {
+          "w3c": 7,
+          "axe": 8
+        }
+      },
+      {
+        "name": "Our expertise",
+        "url": "https://www.clever-age.com/en/our-expertise/",
+        "results": {
+          "w3c": 6,
+          "axe": 2
+        }
+      },
+      {
+        "name": "Seminars",
+        "url": "https://www.clever-age.com/en/seminars-for-an-omni-channel-strategy/",
+        "results": {
+          "w3c": 9,
+          "axe": 7
+        }
+      },
+      {
+        "name": "Our work",
+        "url": "https://www.clever-age.com/en/our-work/",
+        "results": {
+          "w3c": 6,
+          "axe": 4
+        }
+      },
+      {
+        "name": "Jobs",
+        "url": "https://www.clever-age.com/en/jobs/",
+        "results": {
+          "w3c": 19,
+          "axe": 5
+        }
+      },
+      {
+        "name": "News",
+        "url": "https://www.clever-age.com/en/news/",
+        "results": {
+          "w3c": 6,
+          "axe": 4
+        }
+      },
+      {
+        "name": "Blog",
+        "url": "https://blog.clever-age.com/en/",
+        "results": {
+          "w3c": 6,
+          "axe": 4
+        }
+      },
+      {
+        "name": "Clever Age Paris",
+        "url": "https://www.clever-age.com/en/agencies/clever-age-paris/",
+        "results": {
+          "w3c": 6,
+          "axe": 7
+        }
+      },
+      {
+        "name": "Clever Garden",
+        "url": "https://www.clever-age.com/en/offers/clever-garden-en/",
+        "results": {
+          "w3c": 6,
+          "axe": 4
+        }
+      },
+      {
+        "name": "Longchamp",
+        "url": "https://www.clever-age.com/en/references/longchamp-making-the-website-accessible/?sector=luxury",
+        "results": {
+          "w3c": 6,
+          "axe": 6
+        }
+      },
+      {
+        "name": "Brief us",
+        "url": "https://www.clever-age.com/en/brief-us/",
+        "results": {
+          "w3c": 9,
+          "axe": 3
+        }
+      }
+    ]
+  }
+]
