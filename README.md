@@ -29,5 +29,5 @@ Warning: even the best automated accessibility testing tools will only test at t
 
 <hr />
 
-Dashboard made with <span aria-hidden="true">❤</span><span class="sr-only">love</span> by Clever Age.
+Dashboard made with love by Clever Age.
 
